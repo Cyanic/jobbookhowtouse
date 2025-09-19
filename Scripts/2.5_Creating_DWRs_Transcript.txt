@@ -1,0 +1,69 @@
+Welcome back to the Job Book How to Use Series.
+
+This series is for staff who are working with Job Book daily. 
+
+If you’re joining mid-series, start at the beginning since each video builds on the one before it.
+
+In the last section, I showed you how to create clients in Job Book. 
+In this video, I’ll show you how to create jobs in Job Book.
+
+Every project your company works on should be created as a job in Job Book. 
+Jobs tie together clients, offices, project managers, and line items.
+
+Let’s walk through creating a job.
+
+
+In this video, I’ll show you how to create Daily Work Records, or DWRs, in Job Book.
+
+Daily Work Records are how your staff record their time, equipment, and materials used on a job. 
+They replace traditional timesheets and make it easy to track job progress in real time.
+
+Let’s create a DWR.
+
+From the dashboard, click the Navigate button at the top left.
+Click on Daily Work Records.
+Then click Create.
+
+The first field is Job. 
+Select the job this record is for. 
+For example, “Boundary Survey – 5th Avenue.”
+
+Next is the Date field. 
+Enter the date the work was done. 
+For example, today’s date.
+
+Now select the Employee. 
+Pick the staff member who performed the work. 
+For example, Charlie Chief.
+
+Now let’s add line items. 
+Click Add under Labour. 
+Select the appropriate labour line item, such as Survey Party Chief. 
+Enter the number of hours worked, for example 8 hours.
+
+Next, add Equipment and Materials if applicable. 
+Click Add under Equipment & Materials. 
+Choose the Robotic Total Station and enter 8 hours of usage.
+
+You can also add Expenses at this stage. 
+Click Add under Expenses. 
+Choose the appropriate expense item, such as Gas, and enter the amount spent, for example $45.
+
+Once all information is entered, click Save.
+
+Your DWR is now recorded in the system. 
+It will appear in the DWR Approval Backlog, waiting for review by a project manager.
+
+Why are DWRs important?
+- They replace timesheets and capture both labour and equipment usage.  
+- They ensure all project costs are tracked in one place.  
+- They provide real-time visibility into project burn and progress.  
+
+That’s how you create Daily Work Records in Job Book.
+
+In the next video, I’ll show you how to create Expenses in Job Book.
+
+
+Unlike timesheets, DWRs not only record your time but also record your equipment and materials usage. 
+Another unique feature of DWRs in Job Book is you can have one person record labour time for multiple people.
+As an example you can have a Party Cheif record time for himself and the Rod Man. 

@@ -1,0 +1,45 @@
+Welcome back to the Job Book How to Use Series.
+
+In this video, I’ll show you how to create Expenses in Job Book.
+
+Expenses are how staff record out-of-pocket costs that need to be reimbursed. 
+They are tied to jobs so you can track all costs in one place.
+
+Let’s create an expense.
+
+From the dashboard, click the Navigate button at the top left.
+Click on Expenses.
+Then click Create.
+
+The first field is Job. 
+Select the job this expense relates to. 
+For example, “Boundary Survey – 5th Avenue.”
+
+Next is the Date field. 
+Enter the date the expense was incurred.
+
+Now select the Employee. 
+This is the staff member submitting the expense. 
+For example, Ron Rodman.
+
+Next, choose the Expense Item. 
+These are set up by administrators in the system. 
+Let’s pick “Accommodations.”
+
+Enter the Expense Amount. 
+For example, $125.
+
+Optionally, you can add Notes, such as “Hotel stay for field work.”
+
+Click Save to record the expense.
+
+Your expense is now created and will appear in the Expense Approval Backlog, waiting for review by a project manager.
+
+Why are expenses important?
+- They ensure staff are reimbursed accurately and promptly.  
+- They allow all job-related costs to be tracked in one place.  
+- Approved expenses can be included on invoices to clients when appropriate.  
+
+That’s how you create Expenses in Job Book.
+
+In the next video, I’ll show you how to use the Active Job Dashboard as a beginner’s guide.

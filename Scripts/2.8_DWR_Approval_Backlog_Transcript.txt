@@ -1,0 +1,45 @@
+Welcome back to the Job Book How to Use Series.
+
+In this video, I’ll show you how to use the DWR Approval Backlog in Job Book.
+
+The DWR Approval Backlog is where project managers review and approve Daily Work Records submitted by staff. 
+This ensures that time, equipment, and expenses are accurate before they are used for reporting and invoicing.
+
+Let’s take a look.
+
+From the dashboard, locate the DWR Approval Backlog card on the right-hand side. 
+Click it to open the backlog.
+
+Here you’ll see a list of all DWRs that are waiting for approval. 
+Each row shows the Job, Employee, Date, and a summary of hours and expenses.
+
+To review a DWR, click on it.
+
+Inside the DWR, you’ll see details of the work performed:
+- The employee who submitted it.  
+- The job it is linked to.  
+- The labour hours recorded.  
+- Any equipment or materials used.  
+- Any expenses submitted with this DWR.  
+
+As a project manager, your job is to confirm that the information is correct. 
+If it looks good, click Approve. 
+Once approved, the DWR is locked and ready for payroll, reporting, and invoicing.
+
+If something is incorrect, you can click Reject. 
+When rejecting, it’s best practice to leave a comment so the employee knows what to fix. 
+For example: “Please update hours to match site log.”
+
+You can also Edit a DWR if you have permission, but generally it’s better to send it back for correction.
+
+Approved DWRs disappear from the backlog and move into the system permanently. 
+Rejected ones return to the employee for correction and resubmission.
+
+Why is the DWR Approval Backlog important?
+- It ensures accuracy of labour and equipment records before they affect invoices.  
+- It gives project managers control over what enters the system.  
+- It prevents billing errors and keeps reports reliable.  
+
+That’s how you use the DWR Approval Backlog in Job Book.
+
+In the next video, I’ll show you how to use the Expense Approval Backlog.

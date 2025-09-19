@@ -1,0 +1,44 @@
+Welcome back to the Job Book How to Use Series.
+
+In this video, I’ll show you how to import invoices from Job Book into your accounting system.
+
+While Job Book generates invoices for your jobs, best practice is to transfer those invoices into your company’s accounting system. 
+This keeps your financial records consistent and ensures everything is tracked properly for bookkeeping and taxes.
+
+Let’s walk through the process.
+
+From the dashboard, click the Navigate button at the top left. 
+Click on Invoices.
+
+At the top of the Invoices screen, you’ll see an option to Export Invoices. 
+Click it to open the export tool.
+
+Here you can select which invoices to export. 
+You can filter by date range, client, or job. 
+For example, select all invoices from the past month.
+
+Once you’ve selected the invoices, choose your export format. 
+Job Book supports common accounting systems, including:
+- QuickBooks  
+- Sage  
+- Xero  
+
+Pick the format your company uses.
+
+Click Export, and Job Book will generate a file in the correct format for your accounting system. 
+Save the file to your computer.
+
+Now open your accounting system. 
+Each system has its own import process, but generally you’ll go to File → Import, or a similar menu, and select the file you exported from Job Book.
+
+Once imported, the invoices from Job Book will appear in your accounting system as if they had been created there directly. 
+This means your clients, amounts, and line items will all carry over.
+
+Why is this process important?
+- It eliminates double entry, saving time and reducing errors.  
+- It ensures your accounting system has the most accurate and up-to-date records.  
+- It keeps your invoicing process seamless from field work all the way through to accounting.  
+
+That’s how you import invoices from Job Book into your accounting system.
+
+In the next and final video, I’ll show you the next steps and advanced features available in Job Book.

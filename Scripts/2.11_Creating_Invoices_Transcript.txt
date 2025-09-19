@@ -1,0 +1,53 @@
+Welcome back to the Job Book How to Use Series.
+
+In this video, I’ll show you how to create invoices in Job Book.
+
+Invoices are how you bill your clients for the work your team has completed. 
+They pull together approved DWRs, expenses, and fixed price items, so billing is accurate and easy.
+
+Let’s walk through the process.
+
+From the dashboard, click the Navigate button at the top left. 
+Click on Invoices. 
+Then click Create.
+
+The first field is Client. 
+Select the client you want to invoice. 
+For example, “Springfield Engineering Ltd.”
+
+Next, choose the Job. 
+Pick the job linked to this client. 
+For example, “Boundary Survey – 5th Avenue.”
+
+Job Book will automatically pull in all approved DWRs, expenses, and line items associated with this job. 
+You’ll see them listed under the invoice details.
+
+Review the line items carefully:
+- Labour items such as hours worked by your staff.  
+- Equipment and materials used on the job.  
+- Approved expenses linked to this job.  
+- Fixed price items for lump-sum services.  
+
+If needed, you can edit quantities or rates directly on the invoice. 
+For example, adjusting the number of hours or updating a fixed price amount.
+
+You can also add new line items manually if something wasn’t captured earlier. 
+For example, “Third Party Charges.”
+
+Once everything looks correct, add Invoice Notes if needed. 
+These are visible to the client and are useful for extra details, such as “Includes field work completed in March.”
+
+At the top of the invoice, you’ll see the Invoice Number and Date. 
+Job Book will automatically generate these, but you can edit them if your company has a different numbering system.
+
+When you’re satisfied, click Save. 
+The invoice is now created and will appear in the Invoice Process Backlog for review.
+
+Why is this process important?
+- Invoices only include approved DWRs and expenses, ensuring accuracy.  
+- Administrators and project managers can review invoices before sending.  
+- Clients receive clear, professional invoices directly from the system.  
+
+That’s how you create invoices in Job Book.
+
+In the next video, I’ll show you how to import invoices from Job Book into your accounting system.

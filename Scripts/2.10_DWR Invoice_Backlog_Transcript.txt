@@ -1,0 +1,43 @@
+Welcome back to the Job Book How to Use Series.
+
+In this video, I’ll show you how to use the DWR Invoice Backlog in Job Book.
+
+The DWR Invoice Backlog is where administrators and project managers review invoices before they are finalized and sent to clients. 
+It ensures accuracy and prevents billing mistakes.
+
+Let’s take a look.
+
+From the dashboard, locate the Invoice Process Backlog card on the right-hand side. 
+Click it to open the backlog.
+
+Here you’ll see a list of all invoices that are waiting for review. 
+Each row shows the Job, Client, Invoice Number, Date, and Invoice Amount.
+
+To review an invoice, click on it.
+
+Inside the invoice, you’ll see all the details:
+- The client and job information.  
+- The line items being billed, including labour, equipment, fixed price items, and expenses.  
+- The total invoice amount.  
+- The status of each line item, whether approved or pending.  
+
+As an administrator or project manager, your role is to confirm that the invoice is correct. 
+Check that line items match the work performed and that expenses have been approved. 
+If everything looks correct, click Approve. 
+The invoice will then be ready to finalize and send to the client.
+
+If you find an error, you can edit the invoice directly or reject it for correction. 
+When rejecting, add a note so the person who created it knows what to fix. 
+For example: “Incorrect rate applied to Survey Party Chief line item.”
+
+Approved invoices disappear from the backlog and move into the system as finalized invoices. 
+Rejected invoices return for correction.
+
+Why is the Invoice Process Backlog important?
+- It ensures invoices are accurate before clients receive them.  
+- It prevents billing disputes and delays.  
+- It keeps your invoicing workflow organized and transparent.  
+
+That’s how you use the Invoice Process Backlog in Job Book.
+
+In the next video, I’ll show you how to create invoices in Job Book.

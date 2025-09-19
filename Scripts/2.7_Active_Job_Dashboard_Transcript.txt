@@ -1,0 +1,43 @@
+Welcome back to the Job Book How to Use Series.
+
+In this video, I’ll give you a beginner’s guide to using the Active Job Dashboard in Job Book.
+
+The Active Job Dashboard is your command center. 
+It shows all your ongoing jobs in one place and lets you quickly check progress, costs, and outstanding items.
+
+When you first log in to Job Book, the dashboard is front and center. 
+Let’s take a closer look at how it works.
+
+Each row in the Active Job Dashboard represents a job. 
+You’ll see the Job Name, Client, Office, and Job Number right at the start.
+
+Next, you’ll see summary fields showing job status:
+- Hours recorded so far.
+- Expenses linked to the job.
+- Percentage of the job budget used, also called burn.
+- Any backlog items waiting for approval.
+
+You can filter the dashboard by office, client, or job status. 
+This is helpful if you manage many jobs and only want to focus on a specific group.
+
+Clicking on a job opens the Job Overview screen. 
+Here you can see all the details of that job: line items, assigned employees, DWRs, expenses, and invoices. 
+This is where project managers spend most of their time monitoring jobs.
+
+One of the most useful features is the burn indicator. 
+This shows you in real time how much of the job’s budget has been consumed. 
+Green means you’re within budget. 
+Yellow is approaching the limit. 
+Red means the job is over budget.
+
+The Active Job Dashboard also highlights if there are outstanding DWRs or expenses that need approval. 
+This keeps projects moving without delays.
+
+Why is the Active Job Dashboard important?
+- It gives project managers real-time visibility on job progress.  
+- It centralizes labour, expenses, and invoices in one place.  
+- It helps catch problems early, before they impact profitability.  
+
+That’s the beginner’s guide to the Active Job Dashboard in Job Book.
+
+In the next video, I’ll show you how to work with the DWR Approval Backlog.

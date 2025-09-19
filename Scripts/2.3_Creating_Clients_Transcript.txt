@@ -1,0 +1,147 @@
+Welcome back to the Job Book How to Use Series.
+
+This series is for staff who are working with Job Book daily. 
+
+If you’re joining mid-series, start at the beginning since each video builds on the one before it.
+
+In the last section, I showed you the dashboard. 
+In this video, I’ll show you how to create clients in Job Book.
+
+Before you can create jobs in Job Book, you first need to set up a client. Every job in Job Book must be tied to a client record.
+
+Let’s go ahead and create a client in the system.
+
+As you may remember from the Dashboard Overview video only a person with the role of Administror or Job Coordinator is able to create a client.
+So I'll log into into the system as an Administrator role.
+
+From the dashboard, click the Create New button inside the Clients Card at the top left.
+-- Click Create New --
+
+The first tab is the client tab and the first field is Client Name. 
+As you may remember from the Job Book Setup Series, any field with a red star is required.
+The Client Name is usually the company name. For residential work, use the homeowner’s name.
+
+Let’s enter the client name: “Springfield Engineering Ltd.”
+
+The rest of the fields in the Client tab are not required to make a client but let's go through them anyhow. 
+
+Next is Website. Let's enter: "www.springfield.com"
+
+Then Client Types. Here you can tag this customer with multiple premade types. Doing so will allow you to filter clients by type.
+I'll select: Construction and Engineers
+
+After that, Rate Sheet. You can set a default Rate Sheet to this customer such that whenever you create a job for this customer it will default to this rate sheet. 
+Assuming you've watched the Job Book Setup Series and have setup some rate sheets in your system you should be able to select a Rate Sheet to apply to this customer. 
+In my case I'll pick: "Standard Rates"
+
+Next is Payment Terms. You can choose a preset option or type in custom terms. Payment terms are for reference only and don’t affect system behavior.
+I'll select: "Account - 30" 
+That way I’ll know to follow up if the customer hasn’t paid within 30 days.
+
+Then the Notes field. You can type multiple lines here as notes on the customer.
+I'll leave this blank for now. 
+
+There is an Attachments button where you can upload files pertaining to the customer. 
+I'll leave this blank for now. 
+
+Let's move to the Contacts tab. 
+-- Click Contacts tab --
+
+Here you can add as many contacts to the client as you like. 
+-- Click Add --
+
+You’ll see that First Name and Last Name are required. The other fields are optional.
+I'll go ahead and fill this out. 
+
+If this client has more than one contact simply add more by clicking on the Add button on the bottom.
+-- Click Add --
+
+I'll go ahead and fill the second contact out also.
+
+Once you've filled out the contacts scroll up and click on the the Addresses tab.
+-- Click Addresses --
+
+Here you can add billing addresses for invoices. These are not job site addresses.
+Click the Add button to add an address to this client.
+-- Click Add --
+
+The first field is the Location Name and is required. The rest are not. 
+I'll go ahead and fill this out.
+
+If your customer has multiple offices or mailing addresses you would add them here. 
+I'll go ahead and add another location to this client. 
+
+Once you have that completed scroll down to the Save button and click save.
+-- Click Save --
+
+If you missed a required field the system will highlight it in red. If you don't see the red field check the other tabs.
+
+Once all the required fields are set you should be able to save the client and you will go back to the dashboard.
+
+Don't worry, if you made any mistakes creating the client you can always edit them. 
+
+To edit a client, from the dashboard, click the Explore button inside the Clients Card at the top left.
+-- Click Explore --
+
+You'll see the Client Item List. It defaults to the Active clients tab.
+If you want to see all your clients you can click on the All tab. 
+This will show you all the active and inactive clients in the system. 
+
+To edit a specific client, simply click the client.
+-- Click Client --
+
+From the client display screen you can edit, export to PDF, delete, or return to the client list.
+Since referenced clients can’t be deleted, the best practice is to deactivate them instead.
+More on that later. 
+
+To Edit the client click the Edit button
+-- Click Edit --
+
+Notice this client now has both a System Client Number and a Client Number Alias.
+
+The Client Number Alias can be edited to any unique text you like. 
+
+You can go ahead and edit any field you like. 
+
+At the bottom of the client there is an Active checkbox. 
+
+Because the system does not allow referenced data to be deleted best practice is to deactivate Clients instead of deleting them.
+
+Once all your edits are complete remember to click the Save button.
+-- Click Save --
+
+This will take you back to the Client Item List.
+
+I'm going to go ahead and create a few more clients in the system.
+Feel free to pause the video and create your own clients.
+
+We’ll use these clients throughout the rest of the How to Use Job Book series and in future training videos.
+
+So how are Clients used in the system?
+
+Like we said every job in Job Book must be tied to a client record.
+
+When exporting invoices to your accounting system, all invoices need to include the client's name and address.
+
+If you’re interested in exporting 
+invoices to your accounting system, 
+keep watching this series.
+
+For information on 
+Client Reports, 
+see our 
+Job Book Reporting Guide series.
+
+Or click on the link below 
+in the description to learn more.
+
+That’s everything you need to know to get started with creating and managing clients in Job Book.
+
+In the next video, 
+I’ll show you how to
+create Jobs in Job Book. 
+
+After that, we’ll cover creating DWRs.
+
+Thanks for watching!
+and I'll see you in the next video!

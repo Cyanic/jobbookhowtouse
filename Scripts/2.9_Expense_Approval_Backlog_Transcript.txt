@@ -1,0 +1,43 @@
+Welcome back to the Job Book How to Use Series.
+
+In this video, I’ll show you how to use the Expense Approval Backlog in Job Book.
+
+The Expense Approval Backlog is where project managers review and approve expenses submitted by staff. 
+This ensures that reimbursements are accurate and that client billing is correct when expenses are passed through.
+
+Let’s take a look.
+
+From the dashboard, locate the Expense Approval Backlog card on the right-hand side. 
+Click it to open the backlog.
+
+Here you’ll see a list of all expenses that are waiting for approval. 
+Each row shows the Job, Employee, Date, Expense Item, and Amount.
+
+To review an expense, click on it.
+
+Inside the expense record, you’ll see details including:
+- The employee who submitted it.  
+- The job it is linked to.  
+- The expense category, such as accommodations or mileage.  
+- The cost entered by the employee.  
+- Any notes attached to the expense.  
+
+As a project manager, your role is to confirm the expense is legitimate and accurate. 
+If it looks correct, click Approve. 
+Once approved, the expense is locked and ready for reporting and invoicing.
+
+If something is incorrect, you can click Reject. 
+When rejecting, it’s best practice to leave a comment so the employee knows what to fix. 
+For example: “Please attach a receipt.”
+
+Approved expenses disappear from the backlog and are stored permanently in the job record. 
+Rejected ones return to the employee for correction and resubmission.
+
+Why is the Expense Approval Backlog important?
+- It ensures that reimbursements are valid before they are processed.  
+- It keeps invoices accurate when passing expenses to clients.  
+- It maintains a clear audit trail of project costs.  
+
+That’s how you use the Expense Approval Backlog in Job Book.
+
+In the next video, I’ll show you how to use the Invoice Process Backlog.
