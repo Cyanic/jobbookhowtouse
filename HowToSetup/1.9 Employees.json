@@ -1,0 +1,30 @@
+{
+    "GUID": "CD8F44BA-6B4A-4060-8DAD-3681B62A08B4",
+    "chapters": [
+        "\n\n\n\n\nWelcome back to our \nJob Book \nsetup series. \n\nIf you’re just joining \nus, I recommend \nstarting from the \nbeginning as each \nvideo builds on the\nlast.",
+        "In the last section\nI showed you how to \ncreate users and\nassign them Roles\nin Job Book.\n\nIn this section we’ll \nlearn how to create \nEmployees in the \nsystem.",
+        "Let’s clarify the \ndifference between \nEmployees and \nUsers in Job Book.\n\nIn the last section we\ncreated users. If you \nrecall a user is \nsomeone who can \nlog into the Job Book\nsystem. \n\nAn Employee is a \nperson you can \nassign work to, \nrecord time for, \nor reference in the \nsystem--whether or \nnot they have a login",
+        "In Job Book\nYou assign jobs to an \nemployee profile, not \na user account. \n\nTimesheets are also \nlinked to employee \nprofiles. \n\nFor example, this \nallows, a Party \nChief to create \ntimesheets for staff \nwho don’t have login \naccess \nbut still need \ntheir time recorded. \n\nLet’s create some \nemployees so you \ncan see how it \nworks.",
+        "\n\n\n\n\n\nFrom the dashboard\n\nClick the Setting\nbutton at the top \nright.\n\nThen Click on\nEmployee Profiles.\n\nThen Click the \nCreate button.\n\nThe first field is the\n“Employee Name”\n\nThis is the name \neveryone will see \nacross the system.",
+        "So, let’s fill in the \nname of an\nemployee. \n(Fill in: Charlie C)",
+        "The next field is a button called \n“Select User”. \nClick the button.\n\nYou are going to see \nall the users we \ncreated in the \nprevious video.\n\nSelect \n“Charlie Chief”\n\nNote the Employee \nName does not have \nto match the User \nName.",
+        "Below the \"Select User\" button are 4 fields\n\nOffice,\nLeave Job,\nLeave Manger,\nand Code\n\nWe are going to leave these blank for now. \n\nOffice, Leave Job, and Leave manager are all used in our \"Leave Requests\" module\n\nWe have a seiers on the leave requests module you can find in the description below. ",
+        "The Employee Code \nfield is used by larger \norganizations for \npayroll and can be \nleft blank too.",
+        "The next field is the\n“Active” checkbox.\n\nThe Active checkbox \nis enabled by default. \nBest practice for \nremoving an \nemployee is to \ndeactivate them \nrather than deleting, \nso historical data is \npreserved.",
+        "Click Save to create \nthe employee profile. \n\nIf linked to a User, \nthe employee is now \nassociated with that \nUser account. \n“HIT SAVE” ",
+        "Notice the new \nemployee is now\nin the Employee \nProfiles list. \n\nTo make \nchanges later, select \nthe employee and \nclick Edit.",
+        "In the earlier example, \nCharlie C was linked \nto Charlie Chief the \nuser. \n\nWhen people  are in \nthe Job Book system \nthey will only see the\nemployee profiles.\n\nIn this case they will \nsee “Charlie C”, \nthey will  not see \n“Charlie Chief”",
+        "If you want to record \ntime for someone but \ndon’t want them to log \ninto the system: \nFollow these steps.",
+        "Assuming you are\nalready in the\nEmployee\nProfiles\n\nClick the\nCreate button.\n\nThis time set the\n“Employee Name” to:\nTerry T\n\nWhen it\ncomes to the\n“Employee User” \ndo not set that to\nanything. \n\nThen click the save button,",
+        "that will create the\nemployee, \nTerry T,\nin the Job Book \nsystem and because\nyou did not assign\nTerry to any user,\nTerry will not be\nable to log into the\nsystem. \n\nBut users like \nCharlie Chief \ncan still log in \nand record\ntimesheets for Terry, \n\neven though Terry\ndoesn’t have a user \naccount.",
+        "I’ll now create \nseveral more \nemployees so we \nhave sample data for \nupcoming videos.",
+        "\n\n\n\n\n\nOk as you can see,\nI’ve created a bunch\nof Employees.\n\nEmployees in Job \nBook are names of \npeople that you can \nuse to record \ntimesheets, or sign \ndocuments.",
+        "If Employees are\nLinked to a User: \nThat means they \nCan log in, \ncreate timesheets, \nand sign documents.\n\nIf Employees are not:\nlinked to a User: \nThat means they\nCannot log in, \nbut can be assigned \nwork and have time \nrecorded to them. ",
+        "In Job Book \nyou can even have \nUsers that aren't \nlinked with \nEmployees.\n\nThose people can log\ninto Job Book\nbecause they have a \nuser account \nbut they can not \nbe used in the \nsystem to record \ntime or sign \ndocuments -CUT-",
+        "For more on \ntimesheets, \nwatch the Job Book \nHow to Use Guide series. \n\nFor information on \nreports, see the \nJob Book \nReporting Guide \nseries. \n\nLinks are in the video description below.",
+        "In the next video, \nwe’ll wrap up the Job \nBook Setup Guide \nand show you where \nto find additional help \nand resources.\n\nThanks for watching!\nAnd see you in the\nnext video!",
+        ""
+    ],
+    "friendlyName": "1.09",
+    "index": 7
+}

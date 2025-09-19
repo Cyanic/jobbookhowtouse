@@ -1,0 +1,26 @@
+{
+    "GUID": "14589F80-8B9F-4DC8-AD61-76AA11DED62A",
+    "chapters": [
+        "\n\n\n\n\nThis is a video series on setting up \nJob Book \nIf you're joining us mid-series, \nI recommend starting from the beginning, \nsince each video builds on the last.\n\nIn the last section I showed you how to setup your\nRate Sheets in \nJob Book.\n\nIn this section \nwe’ll be looking at creating Expense \nItems in the \nJob Book system, \nand seeing how they work.",
+        "Let’s look at what Expense Items are and how they fit into the system.\n\nExpense items are \nthings your staff \npersonally pay for \nand need to be reimbursed for.",
+        "If all your staff use \ncompany credit cards \nand never need to be \nreimbursed for things \nthey pay for, \n\nyou wouldn’t need to use \nExpense Items in \nJob Book\n\nOn the other hand,\nif you ever need to \nreimburse your employees \nfor anything they purchase, \nthis is where Expense Items \ncome into play.",
+        "In Job Book, \nExpense Items are tracked to a Job, \nand you can view expenses on a per-job basis. \n\nYou’ll also see these expenses \nwhen creating an invoice \nfor that job.",
+        "Best practice \nfor billing \nstaff expenses to \ncustomers,\nis to record them as \nFixed Price or \nEquipment & Material \nline items.",
+        "It might become clearer \nafter you watch our \nExpense Creation and \nExpense Approval video \nin the Job Book \nHow to Use Guide series \nor Invoice Creation in the \nsame series. \n\nYou can find a \nlink to them in the description below this video\n\nFor now, let’s hop into creating Expense Items in the system.\n--END--",
+        "\n\n\n\n\n\nFrom the dashboard,\nClick the Navigate button in the top-left corner.\n\nThen Click on Administration.\n\nThen Click on Expense Items. \n\nClick the Create button.",
+        "Expense Items are very simple all they have is a name.\n\nLet’s create an expense item and name it \n‘Field \nMaterials \nMisc.’",
+        "When you click the save button, \nthat will create the expense item in \nthe Job Book system. \n\nDon’t worry if you \nneed to change something \nyou can always edit the expense items after creation. \n\n“CLICK SAVE”  \n\nAs you can see \nour new expense \nitem is now displayed \non the item list.",
+        "Unlike other Line Items, \nExpense Items don’t have a set price in the system. \n\nThe cost is entered by the employee \nwhen they submit the expense.",
+        "I’ll now create a few more expense items\n\nFeel free to pause the video and create your own \nexpense items.\n\n--END--",
+        "(Create: Office Materials Misc, Accommodations, Field Allowance, Gas, Misc) ",
+        "\n\n\n\n\nOk as you can see, I’ve created a bunch of Expense Items.\nThese can now be used when employees create Expenses in \nthe Job Book system.\n\nWe’ll be using the same expense items created here in the \nHow to Setup \nJob Book series, \nand also in the \nHow to Use \nJob Book series. ",
+        "So how are Expense Items used?\n\nExpenses are created by your employees and are associated with a job.",
+        "Once created they need to be approved by a project manager. \nReimbursements are handled outside the system but can be tracked in Job Book.",
+        "Expenses on jobs are tracked in the Active Job Dashboard.\nWhen an invoice for a job is created, \nyou’ll be able to see all expenses associated with that job in the invoice.",
+        "On invoice creation\nthe administrator can choose what to do with those expenses. \nEither ignore them \n\nor include them as line items\nin the invoice. \n\nThe administrator can also check off the expenses \nand they will get removed from the invoice screen.",
+        "If you’re interested in the \nExpense Approval Workflow, \nsee our \nJob Book \nHow to Use Guide series. \n\nFor information on \nExpense Reports, \nsee our \nJob Book Reporting Guide series.\n\nOr click on the link below \nin the description to learn more.",
+        "\nThat is about all there is to expenses.\n\nIn the next video, \nI’ll show you how to\ncreate Users and set Roles\nin Job Book. \n\nAfter that, \nwe’ll cover adding employees.\n\nThanks for watching!\nand I'll see you in the next video!"
+    ],
+    "friendlyName": "1.07",
+    "index": 5
+}

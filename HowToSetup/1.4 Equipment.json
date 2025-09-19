@@ -1,0 +1,26 @@
+{
+    "GUID": "A0D71B6D-DD48-4CE9-A23C-5D860CAD491B",
+    "chapters": [
+        "\n\n\nThis is a video series on setting up Job Book. \nIf you are coming to this series from the middle, \nI recommend starting at the beginning, \nas each video builds on the last.",
+        "In the previous section, \nI showed you how to set up Labour Cost Items in Job Book. \nI also mentioned two additional \nline-item collections: \nEquipment and Materials Line Items, \nand Fixed Price Line Items.",
+        "In this section, \nwe’ll look at how to create Equipment and Materials in the \nJob Book system.",
+        "Before we can record Equipment and Materials usage, \nwe need to create some Equipment and Materials Line Items in the system.\nLet’s hop into it and do just that.",
+        "From the dashboard, click the Navigate button in the top-left corner.\n\nThen click on Administration.\n\nThen click on Equipment and Materials.\n\nThis is the Item List, \n\nWe'll talk more about this shortly.\n\n\nBut first,\nclick the Create button.",
+        "The fields for Equipment and Materials items are almost identical to those for Labour Cost Items. \n\nThe only difference is that Equipment and Materials items do not include the Hourly Cost field.",
+        "Let’s enter the name of your \nequipment or material. \nWe’ll CREATE an equipment ITEM\nand call it\n\n'Robotic Total Station.'",
+        "The next field is 'Accounting Code.' \nLet’s use 4000 as an example. \nRecal this code should match the one used by your accounting system.",
+        "Note the Accounting Code is not required \nso if you don't know your accounting code it's not a big deal.",
+        "The next field is 'Category.' \nWe’ll create 'Equipment' as the category.",
+        "The next field is 'Unit.' \nIt defaults to 'hours', \nbut you can change it\nto any unit that \nmakes sense for your item, \nsuch as \n'Days',\n'Per\n'Unit',\nYou can even create Units not on the list like 'Bundles.'\n\nWe'll select hours in this example.",
+        "The next field is 'Unit Cost.' \nLet’s set that to $50. \nThis represents \nthe cost per selected unit \nfor example, per hour or per item.",
+        "The last two checkboxes are 'Tax Exempt' and 'Active.'\n\nThe tax-exempt checkbox is used to make the item tax-exempt, if applicable. \n\nThe active checkbox is selected by default. \n\nJust like other line items, \nyou can only delete an Equipment and Material ITEM \nif it hasn't been used yet. \n\nIf it has been used, \nyou’ll need to deactivate it by unchecking the 'Active' checkbox.",
+        "When you click the Save button, \nthe item will be created in the Job Book system.\n--CLICK SAVE--\nDon’t worry, \nif you need to change something, \nyou can always edit the item later.",
+        "As you can see, our new Equipment and Materials item is now displayed on the item list.\n\nYou can see:\n\nthe category, \nthe name, \nthe accounting code, \nthe unit, \nand the unit cost.\n\nYou can edit the item by clicking on the pencil icon on the far right.",
+        "Now I’m going to create a few more Equipment and Materials Line Items.\n\nWe’ll use these later in THIS Job Book Setup Guide, \nas well as in the Job Book How to Use Guide.\n\nFeel free to pause the video and create your OWN \nEquipment and Materials Line Items.\n\n---END---",
+        "\n\n\nAs you can see, I’ve now created several Equipment and Materials items.\n\nThese items can now be used when creating jobs in the Job Book system.\n\nYou might have even noticed I changed the Accounting Code for Robotic Total Station\n\nTo learn more about creating jobs, \ncheck out our Job Book \nHow to Use Guide \nor follow the link in the video description below.",
+        "So how are Equipment and Materials Line Items used in the Job Book system?\n\nAs COVERED in the Line Items video \nin the Job Book \nSetup Guide, \nEquipment and Materials items are typically used when staff fill out their daily work records. \n\nThey may also be used by administrators when creating invoices based on time and materials used on a job.",
+        "In the next video, I’ll show you how to set up Fixed Price Line Items in Job Book.\n\nIn the upcoming videos, we’ll look at how to set up Expense Items.\n\nThanks for watching\n\nand I'll see you in the next video!"
+    ],
+    "friendlyName": "1.04",
+    "index": 2
+}

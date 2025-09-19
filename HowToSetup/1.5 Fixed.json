@@ -1,0 +1,22 @@
+{
+    "GUID": "7B9B86FE-0631-43E1-BD01-EE09B5A90245",
+    "chapters": [
+        "\n\n\n\n\nThis is a video series on setting up Job Book \nIf you're joining us mid-series, \nI recommend starting from the beginning, since each video builds on the last.",
+        "In the last section I showed you how to setup your \nEquipment & Materials line items in Job Book. \n\nI also mentioned an additional line-item collection. \nThe Fixed Price line items.\n\nIn this section we’ll be looking at creating \nFixed Price line items \nin the Job Book system.",
+        "For now, \nlet’s jump into creating \nFixed Price Line Items.\n\nFrom the dashboard,\nClick the Navigate button in the top-left corner.\n\nThen Click on Administration.\n\nThen Click on Fixed Price Items. \n\nThis is the Item List, \n\nWe'll talk more about this shortly.\n\nBut first,\n\nClick the Create button.",
+        "Just like Equipment & Materials \nTHE fields in \nFixed Price Items are identical.\n\nLet’s enter the name of your fixed price item. \n\nWe’ll call this item: \n\n`Third Party Charges`",
+        "The next field is “Accounting Code”. \nI’m going to give the accounting code \nthe value of \n\n`5100`\n\nAgain, \nthis code is used by your accounting system \nand should match that code.\n\nIf you’re not sure what your accounting code is, \nit’s okay to leave it blank for now.",
+        "The next field is “Category”.\n\nI’ll set this to \n`Subcontractors`",
+        "The next field is “Unit” \nit defaults to hours \nbut you can change it to anything.\n \nWe’ll pick \n`Per` in this case.\n\nPer is USEFUL when CHARGING a fixed amount \nper item or service.",
+        "The next field is \n“Unit Cost”\n \nBecause pricing for this item can vary from job to job, \nwe’ll set it to \n`$0` as a placeholder.\n \nYou can adjust it later on a \nper-job or \nper-invoice basis.",
+        "The last two checkboxes are \n\"Tax Exempt\" and \n\"Active\"\n\nThe tax-exempt check box \nis used to make THE line-item \ntax exempt if applicable.\n \nJust like other line items in the system, \nYou can only delete a Fixed Price item if it hasn’t been used. \n\nIf it has, you’ll need to deactivate it instead.",
+        "When you click the save button, \nthat will create the \nline item in the \nJob Book system. \n\n--CLICK SAVE--\n\nDon’t worry \nif you need to change something \nyou can always edit the cost items \nafter creation.",
+        "As you can see \nour new fixed price line item \nis now displayed on the \n\"Item List\".\n\nYou can see:\n\nthe category we created \n\nthe name, \n\nthe accounting code, \n\nthe unit, \n\nand the unit cost.\nIn this case it's blank because the price is 0\n\nand you can edit the item by clicking on the pencil icon on the far right.",
+        "Now I’m going to create a few more \nFixed Price \nLine Items.\n\nWe’ll use these later in THIS \nJob Book \nSetup Guide, \nas well as in the \nJob Book \nHow to Use \nGuide.\n\nFeel free to pause the video and create your OWN\nFixed Price Line Items.\n---END---",
+        "\n\n\n\n\nOk as you can see, \nI’ve created more Fixed Price line items.\n\nYou can now use these Fixed Price items \nwhen setting up jobs and invoicing customers.\n\nTo learn more about creating jobs, \nor invoicing customers, \ncheck out our \nJob Book \nHow to Use \nGuide \nor follow the link in the video description below.",
+        "So how are Fixed Price line items used in the \nJob Book System? \n\nIf you recall from the \nLine Items video \nin this \nJob Book \nHow to Setup \nGuide, \nLabour Cost Items and \nEquipment & Materials \nare used by employees when recording their \ndaily work records. \n\nStaff use these line items for the dual purpose of payroll \nand billing the customer.\n\nFixed Price line items\non the other hand,\nare used only when \ninvoicing customers.\n\nThey capture costs that aren't tied to work done by your employees,...\nsuch as third-party charges \nor fixed service fees.",
+        "Well that about covers Fixed Price line items and\nfinishes up all the different types of \ncost items in \nJob Book.\n\nIn the next video \nwe are going to put all cost items together, \nand I’m going to show you \nhow to setup \nRate Sheets \nin Job Book, \nso job creation is simpler.\n\nIn upcoming videos \nI’m going to show you \nhow to set up Expense Items \nin Job Book. \nSo reimbursing your employees is handled easily.\n\nThanks for watching\n\nand I'll see you in the next video!"
+    ],
+    "friendlyName": "1.05",
+    "index": 4
+}

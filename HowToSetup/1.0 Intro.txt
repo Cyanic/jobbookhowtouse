@@ -1,0 +1,67 @@
+Welcome to the
+
+Job Book
+
+Setup Series.
+
+
+
+In this series, I’ll show you
+
+step by step
+
+how to set up
+
+Cyanic Job Book.
+
+
+
+Job Book is a project management system designed for field service companies.
+
+It was built especially for engineering and land surveying companies.
+
+This series is for anyone setting up
+
+Job Book,
+
+so their staff can start using it right away.
+
+Each video is short and focused. Covering the basic functions of the system.
+
+By the end, you’ll have a fully working project management system for your survey company.
+
+
+
+To learn how to use Job Book
+
+day-to-day,
+
+check out our Job Book
+
+How to Use Guide.
+
+You’ll find the links in the description below.
+
+
+
+If you want to dive into Advanced Reporting features,
+
+see our Job Book Reporting Guide.
+
+That link is also in the description below.
+
+
+
+In the next video, I’ll show you how to set up Offices in Job Book.
+
+In future videos, I’ll walk you through setting up:
+
+Line Items,
+
+Rate Sheets,
+
+and Users.
+
+
+
+I hope you enjoy the series.
