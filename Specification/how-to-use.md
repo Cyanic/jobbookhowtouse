@@ -146,12 +146,14 @@ We now want to create scripts for a YouTube video series showing the various use
 
 * Each script should be as short as possible as to not bore the user.
 * A person will read the script and record their screen showing how to use the Job Book System
+* There are some completed scripts in /Scripts/ with the remainder as stubs. 
 
 ## References
 
 Resources:
 1. [Help documentation](https://getjobbook.com/help)
 2. [How to Setup Job Book Scripts](/HowToSetup/)
+3. [How to Use Job Book Scripts](/Scripts/)
 
 ## Implementation Notes for LLM Agent
 
