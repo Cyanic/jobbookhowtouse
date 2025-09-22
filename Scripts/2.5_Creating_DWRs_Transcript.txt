@@ -1,12 +1,12 @@
 Welcome back to the Job Book How to Use Series.
 
-If you’re just joining us, make sure you’ve watched the earlier episodes because each episode builds on the last. 
+If you’re just joining, make sure you’ve watched the earlier episodes because each one builds on the last.
 In the previous video, we created jobs and set up the billing details that your teams will rely on. 
 Now we’re ready to capture the actual work. 
 
 In this video, I’ll show you how to create Daily Work Records, or DWRs, in Job Book.
 
-Technicians create the majority of DWRs day-to-day.
+Technicians create most DWRs each day.
 So I’m logged in as a Technician, simulating being on a cell phone.
 Project managers and administrators can follow the same steps. 
 
@@ -18,7 +18,7 @@ From the dashboard, look for the Daily Work Records card.
 Click Create New
 -- Click Create New --
 
-We’re taken straight into a new DWR form. Let’s walk through it from top to bottom.
+You’ll go straight into a new DWR form. Let’s walk through it from top to bottom.
 
 Date is the first field and defaults to today's date.
 The date should be set to when the work happened. 
@@ -30,7 +30,7 @@ Pick the job you worked on today. I’ll choose “Boundary Survey – 5th Avenu
 
 Below the Job field is the DWR Details.
 
-Let's first go into the Job details
+First, let’s look at the Job details.
 -- Click Job Details --
 Here you can see the details of the job.
 
@@ -55,8 +55,8 @@ A crew lead can add time for the rest of the crew as well. We’ll add additiona
 
 Enter Hours Worked. 
 Today we were on site for 8 hours. 
-You have the option of either selecting a Start Time and End Time.
-Or you can simply input the hours of work.
+You can either select a start time and end time, 
+or simply enter the total hours worked.
 
 -- Click Clock Select 8 am --
 I'll pick a start time of 8am
@@ -64,7 +64,7 @@ I'll pick a start time of 8am
 -- Click Clock Select 4 pm --
 And an end time of 4pm.
 
-Notice the hours auto calculated
+Notice that the hours are calculated automatically.
 
 Finally you have the Description of the work. 
 The description helps with record keeping and DWR approvals so make sure you add enough details.
@@ -87,7 +87,7 @@ Denice worked the same hours as me so this time I'll just input 8 hours,
 instead of using a start and end time. 
 
 I'll fill in the Description of the work.
--- Type "Set up equipment. "
+-- Type "Set up equipment."
 
 Next, we'll log any equipment you used.
 
@@ -99,11 +99,11 @@ Then Click Add
 Click the Cost Item dropdown.
 -- Click Cost Item dropdown --
 
-Just like the Loabour Costs line items, this section pulls line items from the job, 
+Just like the Labour Costs line items, this section pulls line items from the job,
 so what you’re seeing here is based on the setup we did earlier, when we created the job.
 
 Select the equipment line item
-“Robotic Total Station” in my case—and enter the number of hours.
+In my case, I’ll select "Robotic Total Station" and enter the number of hours.
 -- Type "8" --
 
 Add any consumables or materials as separate items.
@@ -113,14 +113,14 @@ I'll add four "Iron Survey Posts".
 Notice for Equipment and Materials, the Description is not a required field. 
 
 Below DWR Details is the Representative Signature. 
-Becasue a person can create DWRs for other employees the person creating the DWR needs to sign off on the DWR.
+Because someone can create DWRs for other employees, the person creating the record needs to sign off on it.
 Assuming you've saved your signature as an employee, 
 clicking the "Add My Signature" button will automatically
 add your signature and fill in the Representative field.
 
-The Client's Representative Signature is an optional field used when technitions need to get a clients signature on a DWR.
+The Client’s Representative Signature is optional, used when technicians need to get a client’s signature on a DWR.
 
-If you’re still working in the field and plan to come back later, to add information, uncheck the Submitted checkbox.
+If you’re still working in the field and plan to come back later to add information, uncheck the Submitted box.
 DWRs that have not been submitted will be in your My Form Not Submitted tab. More on that later in the video.
 
 I'll uncheck the Submitted checkbox to show you. 
@@ -135,19 +135,18 @@ This will take you back to the Dashboard.
 To view your DWRs click on the Explore button in the Daily Work Records card.
 -- Click Explore --
 
-Here at the top you'll see three tabs. My Forms Not Submitted, My Forms Not Approved, and All My Forms.
+At the top you’ll see three tabs: My Forms Not Submitted, My Forms Not Approved, and All My Forms.
 
-My Forms Not Submitted as the name suggests are the DWRs you created that you have not submitted for approval.
+My Forms Not Submitted, as the name suggests, shows the DWRs you’ve created but not yet submitted for approval.
 Here you can see the DWR we just created. 
 
 -- Click My Forms Not Approved --
-This is the My Forms Not Submitted tab. Notice there are no DWRs here.
+This is the My Forms Not Approved tab. Notice there are no DWRs here.
 
-DWRs lcatedin the My Forms Not Submitted or the My Forms Not Approved tab can be edited.
-Once the DWR has been approved it can no longer be eddited by a technition.
+DWRs located in the My Forms Not Submitted or My Forms Not Approved tabs can be edited.
+Once the DWR has been approved, it can no longer be edited by a technician.
 If you need to edit a DWR that has been approved, 
-you'll have to ask a Project Manager or Adminitrator to uncheck the submitted checkbox
-and you'll be able to then edit it again.
+you’ll need to ask a Project Manager or Administrator to uncheck the Submitted box so you can edit it again.
 
 -- Click All My Forms --
 The All My Forms tab will show all your DWRs. 
@@ -163,14 +162,14 @@ There are four buttons on the top of the Display screen.
 Edit, Export to PDF, Delete, and Back.
 
 The Edit button will allow you to edit the DWR.
-The Export to PDF button will export the DWR to a pdf so you can print or email the DWR to a customer if required.
+The Export to PDF button creates a file you can print or email to a customer if needed.
 The Delete button will delete the DWR and the Back button will take you back to the display screen.
 
 For now click the Edit button so we can submit the DWR.
 -- Click Edit --
 
 Here you can edit whatever information you like. 
-When everything is complete and accurate, simply checkoff the Submitted checkbox and Save the DWR.
+When everything is complete and accurate, check the Submitted box and save.
 This will add the DWR to the approval backlog for your project manager.
 
 Notice the Submitted Date is automatically saved.
@@ -183,7 +182,7 @@ You'll notice on the Explore list your DWR is gone.
 That's because you are in the My Form Not Submitted tab.
 If you click on the My Form Not Approved tab 
 -- Click My Forms Not Approved --
-You should see your DWR wating to be approved by a project manager. 
+You should see your DWR waiting to be approved by a project manager.
 
 That’s about everything you need to know to create Daily Work Records in Job Book.
 
@@ -192,10 +191,10 @@ If so check out our DWR Approval Backlog video.
 We’ll step through that approval process from the manager’s point of view.
 
 Before we wrap up, here are a few best practices:
-Submit DWRs daily. Waiting until the end of the week increases the risk of missing hours or mis-allocating equipment.
+Submit DWRs every day. Waiting until the end of the week increases the risk of missing hours or losing track of equipment.
 Double-check the job and date before submitting. Reassigning DWRs after approval takes time away from billing the job.
 
-By following these steps, every DWR becomes a reliable record that feeds approvals, dashboards, and invoices without extra cleanup.
+By following these steps, every DWR becomes a reliable record that supports approvals, dashboards, and invoices without extra work.
 
 In the next video, we’ll stay in the technician role and walk through creating expenses.
 
