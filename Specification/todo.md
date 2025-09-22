@@ -26,6 +26,7 @@
 6. **Creating Expenses**  
    - Technician workflow: submitting expenses for reimbursement.  
    - Linking to jobs, best practices.
+   - [COMPLETE]
 
 7. **Active Job Dashboard**  
    - Viewing active jobs, monitoring status, PO amounts, due dates.  
