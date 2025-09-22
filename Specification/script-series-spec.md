@@ -20,7 +20,7 @@ Job Book staff:
 - Use context-building transitions between episodes.
 - Include best practices and role callouts (e.g., *“I’m logged in as an Administrator”*).
 - Use on-screen action cues (*“-- Click Save --”*).
-- Length: 500–900 words per script (3–6 minutes when read aloud).
+- Length: 500–1000 words per script (3–6 minutes when read aloud).
 - End each video with a forward link to the next topic.
 
 ---

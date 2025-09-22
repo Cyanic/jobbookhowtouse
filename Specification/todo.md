@@ -21,6 +21,7 @@
 5. **Creating Daily Work Records (DWRs)**  
    - Technician workflow: entering labour, equipment, materials.  
    - Editing and saving DWRs.
+   - [COMPLETE]
 
 6. **Creating Expenses**  
    - Technician workflow: submitting expenses for reimbursement.  

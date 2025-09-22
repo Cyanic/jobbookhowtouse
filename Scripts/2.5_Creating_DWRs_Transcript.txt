@@ -1,69 +1,108 @@
 Welcome back to the Job Book How to Use Series.
 
-This series is for staff who are working with Job Book daily. 
-
-If you’re joining mid-series, start at the beginning since each video builds on the one before it.
-
-In the last section, I showed you how to create clients in Job Book. 
-In this video, I’ll show you how to create jobs in Job Book.
-
-Every project your company works on should be created as a job in Job Book. 
-Jobs tie together clients, offices, project managers, and line items.
-
-Let’s walk through creating a job.
-
+If you’re just joining us, make sure you’ve watched the earlier episodes because each step builds on the last. 
+In the previous video, we created jobs and set up the billing details that your teams will rely on. 
+Now we’re ready to capture the actual field work. 
 
 In this video, I’ll show you how to create Daily Work Records, or DWRs, in Job Book.
 
-Daily Work Records are how your staff record their time, equipment, and materials used on a job. 
-They replace traditional timesheets and make it easy to track job progress in real time.
+I’m logged in as a Technician. Project managers and administrators can follow the same steps, but technicians and crew leads create the majority of DWRs day-to-day.
 
-Let’s create a DWR.
+Daily Work Records are the backbone of Job Book. They replace paper timesheets, keep labour, equipment, and materials tied to the correct job, and feed the approval, invoicing, and reporting workflows you’ll see later in this series. 
 
-From the dashboard, click the Navigate button at the top left.
-Click on Daily Work Records.
-Then click Create.
+From the dashboard, look for the Daily Work Records card. 
+If you don’t see it, double-check that your role has DWR access and that the job you’re working on is active.
 
-The first field is Job. 
-Select the job this record is for. 
-For example, “Boundary Survey – 5th Avenue.”
+-- Click Create New --
 
-Next is the Date field. 
-Enter the date the work was done. 
-For example, today’s date.
+We’re taken straight into a new DWR form. Let’s walk through it from top to bottom.
+
+The Job field is first. 
+-- Click Job dropdown --
+Pick the job you worked on today. I’ll choose “Boundary Survey – 5th Avenue,” the job we built in the last episode. 
+Best practice: confirm you’re using the active phase or cloned job your manager assigned. That keeps budgets and approvals clean.
+
+Next is the DWR Date.
+-- Click Date --
+Enter the date the work happened, even if you’re entering the DWR later that evening. If you’re logging multiple days, create one DWR per day so the approval trail stays clear.
 
 Now select the Employee. 
-Pick the staff member who performed the work. 
-For example, Charlie Chief.
+-- Click Employee dropdown --
+As the logged-in technician, my name is prefilled, but a crew lead can add time for the rest of the crew as well. We’ll add additional labour in just a moment.
 
-Now let’s add line items. 
-Click Add under Labour. 
-Select the appropriate labour line item, such as Survey Party Chief. 
-Enter the number of hours worked, for example 8 hours.
+Depending on your configuration, you may see a Shift, Weather, or Work Type field. Fill in anything your company requires. Consistent data here helps managers filter backlogs faster.
 
-Next, add Equipment and Materials if applicable. 
-Click Add under Equipment & Materials. 
-Choose the Robotic Total Station and enter 8 hours of usage.
+Let’s move into Labour. This section pulls line items from the job’s rate sheet, so what you’re seeing here is based on the setup we did earlier.
 
-You can also add Expenses at this stage. 
-Click Add under Expenses. 
-Choose the appropriate expense item, such as Gas, and enter the amount spent, for example $45.
+-- Click Add under Labour --
 
-Once all information is entered, click Save.
+Choose the labour line item that matches the work performed. 
+I’ll select “1 Man Survey Crew.” 
+Enter Hours Worked—today we were on site for 8 hours. 
+If you need to break the shift into multiple activities, add separate line items. It’s better to split hours than to leave an unclear note.
 
-Your DWR is now recorded in the system. 
-It will appear in the DWR Approval Backlog, waiting for review by a project manager.
+To add another crew member, click Add again and pick their labour line item. 
+When a crew lead enters time for others, make sure the hours match what they reported in the field. That keeps approvals smooth.
 
-Why are DWRs important?
-- They replace timesheets and capture both labour and equipment usage.  
-- They ensure all project costs are tracked in one place.  
-- They provide real-time visibility into project burn and progress.  
+Next, log any equipment you used.
 
-That’s how you create Daily Work Records in Job Book.
+-- Click Equipment & Materials tab --
+-- Click Add --
 
-In the next video, I’ll show you how to create Expenses in Job Book.
+Select the equipment line item—“Robotic Total Station” in my case—and enter the number of hours or units. Equipment costs often feed into invoicing, so accuracy matters. 
+Add any consumables or materials as separate items. Keep receipts or photos handy; we’ll attach those shortly.
 
+If your company tracks field expenses inside the DWR, there’s an Expenses tab as well.
 
-Unlike timesheets, DWRs not only record your time but also record your equipment and materials usage. 
-Another unique feature of DWRs in Job Book is you can have one person record labour time for multiple people.
-As an example you can have a Party Cheif record time for himself and the Rod Man. 
+-- Click Expenses tab --
+-- Click Add --
+
+Choose the appropriate expense item, such as “Fuel – Truck,” then enter the amount. 
+Use the Notes column for quick context, for example “Filled at Hwy 12 Shell.” 
+You can add supporting documents in the Attachments panel so approvers have everything they need in one place.
+
+Let’s add those attachments now.
+
+-- Click Attachments --
+-- Click Upload --
+
+Attach photos of the crew’s sign-off sheet, fuel receipts, or site sketches. Best practice is to upload them while they’re still fresh on your phone so they don’t get lost. 
+
+Back on the main form, take a moment to review the Summary section. 
+If your organization uses custom fields like Weather or Safety Checks, fill them in here. These values show up in reports and can help safety coordinators later on.
+
+Before saving, add a clear note in the Work Description or Notes field. 
+For example: “Set control points along south property line. Crew: Lance and Jamie. Heavy rain delayed layout after 2 PM.” 
+A detailed note helps the project manager understand the day at a glance without calling you for more context.
+
+Now let’s save the record.
+
+If you’re still working in the field and plan to come back later, use Save Draft so you don’t lose your progress.
+-- Click Save Draft --
+Drafts stay in your My DWRs list until you submit them. Remember to finalize the record before the pay period cut-off.
+
+When everything is complete and accurate, choose Save & Submit. That adds the DWR to the approval backlog for your project manager.
+
+-- Click Save & Submit --
+
+Once submitted, the DWR shows a status of Pending Approval. You can still open it from the Explore list, but edits are locked while a manager is reviewing it. If you notice a mistake, ask them to send it back; it’s faster than deleting and starting over.
+
+Let’s head back to the dashboard to see where this record went.
+
+-- Click Dashboard --
+
+The Workflow card now shows one item in the DWR Approval Backlog. In a later episode, we’ll step through that approval process from the manager’s point of view.
+
+Before we wrap up, here are a few best practices:
+- Submit DWRs daily. Waiting until the end of the week increases the risk of missing hours or mis-allocating equipment. 
+- Align your line items with the job estimate. If you can’t find the correct option, pause and talk to your administrator instead of guessing. 
+- Double-check the job and date before submitting. Reassigning DWRs after approval takes time away from billing the job. 
+- Use attachments for any field sketches, photos, or receipts. Approvers rely on that documentation to keep projects moving. 
+
+By following these steps, every DWR becomes a reliable record that feeds approvals, dashboards, and invoices without extra cleanup.
+
+That’s everything you need to know to create Daily Work Records in Job Book.
+
+In the next video, we’ll stay in the technician role and walk through creating expenses—perfect for mileage, meals, and those fuel receipts we just mentioned.
+
+Thanks for watching, and I’ll see you in the next episode!
