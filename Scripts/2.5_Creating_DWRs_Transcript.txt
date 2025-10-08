@@ -190,6 +190,10 @@ If you are a project manager you might be interested in how to approve all these
 If so check out our DWR Approval Backlog video.
 We’ll step through that approval process from the manager’s point of view.
 
+If you are an administrator you might be interested in how to turn all these DWRs into invoices.
+If so check out our DWR Invoice Backlog video. 
+We’ll step through that inovice creation from the administrator's point of view.
+
 Before we wrap up, here are a few best practices:
 Submit DWRs every day. Waiting until the end of the week increases the risk of missing hours or losing track of equipment.
 Double-check the job and date before submitting. Reassigning DWRs after approval takes time away from billing the job.
