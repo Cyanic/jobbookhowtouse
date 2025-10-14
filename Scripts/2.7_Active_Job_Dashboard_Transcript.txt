@@ -1,43 +1,47 @@
 Welcome back to the Job Book How to Use Series.
 
-In this video, I’ll give you a beginner’s guide to using the Active Job Dashboard in Job Book.
+In the last video, we created expenses from the technician’s point of view. 
+Now we are switching to the project manager’s workstation and opening the Active Job Dashboard so you can monitor every live project at a glance.
 
-The Active Job Dashboard is your command center. 
-It shows all your ongoing jobs in one place and lets you quickly check progress, costs, and outstanding items.
+I am logged in as a Project Manager. Administrators see the same layout, and job coordinators have similar access if their permissions include job oversight.
 
-When you first log in to Job Book, the dashboard is front and center. 
-Let’s take a closer look at how it works.
+From the main dashboard, look for the Jobs card in the top row. 
+-- Click Active Job Dashboard --
+That opens the Active Job Dashboard in a new page. Think of it as your control center for day to day job management.
 
-Each row in the Active Job Dashboard represents a job. 
-You’ll see the Job Name, Client, Office, and Job Number right at the start.
+Across the top of the dashboard you will see filter tools and a search bar. These controls help you focus on the jobs that matter right now.
 
-Next, you’ll see summary fields showing job status:
-- Hours recorded so far.
-- Expenses linked to the job.
-- Percentage of the job budget used, also called burn.
-- Any backlog items waiting for approval.
+Let’s read one row together. Each row represents a single active job. Starting from the left you will see the Job Name, the client name, the office responsible, and the system generated Job Number. The Status column shows where the job sits in your internal workflow, such as Job Setup, In Progress, or Ready for Billing.
 
-You can filter the dashboard by office, client, or job status. 
-This is helpful if you manage many jobs and only want to focus on a specific group.
+Next come the key performance indicators that project managers rely on: Hours to Date, Expenses to Date, Approved Billings, and Burn Percentage. Hours to Date aggregates labour pulled from submitted DWRs. Expenses to Date rolls up reimbursables the team has submitted. Approved Billings shows what has already moved through the invoice process. Burn Percentage compares actual costs to the budget quantity amounts you entered when you set up the job. It updates every time new labour or expenses are approved, so you always see the latest position.
 
-Clicking on a job opens the Job Overview screen. 
-Here you can see all the details of that job: line items, assigned employees, DWRs, expenses, and invoices. 
-This is where project managers spend most of their time monitoring jobs.
+The dashboard also exposes operational backlogs. Submitted DWRs identifies how many technician records are waiting for your approval. Submitted Expenses tells you how many expense claims are waiting. Invoice Ready or similar columns flag jobs ready for billing. Scanning these totals once or twice a day keeps your approvals from piling up and prevents jobs from stalling.
 
-One of the most useful features is the burn indicator. 
-This shows you in real time how much of the job’s budget has been consumed. 
-Green means you’re within budget. 
-Yellow is approaching the limit. 
-Red means the job is over budget.
+If you manage a large portfolio, use the filters before you start drilling into individual jobs.
+-- Click Filters --
+Set Office to the branch you supervise, choose a Client if you are on a dedicated account, and narrow Status to the stages you want to review. The list updates immediately. Save a frequently used combination as a view so you can pull it up with two clicks during weekly meetings.
 
-The Active Job Dashboard also highlights if there are outstanding DWRs or expenses that need approval. 
-This keeps projects moving without delays.
+The text search is helpful when a client calls and you need to locate a job quickly.
+-- Click Search --
+Start typing the job name, alias, or number. Job Book filters the list in place, so you keep context while you answer questions.
 
-Why is the Active Job Dashboard important?
-- It gives project managers real-time visibility on job progress.  
-- It centralizes labour, expenses, and invoices in one place.  
-- It helps catch problems early, before they impact profitability.  
+When you are ready to investigate a specific job, open it directly from the dashboard.
+-- Click Job Name --
+That takes you to the Job Overview screen. The Summary tab shows the same metrics you saw on the dashboard along with the project manager, client contacts, and budget notes. From here you can jump into DWRs, expenses, invoices, or the job’s document links without leaving the workflow. Use the Back button in your browser to return to the dashboard when you are finished.
 
-That’s the beginner’s guide to the Active Job Dashboard in Job Book.
+Here are a few best practices to keep the Active Job Dashboard working for you:
+Review the dashboard at the start and end of each day. Morning reviews help you spot urgent approvals or budget variances before crews head to site. End of day reviews confirm everything submitted during the day has moved forward.
+Sort the Burn Percentage column any time you are preparing for a client call. Jobs with the highest percentage rise to the top, letting you prepare mitigation steps before a client asks.
+If a job shows zero hours or expenses for several days, follow up with the field lead. Missing entries often mean crews are delaying DWR submissions, which pushes billing and reporting behind.
+Keep job statuses accurate. Changing a job from Job Setup to In Progress signals to technicians that the site is ready, and flipping to Ready for Billing alerts administrators that invoicing can begin.
+Export the dashboard to Excel whenever you need an offline snapshot for leadership meetings. The export respects your filters, which keeps conversations focused.
 
-In the next video, I’ll show you how to work with the DWR Approval Backlog.
+Administrators often partner with project managers during review sessions. While the manager watches burn percentages and labour trends, the administrator keeps an eye on approvals that impact invoices. Meeting weekly around the Active Job Dashboard reinforces accountability across both roles.
+
+Two quick tips for staying organized:
+1. Pin the Active Job Dashboard tab in your browser when you start your day. It reduces navigation time and keeps live metrics within reach.
+2. Use the Comments or Notes section inside the job record to capture follow up items. Those notes appear for the entire project team and link back to the job’s dashboard row.
+
+The Active Job Dashboard turns the time entries and expenses your technicians submit into actionable insight. Stay on top of it and you will always know which jobs are healthy, which ones need intervention, and which approvals must be completed before invoices go out.
+
+In the next video, we will stay in the project manager role and step through the DWR Approval Backlog so you can keep technician submissions moving without delay.
