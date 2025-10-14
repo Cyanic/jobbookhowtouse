@@ -4,11 +4,11 @@ If you’re just joining, make sure you’ve watched the earlier episodes becaus
 In the previous video, I showed you how to create DWRs.
 
 In this video, I’ll show you how to create expenses in Job Book.
-Expenses are any out-of-pocket costs your staff incur and need to be reimbursed for. 
+Expenses are out-of-pocket costs your staff pay and need to be reimbursed for.
 If your company relies on corporate credit cards, you might have fewer personal expenses to submit.
 But when you do pay out of pocket, this is where the Expenses workflow keeps everything organized. 
 Submit expenses as promptly as possible. 
-Quick turnaround keeps the reimbursement cycle short and gives managers a real-time picture of job cost.
+Submitting quickly keeps the reimbursement cycle short and gives managers a real-time picture of job costs.
 
 I’m logged in as a Technician, but project managers and administrators can follow the same process.
 
@@ -17,47 +17,47 @@ From the dashboard, look for the Expenses card.
 Click Create New
 -- Click Create New --
 
-The expense entry form opens. Let’s work through it top to bottom.
+The expense form opens. Let’s go through it from top to bottom.
 
 Date is the first field and defaults to today's date.
 Set this to the day the purchase happened. 
 Expenses should reflect the transaction date, even if you’re filing them later in the week.
-Create one expense per payment or receipt. 
+Create one expense for each payment or receipt.
 
 The Employee field is next.
 -- Click Employee dropdown --
-The logged-in employee appears by default, but you can file expenses for anyone if needed. 
+The logged-in employee appears by default, but you can also file an expense for someone else if needed. 
 I’ll leave it as myself for now. 
 
 Below the Employee field is the Job field.
 -- Click Job dropdown --
 Pick the job that generated the expense. I’ll choose “Boundary Survey - 5th Avenue,” the same project we used in the DWR episode. 
-Best practice: match the expense to the appropriate job it applies to. 
+Best practice is to match the expense to the job it applies to.
 That keeps budgets aligned and avoids rework at approval time.
 
 Let’s move to the Expense Item dropdown.
 -- Click Expense Item --
-The Expense Item dropdown contains the expense types your administrators configured:
+The Expense Item dropdown shows the expense types set up by your administrators.
 Accommodations, Field Allowance, Field Materials Misc, Gas, Misc, and more.
 
 I’ll select “Gas.”
 
 Enter the Total Expense Amount. 
 -- Type "78.54" --
-I’ll key in $78.54, the amount that shows on the receipt.
+I’ll enter seventy-eight dollars and fifty-four cents, the amount shown on the receipt.
 
 For the Description, add a quick note that explains the purchase, such as 
 “Filled unit 204 after Boundary Survey crew shift.” 
-Detailed notes save time when managers or auditors review the record months from now.
+Detailed notes save time when managers or auditors review the record later.
 
 After Description there is the Attachments button.
-When you click the button,
+When you click the Attachments button,
 -- Click Attachments --
 you'll be able to take a picture of the receipt with your cellphone. 
 Or if you are on a computer you can click the Select File button to upload a file. 
 
 Attach photos or PDFs of every receipt. Job Book stores them with the record so approvers and auditors don’t have to chase you later. 
-Snap the receipt with your phone as soon as you get back to the truck and upload it while you have good data coverage.
+Take a photo of the receipt as soon as you get back to the truck and upload it while you have a good connection.
 
 Many teams also add a photo of the signed hotel folio as a second backup. 
 More documentation means faster approvals.
@@ -68,7 +68,7 @@ If you’re still gathering receipts, uncheck Submitted and you can save a draft
 Draft expenses remain in your My Expenses list, and they don’t post to approvals until you finalize them. 
 I'll uncheck Submitted.
 
-When you click the Save button the form validates required fields before saving. 
+When you click Save, Job Book checks that all required fields are filled in before saving.
 If anything is missing, Job Book will highlight the field in red. 
 Simply fix the items, then click Save again.
 -- Click Save --
@@ -84,7 +84,7 @@ My Expenses shows the expenses you’ve created but not yet submitted for approv
 Here you can see the expense we just created. 
 
 The All My Expenses tab shows all your expenses. 
-Once an expense has been approved you will only be able to see it in this tab.
+Once an expense is approved, you’ll only be able to view it in this tab.
 You can not edit expenses in this tab.
 
 Let's go ahead and submit the Expense we just created.
@@ -94,7 +94,7 @@ There are four buttons on the top of the Display screen.
 Edit, Export to PDF, Delete, and Back.
 
 The Edit button will allow you to edit the Expense.
-The Export to PDF button creates a file you can print or email to someone if needed.
+The Export to PDF button makes a file you can print or email if needed.
 The Delete button will delete the Expense and the Back button will take you back to the display screen.
 
 For now click the Edit button so we can submit the Expense.
@@ -102,7 +102,7 @@ For now click the Edit button so we can submit the Expense.
 
 Here you can edit whatever information you like. 
 When everything is complete and accurate, check the Submitted box and save.
-This will add the Expense to the Expense Approval Backlog for your administrator.
+This sends the expense to your administrator for approval in the Expense Approval Backlog.
 
 Notice the Submitted Date is date-stamped when the expense was submitted.
 
@@ -118,26 +118,25 @@ You should see your expense waiting to be approved by a project manager.
 
 That’s about everything you need to know to create expenses in Job Book.
 
-If you are an administrator you might be interested in how to approve all these expenses. 
-If so check out our Expense Approval Backlog video.
-We’ll step through that approval process from the administrator's point of view.
+If you’re an administrator, check out our Expense Approval Backlog video,
+to see how to approve expenses from your point of view.
 
-If you are an administrator you might be interested in how to turn approved DWRs into invoices.
-If so check out our DWR Invoice Backlog video. 
-We’ll step through that invoice creation from the administrator's point of view.
+You can also watch our DWR Invoice Backlog video,
+to learn how administrators turn approved DWRs into invoices.
 
-Before we wrap up, here are a few best practices that keep expense processing smooth.
+Before we wrap up, here are a few best practices to keep expense processing smooth.
 Submit expenses daily or at least weekly so approvers have fresh details and you get reimbursed faster.
 Match expenses to the same job you used on your DWR to keep budgets accurate and avoid billing delays.
 Upload receipts right away. Faded or missing copies slow down approvals and can jeopardize reimbursement.
 Use meaningful descriptions so approvers understand how the purchase supported the job without calling you.
-Review totals before submitting. Small corrections now prevent a manager from rejecting the expense and sending it back.
+Review your totals before submitting. Fixing small errors now prevents a manager from rejecting the expense later.
 
 By following these habits, expenses move through approvals quickly, you get reimbursed on time, and project costs stay accurate for dashboards and invoices.
 
 That’s everything you need to know to create expenses in Job Book.
 
 In the next video, we’ll shift into the project manager role and explore the Active Job Dashboard 
-so you can monitor budgets, progress, and upcoming deadlines at a glance.
+In the next video, we’ll switch to the project manager role and explore the Active Job Dashboard, 
+where you can monitor budgets, progress, and upcoming deadlines at a glance.
 
 Thanks for watching, and I’ll see you in the next episode!
