@@ -1,6 +1,8 @@
 Welcome back to the Job Book How to Use Series.
 
-In the last video, we created expenses from the technician’s point of view. 
+If you’re just joining, make sure you’ve watched the earlier episodes because each one builds on the last.
+In the previous video, I showed you how to create Expenses in Job Book.
+
 Now we are switching to the project manager’s workstation and opening the Active Job Dashboard so you can monitor every live project at a glance.
 
 I am logged in as a Project Manager. Administrators see the same layout, and job coordinators have similar access if their permissions include job oversight.
