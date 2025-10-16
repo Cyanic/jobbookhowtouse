@@ -84,6 +84,7 @@ Job Book staff:
 ## Constraints
 - Scripts must:
   - Start with series continuity statement.
+  - Explain the purpose of the video.
   - Identify relevant role(s).
   - Walk through steps with natural narration.
   - Include explanations and best practices.
