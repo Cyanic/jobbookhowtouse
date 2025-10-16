@@ -6,6 +6,12 @@ Each script should maintain consistent tone, pacing, and instructional depth, fo
 
 ---
 
+## Scope and Output
+Each script is a complete voice-over narration text intended for use with video editing or teleprompter software.  
+Scripts are written in plain text (Markdown-compatible) and do not include scene directions, camera notes, or visual annotations beyond on-screen action cues.
+
+---
+
 ## Audience
 **Primary Users**
 - **Technicians** – Complete Daily Work Records (DWRs) and submit expenses.  
@@ -19,7 +25,9 @@ Each script should maintain consistent tone, pacing, and instructional depth, fo
 All videos are narrated in **first person** by a knowledgeable Job Book trainer.  
 The tone is **confident, conversational, and practical**—neither overly casual nor corporate.  
 The narrator speaks directly to the viewer (“you”) and refers to their own actions (“I’m logged in as an Administrator”).  
-Avoid filler phrases and unnecessary enthusiasm; focus on clarity and confidence.
+Address the viewer in the singular (“you”), avoid greetings or sign-offs, and use calm, confident phrasing focused on clarity.
+
+Avoid filler phrases and unnecessary enthusiasm; focus on precision and confidence.
 
 ---
 
@@ -35,7 +43,7 @@ Each episode follows this sequence:
 7. **Series Continuity** – Tie into next episode.  
 8. **Outro** – End confidently and transition forward.
 
-Target length: **500–1000 words** (≈3–6 minutes spoken).
+Target length: **800–1000 words** (≈3–6 minutes spoken).
 
 ---
 
@@ -61,10 +69,16 @@ Each script begins with a metadata header:
 # Episode [#] – [Title]
 **Series:** Job Book How to Use  
 **Target Roles:** [e.g., Technician, Administrator]  
-**Length:** ~[word count] words  
+**Task:** [Concise one-sentence summary of what the episode demonstrates]  
+**Length:** 800–1000 words  
 **Previous:** [Title of previous episode]  
-**Next:** [Title of next episode]
+**Next:** [Title of next episode]  
+**Tags:** [Dashboard, Technician, Workflow]
 ```
+
+**Task Field Definition:**  
+A one-sentence summary of what the narrator will demonstrate and explain in the episode.  
+Begin with an action verb (“Show,” “Demonstrate,” “Walk through,” “Explain”) and limit to two lines.
 
 ---
 
@@ -93,6 +107,8 @@ Each script begins with a metadata header:
 - Include **role callouts** (“I’m logged in as a Project Manager”) to clarify context.  
 - Integrate **best practices** and avoid listing every button or icon.  
 - Avoid UI details that may change (colors, icon shapes, menu order).  
+- Use natural pacing: one idea per sentence, short paragraphs (1–3 sentences).  
+- Insert blank lines where natural pauses occur for teleprompter readability.  
 - End every script with a **forward transition** to the next video.
 
 ---
@@ -109,25 +125,21 @@ Use these as clear linguistic markers for viewers and editors.
 ---
 
 ## Constraints
-Scripts must:
-- Begin with a **series continuity** statement.  
-- Identify **target role(s)** early.  
-- Provide clear purpose and benefit (“why this matters”).  
-- Include natural narration and **on-screen cues**.  
-- Finish with a **forward link** to the next episode.
 
-Avoid:
-- Describing UI color, icons, or positioning.  
-- Using filler language (“basically,” “you can see here”).  
-- Over-explaining generic concepts like logging in.  
-- Referring to internal company-specific setups.
+| **Do** | **Don’t** |
+|---------|------------|
+| Begin with a continuity statement | Describe UI colors or icons |
+| Identify target role(s) early | Use filler language (“basically,” “as you can see”) |
+| State purpose clearly | Over-explain login or setup steps |
+| Include on-screen cues | Mention internal configurations |
+| End with next-episode link | Use overly formal or marketing tone |
 
 ---
 
 ## Success Criteria
 A generated or written script is considered valid if it meets all of the following:
 
-- **Length:** 400–1200 words.  
+- **Length:** 800–1000 words (±20%).  
 - **Structure:** Matches the required format and flow.  
 - **Voice:** First-person instructional, confident tone.  
 - **Continuity:** References previous episode and introduces next.  
@@ -139,11 +151,25 @@ A generated or written script is considered valid if it meets all of the followi
 ---
 
 ## Testing & Review
-Before finalization:
+Before finalization, use this checklist:
+
+☐ References previous and next episode  
+☐ Contains ≥3 on-screen cues  
+☐ Includes at least one best-practice statement  
+☐ Tone matches narrator persona   
+☐ Transitions read smoothly aloud  
+
+Additional review steps:
 1. **Read Aloud Test:** Verify pacing and spoken clarity.  
 2. **UI Validation:** Confirm menu names and button labels match current Job Book interface.  
 3. **Continuity Check:** Ensure episode references align correctly.  
-4. **Word Count Verification:** Keep within ±15% of target.  
+
+---
+
+## File Naming Convention
+Use the following format for all script files:  
+`2.[#]_[ShortTitle]_Transcript.md`  
+Example: `2.4_Creating_Jobs_Transcript.md`
 
 ---
 
@@ -156,6 +182,9 @@ Use this to cross-reference dependencies between episodes:
 | Jobs | DWRs | DWRs connect to jobs |
 | DWRs | DWR Approvals | Workflow for manager review |
 | DWR Approvals | Invoicing | Approved DWRs flow into billing |
+| Expenses | Expense Approvals | Workflow for administrator review |
+| Expense Approvals | Invoicing | Approved Expenses flow into billing |
+| DWR Invoice Backlog | Creating Invoices | Exporting data to accounting |
 | Invoices | Importing Invoices | Exporting data to accounting |
 | Importing Invoices | Next Steps | Closeout and advanced features |
 
