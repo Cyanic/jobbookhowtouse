@@ -135,7 +135,6 @@ By following these habits, expenses move through approvals quickly, you get reim
 
 That’s everything you need to know to create expenses in Job Book.
 
-In the next video, we’ll shift into the project manager role and explore the Active Job Dashboard 
 In the next video, we’ll switch to the project manager role and explore the Active Job Dashboard, 
 where you can monitor budgets, progress, and upcoming deadlines at a glance.
 
