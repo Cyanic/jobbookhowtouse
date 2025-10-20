@@ -1,26 +1,31 @@
 # Episode 8 – DWR Approval Backlog
-**Series:** Job Book How to Use
-**Target Roles:** Manager, Administrator
-**Task:** Show how to use the DWR Approval Backlog to review and approve
-submitted DWRs. Explain best practices for timely approvals and workflow impact.
-**Length:** 800–1200 words
-**Previous:** Active Job Dashboard
-**Next:** Expense Approval Backlog
+**Series:** Job Book How to Use  
+**Target Roles:** Manager, Administrator  
+**Task:** Show how to use the DWR Approval Backlog to review and approve submitted DWRs, explain best practices for timely approvals, and highlight workflow impact.  
+**Length:** 800–1200 words  
+**Previous:** Active Job Dashboard  
+**Next:** Expense Approval Backlog  
 **Tags:** Approvals, Workflow, Manager
 
-Welcome back to the Job Book How to Use Series. I am logged in as a Project
-Manager with approval permissions so I can walk you through the Daily Work
-Record approval flow from end to end.
+Welcome back to the Job Book How to Use Series.  
+If this is your first time watching, note that each episode builds on the last.
+
+I'm logged in as a Project Manager with approval permissions so I can walk you
+through the Daily Work Record approval flow from end to end.
 
 In the last video we explored the Active Job Dashboard and learned how to
 monitor project health in real time. That dashboard tells us where attention is
 needed. The DWR Approval Backlog is the first place we act on those signals by
 validating the work records that feed every job metric.
 
-Daily Work Records, or DWRs, capture labour, equipment, materials, and field
-expenses in a single submission. Until they are approved they are provisional.
-Approving them confirms that the information is ready for payroll, cost
-tracking, and eventual invoicing.
+This episode is all about clearing that backlog efficiently so approved records
+reach payroll, reporting, and billing without delay.
+
+Before we jump into the screen, let's review why approvals matter. Daily Work
+Records, or DWRs, capture labour, equipment, materials, and field expenses in a
+single submission. Until they are approved they are provisional. Approving them
+confirms that the information is ready for payroll, cost tracking, and eventual
+invoicing.
 
 -- Click DWR Approval Backlog --
 
@@ -30,16 +35,15 @@ submitter, the work date, and summarized hours and costs.
 
 -- Open Filter Menu --
 
-The filter drawer lets me narrow the backlog by project manager, job, submitter,
-or date range. I often filter by job when a client needs a status update because
-it keeps me focused on a single project story.
+The filter drawer narrows the backlog by project manager, job, submitter, or
+date range. I usually filter by job when a client needs a status update so I
+stay focused on one project.
 
 -- Apply Job Filter --
 
-Once the list is scoped, I open the first record. I always confirm that the job,
-work date, and location match the information we expect from the site log. That
-quick orientation step prevents me from approving the wrong ticket when several
-crews share similar job names.
+Once the list is scoped, I open the first record and confirm the job, work date,
+and location against the site log. That orientation check prevents approving
+the wrong ticket.
 
 -- Open first DWR in list --
 
@@ -49,19 +53,16 @@ and attachments. I work left to right so I do not miss a section.
 
 -- Review Labour tab --
 
-On the Labour tab each resource line shows hours, cost code, and internal
-approval status. I compare the labour hours to the crew sheet or timesheet note
-from the field. If the hours jump out as unusual I check the notes column for
-context. A strong best practice is to have technicians note weather delays,
-overtime approvals, or change work directly in that field. When the note is
-missing I leave a reminder in my feedback comment.
+Each labour line shows hours, cost code, and internal approval status. I
+compare the hours to the crew sheet or field note and check the notes column for
+context. Coach technicians to note weather delays, overtime approvals, or
+change work there; if it is empty I leave a reminder in my comment.
 
 -- Review Equipment tab --
 
-The Equipment tab lists rented and company-owned assets tied to the DWR. I
-confirm that mobilizations match our plan for the job. If a piece of equipment
-appears for the first time I make sure a purchase order or rental request exists
-so costs are captured consistently.
+The Equipment tab lists rented and company assets. I confirm mobilizations
+match the job plan and, if a new asset appears, ensure a purchase order or
+rental request exists so costs stay consistent.
 
 -- Review Materials tab --
 
@@ -107,7 +108,7 @@ faster the corrected version returns to the queue.
 
 -- Click Reject --
 
-Let’s talk about timing. Approvals should happen daily or at least before
+Let's talk about timing. Approvals should happen daily or at least before
 payroll cutoff. Approving late causes payroll to scramble and delays invoices. I
 block ten minutes at the end of each shift to clear the queue. The frequency
 might sound high, but it keeps cash flow smooth and gives leadership confidence
