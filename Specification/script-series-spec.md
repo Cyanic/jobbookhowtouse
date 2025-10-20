@@ -3,13 +3,13 @@
 ## Purpose
 
 This document defines the standards and structure for generating scripts in the **Job Book How to Use Series**, a 13-episode YouTube training sequence.  
-Each script should maintain consistent tone, pacing, and instructional depth, following the established style of completed scripts (Intro, Dashboard, Clients, Jobs).
+Each script should maintain consistent tone, pacing, and instructional depth, following the established style of completed scripts (Intro, Dashboard, Clients, Jobs, and previous scripts).
 
 ---
 
 ## Scope and Output
 
-Each script is a complete voice-over narration text intended for use with video editing or teleprompter software.  
+Each script is a talking head text intended for use with teleprompter software.  
 Scripts are written in plain text (Markdown-compatible) and do not include scene directions, camera notes, or visual annotations beyond on-screen action cues.
 
 ---
@@ -28,9 +28,9 @@ Scripts are written in plain text (Markdown-compatible) and do not include scene
 ## Narration Persona
 
 All videos are narrated in **first person** by a knowledgeable Job Book trainer.  
-The tone is **confident, conversational, and practical**—neither overly casual nor corporate.  
+The tone is **confident, conversational, and practical** - neither overly casual nor corporate.  
 The narrator speaks directly to the viewer (“you”) and refers to their own actions (“I’m logged in as an Administrator”).  
-Address the viewer in the singular (“you”), avoid greetings or sign-offs, and use calm, confident phrasing focused on clarity.
+Address the viewer in the singular (“you”), and use calm, confident phrasing focused on clarity.
 
 Avoid filler phrases and unnecessary enthusiasm; focus on precision and confidence.
 
@@ -123,6 +123,36 @@ Begin with an action verb (“Show,” “Demonstrate,” “Walk through,” �
 
 ---
 
+## Background Information
+
+When generating a script, use the following sources to ensure accuracy and continuity:
+
+1. **Job Book Help Documentation**
+   - Primary reference: [https://getjobbook.com/help/](https://getjobbook.com/help/)
+   - Use it to confirm terminology (menu names, field labels, feature names), workflow order, and user-role responsibilities.
+   - Mirror the functional language used in the Help documentation, but rewrite it in a natural spoken-narration style.
+
+2. **Previous Scripts in the Series**
+   - Always review the scripts that precede the current one (e.g., when generating Episode 2.8, review Episodes 2.1–2.7).
+   - Extract context such as:
+     - How features were introduced and explained.
+     - Transitions or references used between videos.
+     - Terminology and tone patterns.
+   - Reuse established phrases and continuity hooks for consistency across episodes.
+
+3. **Role Context**
+   - Use audience and role definitions from this specification to ground examples (Technician, Project Manager, etc.).
+   - Maintain the same role behavior as described in prior scripts — e.g., if a Technician creates DWRs in one episode, keep that consistent.
+
+4. **Edge Cases**
+   - For Episode 1 (Intro): no prior scripts — base context solely on this specification and Setup Series references.
+   - For the final episode (Next Steps): summarize and link forward to upcoming “Reporting Guide” or advanced modules.
+
+**Goal:**  
+Ensure each script draws from existing Job Book documentation and previously written episodes to maintain consistent workflow descriptions, vocabulary, and teaching rhythm.
+
+---
+
 ## Episode Transitions
 
 **Opening Transition:**
@@ -168,7 +198,8 @@ A generated or written script is considered valid if it meets all of the followi
 
 Before finalization, use this checklist:
 
-☐ References previous and next episode  
+☐ References previous and next episode
+☐ Establish why this feature matters
 ☐ Contains ≥3 on-screen cues  
 ☐ Includes at least one best-practice statement  
 ☐ Tone matches narrator persona  
