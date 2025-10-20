@@ -123,6 +123,16 @@ Begin with an action verb (“Show,” “Demonstrate,” “Walk through,” �
 
 ---
 
+### Line Formatting
+Break text into logical line lengths, ideally **no longer than 80 characters per line**.  
+Do not hard-wrap at exactly 80 characters—wrap naturally at clause or phrase boundaries  
+to preserve readability.  
+
+When generating scripts, treat each line break as a soft wrap for teleprompter display.  
+Avoid single paragraphs that extend beyond 3–4 lines.
+
+---
+
 ## Background Information
 
 When generating a script, use the following sources to ensure accuracy and continuity:
