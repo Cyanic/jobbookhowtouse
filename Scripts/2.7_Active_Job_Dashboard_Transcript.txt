@@ -3,40 +3,35 @@ Welcome back to the Job Book How to Use Series.
 If you’re just joining, make sure you’ve watched the earlier episodes 
 because each one builds on the last.
 
-In the Creating DWRs and the Creating Expenses videos 
-we created time sheets and expenses and assigned them to Jobs. 
+In the Creating DWRs and Creating Expenses videos, 
+we created timesheets and expenses and assigned them to jobs.
 
-All those submissions flow into the Active Job Dashboard.
-The Active Job Dashboard is a report that brings job status, labour, 
-expenses, and billing all into one view.
+All those submissions feed into the Active Job Dashboard.
+The Active Job Dashboard brings job status, labour, expenses, and billing together in one view.
 
-Staying on top of it lets you see overall budget burn, and keep invoices moving
-so cash flow stays predictable. 
+Staying on top of it helps you track your budget, keep invoices moving, 
+and maintain predictable cash flow. 
 
-You can see see job status, and dive deep into individual job performance metrics.
+You can see job status and dive deep into individual job performance metrics.
 
-I am currently logged in as a Project Manager. 
-Administrators and Job Coordinators see the same layout, 
-and follow identical steps.
+I am currently logged in as a Project Manager.
+Administrators and Job Coordinators see the same layout and follow the same steps.
 
 From the main dashboard, look at the Jobs card in the top row.
 Then click the Active Job Dashboard button.
 -- Click Active Job Dashboard --
 The Active Job Dashboard becomes the control center for every live project.
 
-Starting from the top left you can see the Export to Excel button. 
-Clicking this button will download an Excel file that 
-contains all job data you are currently viewing
+At the top left, you’ll see the Export to Excel button. 
+Clicking it downloads an Excel file with all the job data you’re currently viewing.
 
-Next to that is the Templating section. 
-Here you can create templates to customize 
-how you view the Active Job Dashboard.
+Next to that is the Templating section, where you can create templates 
+to customize how you view the Active Job Dashboard.
 
-We do a deep dive into Templating in our Job Book Reporting Guide Series
+We do a deep dive into templating in our Job Book Reporting Guide Series
 
 Below that is the grouping bar. 
-Here you can drag column headers and group jobs by all the different headers.
-For example you can group all the Jobs by the Client Name or Project Manager. 
+You can drag column headers here to group jobs by Client Name, Project Manager, or any other field.
 
 Again we do a deep dive into this advanced feature in our 
 Job Book Reporting Guide Series.
@@ -46,8 +41,8 @@ The Job Table displays all active jobs in the system.
 You can change how many columns you see 
 and apply filters to the data. More about that later in this video. 
 
-Looking at the default view from left to right you will see 
-the Job Number, the Client name, the Project Manager, 
+In the default view, from left to right, you’ll see 
+the Job Number, the Client Name, and the Project Manager.
 
 the Status column shows exactly where that job sits in your workflow, 
 whether that is Job Setup, In Progress, Ready for Billing, or any stage your company uses.
@@ -56,39 +51,42 @@ Next the Billing Type, and Due Date.
 
 The next set of columns are the key indicators project managers rely on. 
 
-The Purchase Order amount, 
-The DWR amount are the aggregated hours to date multiplied by the billing rates, 
-pulled from submitted and approved DWRs. 
+The Purchase Order amount shows the client’s approved budget. 
+The DWR amount adds up all approved hours to date multiplied by their billing rates. 
 
-The expenses to date, assoicated with the job rolls up reimbursable costs 
-submitted through the expense workflow.
+The Expenses to Date column shows all reimbursable costs submitted through the expense workflow.
 
-The total invoiced , the last invoice date, and the Action column. 
+Next are the Total Invoiced, Last Invoice Date, and the Action column.
 
 The Action column has four buttons. Each button is specific to the job. 
 
-The Job Charge-Out Rate Report is a report that shows all DWR and invoice activity.
+The Job Charge-Out Rate Report shows all DWR and invoice activity.
 
-The Job Charge-Out Rate Summary Report is a report that aggregates all the line items
-and allows you to compare the budgeted amounts to the DWR amounts to Invoice amounts.
+The Job Charge-Out Rate Summary Report combines all line items 
+so you can compare budgeted amounts, DWRs, and invoices.
 
-The Job History Report is a report that shows all line items associated with a job 
-including any assets used including any notes.
+The Job History Report lists every line item linked to a job, including assets and notes.
 
 Each report provides valuable insights that can help you make informed decisions 
 about job performance, costs, and history related to the job.
 
 For detailed instructions on these reports see our Job Book Reporting Guide Series. 
 
-The final button is the Creat Invoice button. This will take you to the DWR Inovice Backlog
-and filter out only DWRs associated with the job. Here you can convert time sheets into invoices.
+The final button is the Create Invoice button.
+If the job was set to time and material that button will take you to the DWR Invoice Backlog 
+and filters for only the DWRs linked to that job.
+
+If the job was set to fixed price that button will create an Invoice for that job. 
+
+If the job was set to non-chargeable or overhead the button will not be displayed. 
+
 We cover the DWR Inovice Backlog and Invoice creation later in this How to Use Job Book Series. 
 
 The Job Table is a crucial tool for tracking job performance 
 and is essential to ensure accurate budgeting and financial accountability.
 
-Some of the eagle eyed of you, might have noticed a blue triangle on the left side of the table.
-If you click the triangle it will expand to reveal all the invoices associatedwith that job.
+Some of you eagle-eyed viewers, might notice a blue triangle on the left side of the table.
+If you click the triangle, it expands to show all the invoices linked to that job.
 
 Looking at the Job Number column you'll see a black arrow. 
 This will sort the invoices in ascending or descending order.
@@ -101,24 +99,21 @@ You can add or remove columns in the Job Table.
 Simply click the three black dots on any of the columns.
 -- Click 3-dots --
 
-You'll see a dropdown to sort by ascending, sort by decending, columns, and filter. 
-Hover over the Columns menu item. It will expand and show you a checklist of all the columns.
-Columns that are curently visible are checked and unchecked columns are not visible.
+You’ll see a dropdown with options to sort ascending or descending, choose columns, or apply filters. 
+Hover over Columns to see a checklist of every available column.
+Columns that are currently visible are checked. Unchecked columns are hidden.
 
-Perhaps being a project manager the Billing Type column is not important to you. 
-In that case simply click the checkbox next to Billing Type 
-and the column will disapear from your view.
+If the Billing Type column isn’t important to you as a project manager, 
+just uncheck it and it will disappear from your view.
 
-Speaking of Project Manager that column shows all the project managers for all the active jobs. 
-You are probabably not interested in jobs you are not managing, 
-so next let's filter the jobs to show only the jobs you are managing. 
+Speaking of Project Manager that column shows all the project managers for all the active jobs.
+You’re probably not interested in jobs you don’t manage, so let’s filter the list to show only your own jobs.
 Click the three black dots again over the Project Manager column. 
 -- Click 3-dots --
 
-And hover over the filter item. 
-You can use "Show items with value that:" "Is equal to" or what I like to do is use is 
-"Starts with" or "Contains"
-Then write your name
+And hover over the filter item.
+You can use “Show items where the value is equal to,” or, what I prefer, “Starts with” or “Contains.”
+Then type your name.
 -- Write Lance --
 and click Filter
 -- Click Filter --
@@ -127,35 +122,35 @@ making it easier to manage your jobs and streamlining your workflow.
 
 That’s about the basics of the Active Job Dashboard. 
 
+If you want to learn about grouping columns, creating and using templates, 
+or exploring reports like the Job Charge-Out Rate Report, 
+the Summary Report, or the Job History Report, 
+check out our Job Book Reporting Guide Series.
+
 Here is how the Active Job Dashboard ties into the rest of Job Book. 
 
-If you want to learn about grouping columns, creating and using Templates 
-or learn more about the Job Charge-Out Rate Report, 
-Job Charge-Out Rate Summary Report, or Job History Report
-see our Job Book Reporting Guide Series
-
-Every DWR and expense you saw in earlier episodes updates these metrics the
-moment it is submitted. Project managers use these metrics to manage their jobs.
+Every DWR and expense you saw in earlier episodes updates these metrics the moment it’s submitted. 
+Project managers rely on these numbers to manage their jobs effectively.
 
 Administrators use the Active Job Dashboard to quickly find jobs and then either 
 use the DWR Invoice Backlog or the invoice module to keep billing on schedule. 
 
 Keeping the dashboard accurate requires a few habits. 
-Update job statuses as soon as milestones change. 
-Inactive jobs can not be used by technitions when creating DWRs 
-so keeping on top of active and inactive jobs is important minimizing mistakes.
+Update job statuses as soon as milestones change.
+Inactive jobs can’t be used by technicians when creating DWRs, 
+so keeping your job list up to date helps prevent mistakes.
 
-Make sure new jobs include budget quantities, even for time and materials work,
-because the burn compares actuals to those numbers. 
+Make sure new jobs include budget quantities, even for time and materials work, 
+because the burn column compares actuals to those targets.
 
-Encourage technicians to submit DWRs and expenses daily; otherwise the Hours to Date and
-Expenses to Date columns lag behind reality. 
+Encourage technicians to submit DWRs and expenses every day. 
+Otherwise, the Hours to Date and Expenses to Date columns will fall behind reality.
 
 When a job shows activity but no approved billing, check whether invoices are 
 waiting for documents or sitting in draft.
 
 Best practices keep the dashboard useful day after day. 
-Review it first thing every morning to spot hot spots before crews leave the yard. 
+Check the dashboard every morning to spot issues before crews leave the office.
 
 Review the Burn column before client calls so you can address potential overruns proactively. 
 If a job shows zero entries for several days, call the field lead and confirm that 
@@ -163,15 +158,14 @@ crews are submitting DWRs on time.
 
 Administrators and project managers should schedule a standing dashboard review.
 
-Maintain this rhythm and the Active Job Dashboard becomes your single source of
-truth for operational performance. You will always know which jobs are healthy,
-which need intervention, and which approvals must close before invoices can go
-out.
+Keep this rhythm and the Active Job Dashboard becomes your single source of truth 
+for how your operations are performing. You’ll always know which jobs are healthy, 
+which need attention, and which approvals must be finalized before invoices go out.
 
 In the next video, we will stay in the project manager role 
 and work through the DWR Approval Backlog 
 so technician submissions keep moving without delay.
 
-Thanks for watching, and I’ll see you in the next episode! 
-Don't forget to subscribe for more updates and tips from the Job Book channel! 
+Thanks for watching, and I’ll see you in the next video!
 
+And don't forget to subscribe for more updates and tips from the Job Book channel!
