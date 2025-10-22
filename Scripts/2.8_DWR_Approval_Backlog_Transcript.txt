@@ -93,14 +93,16 @@ or the Clear Filter icon.
 More complex filters can be used by clicking the filter icon on the column heading.
 -- Click heading filter --
 
-If you need a closer look at a specific DWR, click the hyperlink. 
--- Click DWR hyperlink --
-A new browser tab will open where you can review, edit, or manually approve the record.
--- Click DWR Tab --
-
 Sometimes a DWR might need a small adjustment. 
 If it’s just a typo or a minor fix, you can correct it on the spot. 
 Keep in mind that direct edits mean you own that change.
+
+If you need a closer look at or need to edit a specific DWR, 
+click the hyperlink. 
+-- Click DWR hyperlink --
+A new browser tab will open where you can review, edit, 
+or manually approve the DWR.
+-- Click DWR Tab --
 
 If the submission needs more work, 
 tell the technician who submitted the DWR to edit it instead. 
