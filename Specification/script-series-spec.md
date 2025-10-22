@@ -167,9 +167,10 @@ Avoid single paragraphs that extend beyond 3–4 lines.
 When generating a script, use the following sources to ensure accuracy and continuity:
 
 1. **Job Book Help Documentation**
-   - Primary reference: [https://getjobbook.com/help/](https://getjobbook.com/help/)
+   - Primary reference: ./Reference/jobbook-help-documents.md
    - Use it to confirm terminology (menu names, field labels, feature names), workflow order, and user-role responsibilities.
    - Mirror the functional language used in the Help documentation, but rewrite it in a natural spoken-narration style.
+   - Any references to image files can be ignored as they are not in this repository. 
 
 2. **Previous Scripts in the Series**
    - Always review the scripts that precede the current one (e.g., when generating Episode 2.8, review Episodes 2.1–2.7).
