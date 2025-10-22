@@ -5,11 +5,11 @@ remember that each episode builds on the last.
 
 In the last video, we explored the Active Job Dashboard 
 and learned how to monitor project health in real time. 
-That dashboard shows us which jobs need attention.
+That dashboard helps identify which jobs need attention.
 
 In this episode, we’ll dive into the DWR Approval Backlog. 
-The DWR Approval Backlog is the first place a Project Manager 
-goes to validate the work records that drive every job metric.
+The DWR Approval Backlog is where a Project Manager 
+validates the work records that drive every job metric.
 
 This episode is all about clearing that backlog efficiently 
 so approved records reach payroll, reporting, 
@@ -19,15 +19,15 @@ Before we jump into the screen, let’s review why approvals matter.
 Daily Work Records, or DWRs, capture labour, 
 equipment, and materials in a single submission. 
 Until they’re approved, they’re provisional. 
-Approving them confirms that the information is ready for 
-payroll, cost tracking, and invoicing.
+Approving them confirms that the information is ready 
+for payroll, cost tracking, and invoicing.
 
 I’m logged in as a Project Manager so I can walk you through the 
 Daily Work Record approval flow from end to end.
 
 From the main dashboard, look at the Workflow card 
-in the middle of the second row. 
-Then click the DWR Approval Backlog button.
+in the middle of the second row, 
+then click the DWR Approval Backlog button.
 -- Click DWR Approval Backlog --
 The DWR Approval Backlog is the DWR batch approval center for every project.
 
@@ -38,8 +38,8 @@ At the top right, you’ll see the Expand All, Collapse All,
 and Undo Last Approval Batch buttons. 
 
 Below that is the grouping bar. 
-You can drag column headers here to group jobs by 
-Job Number, Project Manager, or any other field.
+You can drag column headers here 
+to group jobs by Job Number, Project Manager, or other fields.
 
 Below that is the DWR Table, 
 which shows all DWRs in the system that have not yet been approved.
@@ -54,13 +54,13 @@ The DWR Number column contains hyperlinks to the individual DWRs.
 Then you have the Job Number, Client, Project Manager, and Office columns.
 
 By default, DWRs are sorted by Date and Job Number in ascending order. 
-That means it shows the oldest DWRs first, 
-and within that day, by the oldest Job Number.
+That means the oldest DWRs appear first, 
+and within each day, they’re sorted by Job Number.
 
 Multiple columns can be sorted at once. 
 If you want to sort by only one column, 
-you’ll need to remove sorting from the others by clicking the sorted column 
-until the arrow disappears.
+you’ll need to remove sorting from the others 
+by clicking the sorted column until the arrow disappears.
 
 If I want to sort by Client, I’ll remove sorting from the Job Number column.
 -- Click Job Number twice --
@@ -76,8 +76,8 @@ When the arrow points up, it’s ascending. Click again to switch to descending.
 Click once more to remove sorting.
 -- Click Client once --
 
-You can also apply filters to the data by clicking the filter icon 
-or typing in the quick filter field in some of the columns. 
+You can also filter data by clicking the filter icon 
+or typing in the quick filter field in certain columns. 
 
 If I’m Lance and only want to see DWRs for jobs I manage, I’ll simply type 'Lance.'
 -- Type 'Lance' --
@@ -87,7 +87,8 @@ Select the employee.
 -- Click 'Lance L' --
 
 Now all DWRs are filtered to Project Manager Lance. 
-You can clear the filter by clicking the X on the quick filter or the Clear Filter icon.
+You can clear the filter by clicking the X on the quick filter 
+or the Clear Filter icon.
 
 More complex filters can be used by clicking the filter icon on the column heading.
 -- Click heading filter --
@@ -101,7 +102,8 @@ Sometimes a DWR might need a small adjustment.
 If it’s just a typo or a minor fix, you can correct it on the spot. 
 Keep in mind that direct edits mean you own that change.
 
-If the submission needs more work, tell the technician who submitted the DWR to edit it instead. 
+If the submission needs more work, 
+tell the technician who submitted the DWR to edit it instead. 
 Technicians can edit their own DWRs until they’ve been approved. 
 Be clear about what needs to change and why.
 
@@ -111,10 +113,12 @@ Approving multiple DWRs one by one can get cumbersome.
 You might have noticed a blue triangle on the left side of the table. 
 If you click it, the record expands to show more details.
 
-You can expand all DWRs at once by clicking the Expand All button on the top right. 
+You can expand all DWRs at once 
+by clicking the Expand All button on the top right. 
 
 You can see the line items used, the hours, the unit, the quantity, and the description. 
-This lets you quickly review multiple records without opening each DWR individually.
+This lets you quickly review multiple records 
+without opening each DWR individually.
 
 After you’ve reviewed the DWRs, check the boxes for the ones you want to approve. 
 The Approve Selected DWRs button will become active. 
@@ -129,7 +133,8 @@ Click OK.
 The selected DWRs have now been approved. 
 You’ll notice they disappear from the backlog immediately. 
 Approving DWRs locks the records, meaning they’re no longer editable by the technician. 
-Approved DWRs can now be used in the DWR Invoice Backlog if the job is set to Time and Material, 
+Approved DWRs can now be used in the DWR Invoice Backlog 
+if the job is set to Time and Material, 
 or directly when creating an invoice. 
 
 If you made a mistake, you can click the Undo Last Approval Batch button.
@@ -141,45 +146,50 @@ Click OK.
 
 You should see all the DWRs return to your backlog.
 
-If for whatever reason you need to unapprove a DWR
-and the Undo Last Approval Batch is inactive 
-you'll have to find the approved DWR manualy.
-To do this go to the Explore in the Daily Work Records card
+If you ever need to unapprove a DWR 
+and the Undo Last Approval Batch is inactive, 
+you’ll need to locate the approved DWR manually.
+To do this, go to Explore in the Daily Work Records card.
 -- Click Navigate Home, Click Explore DWRs --
-Then go to the All tab 
+Then go to the All tab. 
 -- Click All tab --
-Find the DWR you want to unapprove
+Find the DWR you want to unapprove. 
 -- Click DWR --
-Edit the DWR
+Open the DWR for editing. 
 -- Click Edit --
-And uncheck the PM Approved checkbox.
-And click Save
+Uncheck the PM Approved checkbox, then click Save.
 -- Click Save --
 -- Click Navigate, Home --
 
 That’s about all there is for the DWR Approval Backlog. 
 
-If you want to learn more about the DWR Invoice Backlog, check out the DWR Invoice Backlog video later in this series.
+If you want to learn more about the DWR Invoice Backlog, 
+check out the DWR Invoice Backlog video later in this series.
 
-Let’s talk about timing. Approvals should happen daily or at least before payroll cutoff. 
-Approving late causes payroll delays and slows down invoicing. 
-Set aside about ten minutes at the end of each day, or first thing in the morning, to clear the queue. 
-It keeps cash flow smooth and gives leadership confidence in the job data they review.
+Approvals should happen daily or at least before payroll cutoff. 
+Delays cause payroll issues and slow invoicing. 
+Set aside about ten minutes at the end of each day, 
+or first thing in the morning, to clear the queue. 
+It keeps cash flow smooth and gives leadership confidence 
+in the job data they review.
 
 Remember that approved DWRs feed several backlogs in Job Book. 
 They populate the DWR Invoice Backlog for Time and Materials jobs, 
-they feed cost actuals in the job budget view, and they roll into payroll exports. 
+they feed cost actuals in the job budget view, 
+and they roll into payroll exports. 
 A careful review here prevents errors later. 
 Accurate data now means faster invoicing and fewer write-offs down the line.
 
 Here’s a quick recap. 
-The DWR Approval Backlog is where you validate every Daily Work Record before it affects payroll, reporting, and invoicing. 
-Check the queue often, use filters to focus, and review every section carefully. 
-These habits keep your data accurate and your projects on track.
+The DWR Approval Backlog is where you validate every Daily Work Record 
+before it affects payroll, reporting, and invoicing. 
+Check the queue often, use filters to focus, and review each section carefully. 
+Those habits keep your data accurate and your projects on track.
 
-In the next video, we’ll stay in the approvals workflow and walk through the Expense Approval Backlog, 
+In the next video, we’ll stay in the approvals workflow 
+and walk through the Expense Approval Backlog, 
 so staff expenses are processed quickly and efficiently.
 
 Thanks for watching, and I’ll see you in the next video!
 
-And don’t forget to subscribe for more Job Book updates and how-to tips!
+And don’t forget to subscribe for more Job Book updates and helpful how-to videos!
