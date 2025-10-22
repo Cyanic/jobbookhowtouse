@@ -1,43 +1,138 @@
+# Episode 9 - Expense Approval Backlog
+**Series:** Job Book How to Use
+**Target Roles:** Project Manager, Administrator
+**Task:** Demonstrate clearing the Expense Approval Backlog, reviewing submissions, adding comments, and releasing approved expenses to billing workflows.
+**Length:** 800-1200 words
+**Previous:** DWR Approval Backlog
+**Next:** DWR Invoice Backlog
+**Tags:** Expenses, Workflow, Approvals
+
 Welcome back to the Job Book How to Use Series.
+If this is your first time watching, remember that each episode builds on the last.
 
-In this video, I’ll show you how to use the Expense Approval Backlog in Job Book.
+In our previous video we worked through the DWR Approval Backlog.
+We confirmed daily work records before they flowed into payroll and invoicing.
+That diligence sets the stage for accurate expense approvals.
 
-The Expense Approval Backlog is where project managers review and approve expenses submitted by staff. 
-This ensures that reimbursements are accurate and that client billing is correct when expenses are passed through.
+Today we are going to clear the Expense Approval Backlog.
+This is where submitted expenses wait for a Project Manager or Administrator to review.
+Think of it as the gatekeeper that protects cash flow, reimbursement accuracy, and client billing.
 
-Let’s take a look.
+I am logged in as an Administrator so I can see every expense awaiting review.
+You can follow the same process as a Project Manager if that is the role assigned to you.
 
-From the dashboard, locate the Expense Approval Backlog card on the right-hand side. 
-Click it to open the backlog.
+Before we jump into Job Book, let's talk about why this backlog matters.
+Expenses are often pass through costs.
+If we approve them blindly we risk billing the wrong client or paying staff for the wrong amount.
+A steady approval rhythm keeps reimbursements timely and the general ledger clean.
+It also keeps our job budgets trustworthy when leadership checks the numbers.
 
-Here you’ll see a list of all expenses that are waiting for approval. 
-Each row shows the Job, Employee, Date, Expense Item, and Amount.
+Now let's walk through the screen together.
+From the main dashboard, look at the Workflow card on the right side.
+-- Click Workflow card --
+In the Workflow list choose Expense Approval Backlog.
+-- Click Expense Approval Backlog --
 
-To review an expense, click on it.
+The Expense Approval Backlog opens in a new tab.
+At the top left you will see the Approve Selected Expenses button.
+It will stay inactive until we have at least one expense checked.
+Beside it sits the Reject Selected Expenses button for sending items back to staff.
 
-Inside the expense record, you’ll see details including:
-- The employee who submitted it.  
-- The job it is linked to.  
-- The expense category, such as accommodations or mileage.  
-- The cost entered by the employee.  
-- Any notes attached to the expense.  
+The main table lists every submitted expense that still needs approval.
+By default the grid shows Job, Employee, Expense Item, Date, Amount, and Submitted By.
+You can hide unused columns to keep the grid focused.
 
-As a project manager, your role is to confirm the expense is legitimate and accurate. 
-If it looks correct, click Approve. 
-Once approved, the expense is locked and ready for reporting and invoicing.
+Start with a quick review pass.
+I filter by job when I know I am invoicing one client today.
+-- Open Job filter --
+-- Select target job --
+The backlog now shows only the expenses tied to that job.
+This context makes it easier to compare the new costs against the job budget.
 
-If something is incorrect, you can click Reject. 
-When rejecting, it’s best practice to leave a comment so the employee knows what to fix. 
-For example: “Please attach a receipt.”
+To review an individual expense, click the blue row link.
+-- Open Expense Details --
+Inside the record you will see the employee name, the job reference, and the expense item.
+Scroll down to read the description and check for attachments.
+If there is a receipt, open it in a new tab so you can confirm the amount.
 
-Approved expenses disappear from the backlog and are stored permanently in the job record. 
-Rejected ones return to the employee for correction and resubmission.
+While you are in the expense record, confirm the accounting details.
+Make sure the Expense Item matches your rate sheet or chart of accounts.
+If the cost should be split across jobs, tell the employee what to change before you approve it.
 
-Why is the Expense Approval Backlog important?
-- It ensures that reimbursements are valid before they are processed.  
-- It keeps invoices accurate when passing expenses to clients.  
-- It maintains a clear audit trail of project costs.  
+If everything looks correct, close the receipt and return to the backlog tab.
+Select the checkbox beside the expense.
+-- Check expense row --
 
-That’s how you use the Expense Approval Backlog in Job Book.
+When you are ready, click Approve Selected Expenses.
+-- Click Approve Selected Expenses --
+A confirmation window appears showing how many expenses you are about to approve.
+Click OK to finalize the action.
+-- Click OK --
+Approved expenses disappear from the backlog immediately.
+They are now locked and ready for billing in the DWR Invoice Backlog and in the Create Invoice screen.
 
-In the next video, I’ll show you how to use the Invoice Process Backlog.
+Sometimes you will spot a problem.
+Maybe the receipt is missing or the amount includes personal fuel.
+In that case use the Reject button.
+-- Click Reject Selected Expenses --
+Job Book prompts you to enter a rejection comment.
+Be clear and specific so the employee can fix the issue quickly.
+For example, type "Attach the overnight hotel receipt and resubmit."
+-- Enter rejection note --
+-- Confirm rejection --
+Rejected expenses return to the employee's Expense Entry list with your comment attached.
+That feedback loop keeps the audit trail in one place.
+
+You will also run into expenses that look right but belong to a different job.
+Instead of editing the job yourself, send it back with instructions.
+Technicians and field staff can edit their own expenses until they are approved.
+Explain whether they should change the job number, split the cost, or remove personal add ons.
+
+When you face a long queue, use bulk approvals wisely.
+Group the backlog by Job Number or Employee.
+-- Drag Job column to grouping bar --
+Expand the group that you have validated.
+-- Expand job group --
+Check every item in that group.
+-- Check group expenses --
+Then approve the batch in one click.
+-- Click Approve Selected Expenses --
+This saves time while keeping the review process deliberate.
+
+Do not forget to audit the attachments column.
+A quick scan for the paperclip icon confirms whether a receipt is present.
+If your company requires receipts for anything over twenty five dollars, call that out in your comment when rejecting an item.
+
+Let's talk about integration.
+Approved expenses flow directly into the DWR Invoice Backlog for Time and Materials jobs.
+They also appear in the job budget actuals so Project Managers can compare committed costs against estimates.
+Finance teams rely on this approval to reconcile credit card statements and to build monthly reports.
+If we skip the review, downstream teams lose trust in the numbers.
+That is why the Expense Approval Backlog is more than a checklist.
+It is a control point that protects margins and customer relationships.
+
+Here are a few best practices that seasoned administrators follow.
+First, schedule a daily approval window.
+Clearing the backlog at the same time each day keeps reimbursements predictable for staff.
+Second, stay consistent with comments.
+If you reject an expense, always add why and what needs to happen next.
+That transparency reduces back and forth emails.
+Third, scan for duplicates before you approve.
+If two employees submitted the same hotel receipt, reject the duplicate immediately.
+These small habits keep approvals fast without sacrificing accuracy.
+
+Before we wrap up, let's recap what we covered.
+We opened the Expense Approval Backlog from the Workflow card.
+We filtered the list to focus on a single job.
+We reviewed an expense record, checked attachments, and confirmed coding.
+We approved clean expenses and rejected those that needed more information.
+We used grouping and bulk approvals to speed up high volume days.
+Most importantly, we saw how this backlog feeds invoicing, reporting, and cash flow.
+
+In the next video we will move deeper into billing and explore the DWR Invoice Backlog.
+That is where approved labour and expenses land when it is time to build customer invoices.
+Make sure your expense approvals are current so the next workflow runs smoothly.
+
+Thanks for spending time with me today.
+Keep clearing that Expense Approval Backlog and your projects will always have accurate cost data.
+I will see you in the next episode.
