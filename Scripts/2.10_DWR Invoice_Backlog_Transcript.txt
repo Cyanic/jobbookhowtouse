@@ -1,91 +1,163 @@
 # Episode 10 - DWR Invoice Backlog
-**Series:** Job Book How to Use  
-**Target Roles:** Administrator, Manager  
-**Task:** Demonstrate how to review approved DWRs for time-and-material jobs and generate draft invoices from the DWR Invoice Backlog.  
-**Length:** 800-1200 words  
-**Previous:** Expense Approval Backlog  
-**Next:** Creating Invoices  
+**Series:** Job Book How to Use
+**Target Roles:** Administrator, Manager
+**Task:** Demonstrate how to review approved DWRs for time-and-material jobs
+          and generate draft invoices from the DWR Invoice Backlog.
+**Length:** 800-1200 words
+**Previous:** Expense Approval Backlog
+**Next:** Creating Invoices
 **Tags:** Invoicing, Administrator, Manager, Workflow
 
-Welcome back to the Job Book How to Use Series.  
-If this is your first time watching, remember that each episode builds on the last.
+Welcome back to the Job Book How to Use Series. If this is your first time
+watching, remember that each episode builds on the last.
 
-In the previous video, we cleared the Expense Approval Backlog so reimbursements and job costs stayed accurate. Those approved expenses now wait alongside labour in the billing pipeline.
+In the previous video, we cleared the Expense Approval Backlog so
+reimbursements and job costs stayed accurate. Those approved expenses now wait
+alongside labour in the billing pipeline.
 
-Today we will focus on the DWR Invoice Backlog. This is the checkpoint where approved Daily Work Records from time-and-material jobs become draft invoices. Getting this step right keeps billing accurate, clients confident, and cash flow predictable.
+Today we will focus on the DWR Invoice Backlog. This is the checkpoint where
+approved Daily Work Records from time-and-material jobs become draft invoices.
+Getting this step right keeps billing accurate, clients confident, and cash
+flow predictable.
 
-Why does the DWR Invoice Backlog matter? Every approved DWR represents work your team has already delivered. Until you convert that work into an invoice, revenue sits in limbo. This backlog is the last review before totals, rates, and descriptions reach a client. Skipping it risks underbilling, double billing, or sending the wrong detail trail to accounting.
+Why does the DWR Invoice Backlog matter? Every approved DWR represents work
+your team has already delivered. Until you convert that work into an invoice,
+revenue sits in limbo. This backlog is the last review before totals, rates,
+and descriptions reach a client. Skipping it risks underbilling, double
+billing, or sending the wrong detail trail to accounting.
 
-I am logged in as an Administrator so I can see every job in the queue. Project Managers follow the same steps, but they only see the jobs assigned to them. Either way, the process is identical.
+I am logged in as an Administrator so I can see every job in the queue.
+Project managers follow the same steps, but they only see the jobs assigned to
+them. Either way, the process is identical.
 
-From the main dashboard, look at the Workflow card in the middle row.  
+From the main dashboard, look at the Workflow card in the middle row. This is
+where billing queues live for administrators and project managers.
+
 -- Click DWR Invoice Backlog --
 
-The DWR Invoice Backlog opens in a new tab. The grid lists every approved DWR that belongs to a time-and-material job and has not yet been invoiced. Across the top you will see filters and quick actions. Columns include Job Number, Client, Work Date, DWR Number, Employee, and Amount. The Ready By column tracks internal billing deadlines.
+The DWR Invoice Backlog opens in a new tab. The grid lists every approved DWR
+that belongs to a time-and-material job and has not yet been invoiced. Across
+the top you will see filters and quick actions. Columns include Job Number,
+Client, Work Date, DWR Number, Employee, and Amount. The Ready By column
+tracks internal billing deadlines.
 
-You can reorganize the grid to match your workflow.  
--- Click Job Number Header --  
-Sorting by job groups related DWRs together.  
--- Drag Job Number to Group Bar --  
-Dragging a column into the group bar lets you process one client or project at a time. To clear the grouping, drag the header back to the grid.
+You can reorganize the grid to match your workflow. Sorting by job pulls
+related DWRs together, and grouping lets you clear one client or project at a
+time.
 
-Filtering keeps the backlog manageable when volumes grow.  
--- Open Client Filter --  
-Type part of the client name, press Enter, and you will see only the matching DWRs.  
--- Clear Filter --  
-You can filter by Job Number, Project Manager, or Ready By date to focus on contracts that must be billed this week.
+-- Click Job Number Header --
 
-Before you generate an invoice, review the underlying work.  
--- Expand DWR Details --  
-The blue arrow beside each row reveals labour, equipment, and material line items, including hours and rates. Approved expenses tied to the same job appear here as well, so you can confirm nothing is missing.
+-- Drag Job Number to Group Bar --
 
-If you need the full DWR, open it in a new tab.  
--- Click DWR Number Link --  
-That link brings you back to the original record where you can read the crew's notes or double-check the cost items. If you discover an error that needs rewriting, leave the backlog, unapprove the DWR, and ask the technician to correct it. Only accurate data should move forward.
+Filtering keeps the backlog manageable when volumes grow. Use the filters to
+focus on a specific client, job, or deadline without losing sight of the rest
+of the queue.
 
-Once the details are correct, select the DWRs you want to bill.  
--- Select DWR Checkbox --  
-You can select multiple DWRs from the same job. Job Book automatically rolls them into a single draft invoice. If you select DWRs from different jobs, the system will warn you and ask you to invoice each job separately.
+-- Open Client Filter --
 
-With the records selected, generate the invoice.  
--- Click Invoice Selected DWRs --  
-Job Book confirms the job number and the number of DWRs you are invoicing.  
--- Click OK --  
-Within a few seconds, the DWRs disappear from the backlog and the draft invoice is created. A confirmation banner displays the new Invoice Number so you can start the next step immediately.
+-- Clear Filter --
 
-Return to the dashboard to review the draft.  
--- Click Home --  
-On the Invoices card, choose Explore to open the invoice queues.  
+Before you generate an invoice, review the underlying work. Expanding a DWR
+shows the labour, equipment, and material line items, including hours and
+rates. Approved expenses tied to the same job appear here as well, so you can
+confirm nothing is missing.
+
+-- Expand DWR Details --
+
+If you need the full DWR, open it in a new tab to read the crew notes or
+double-check cost items. If something needs to be corrected, unapprove the DWR
+and ask the technician to fix it before you continue.
+
+-- Click DWR Number Link --
+
+Once the details are correct, select the DWRs you want to bill. You can select
+multiple records from the same job and Job Book will roll them into a single
+draft invoice. If you select DWRs from different jobs, the system will remind
+you to invoice each job separately.
+
+-- Select DWR Checkbox --
+
+With the records selected, generate the invoice. Job Book confirms the job
+number and the number of DWRs you are invoicing before it creates the draft.
+When the process completes, the DWRs disappear from the backlog and the
+Invoice Number appears for reference.
+
+-- Click Invoice Selected DWRs --
+
+-- Click OK --
+
+Return to the dashboard to review the draft invoice. The Invoices card gives
+you access to every invoice queue so you can keep the billing flow moving.
+
+-- Click Home --
+
 -- Click Explore Invoices --
 
-You will land on the PM Queue. Every invoice you just created sits here waiting for a project manager sign-off. If you are both the administrator and the project manager, you can complete that review yourself.  
--- Open Invoice --  
-You will see the invoice header, the list of line items, and the totals that came from the DWRs. A representative signature is required before the invoice advances.
+You will land on the PM Queue. Every invoice you just created sits here
+waiting for a project manager sign-off. If you wear both hats, you can
+complete that review yourself.
 
-Add your sign-off.  
--- Click Edit --  
--- Scroll to Representative Signature --  
--- Click Add My Signature --  
+-- Open Invoice --
+
+Add your representative signature so the invoice can advance. The display
+shows the invoice header, every line item pulled from the DWRs, and the totals
+that will reach the client.
+
+-- Click Edit --
+
+-- Scroll to Representative Signature --
+
+-- Click Add My Signature --
+
 -- Click Save --
 
-From here, the rest of the workflow depends on your invoice type. If the invoice type is set to Ticket/Invoice, Job Book sends the document to the Ticket Queue for client approval. Once the client signs off, convert the ticket into an invoice and it will move to the Admin Queue. If the invoice type is Invoice, it bypasses the Ticket Queue and lands directly in the Admin Queue for final checks and the Processed flag.
+From here, the rest of the workflow depends on the invoice type. Ticket slash
+Invoice documents move to the Ticket Queue for client approval before
+returning to the Admin Queue. Standard Invoices skip the ticket stage and head
+straight to the Admin Queue for final checks and processing.
 
-When you mark an invoice as processed, it becomes available to the Invoice Process Backlog so you can export it to QuickBooks, Sage, or another accounting system. Each step keeps your billing pipeline transparent and auditable.
+When you mark an invoice as processed, it becomes available to the Invoice
+Process Backlog. That is where administrators export invoices to QuickBooks,
+Sage, or another accounting system. Each step keeps your billing pipeline
+transparent and auditable.
 
-Let us connect the dots. Field teams create DWRs and expenses. Project managers approve them in their respective backlogs. Administrators convert approved DWRs into invoices here. Project managers sign the draft invoices, and administrators deliver them to clients or accounting. The Active Job Dashboard updates along the way so budgets and earned values stay current.
+Let us connect the dots. Field teams create DWRs and expenses. Project
+managers approve them in their respective backlogs. Administrators convert
+approved DWRs into invoices here. Project managers sign the drafts,
+administrators deliver them, and the Active Job Dashboard stays current the
+entire time.
 
 A few best practices make the DWR Invoice Backlog run smoothly:
 
-- Schedule a dedicated billing block every week. When the queue never grows stale, clients see timely invoices and cash flow stabilizes.  
-- Use the grouping bar to process one client at a time during month end. Sending a unified package per client reduces back-and-forth questions.  
-- Always scan the expanded details for missing expenses. If the crew logged mileage but the amount is zero, pause and confirm before you invoice.  
-- Record context in the Notes field before you generate the invoice. Short reminders like "Waiting on signed change order" help colleagues understand status.  
-- After each billing session, refresh the grid and double-check the Ready By column. Anything still in the backlog should have a clear plan to move forward.
+- Schedule a dedicated billing block every week. When the queue never grows
+  stale, clients see timely invoices and cash flow stabilizes.
 
-If you collaborate across offices, share a quick summary after every batch. A two-line update that lists the jobs invoiced and the values converted keeps leadership confident in your billing cadence.
+- Use the grouping bar to process one client at a time during month end.
+  Sending a unified package per client reduces back-and-forth questions.
 
-Before we wrap up, here is a quick recap. We opened the DWR Invoice Backlog, reorganized the grid with sorts, filters, and grouping, and reviewed the supporting DWR data. We converted selected DWRs into invoices, signed them in the PM Queue, and discussed how those invoices continue into Ticket, Admin, and export workflows. Every step keeps the flow from field work to revenue clear and controlled.
+- Always scan the expanded details for missing expenses. If the crew logged
+  mileage but the amount is zero, pause and confirm before you invoice.
 
-In the next episode, we will stay in the invoicing space and build invoices from scratch. You will see how to handle fixed-price jobs, edit draft documents, and tailor invoice formats before sending them to clients.
+- Record context in the Notes field before you generate the invoice. Short
+  reminders like "Waiting on signed change order" help colleagues understand
+  status.
+
+- After each billing session, refresh the grid and double-check the Ready By
+  column. Anything still in the backlog should have a clear plan to move
+  forward.
+
+If you collaborate across offices, share a brief summary after every batch. A
+two-line update that lists the jobs invoiced and the values converted keeps
+leadership confident in your billing cadence.
+
+Before we wrap up, here is a quick recap. We opened the DWR Invoice Backlog,
+reorganized the grid with sorts, filters, and grouping, and reviewed the
+supporting DWR data. We converted selected DWRs into invoices, signed them in
+the PM Queue, and followed them into Ticket, Admin, and export workflows.
+Every step keeps the path from field work to revenue clear and controlled.
+
+In the next episode, we will stay in the invoicing space and build invoices
+from scratch. You will see how to handle fixed-price jobs, edit draft
+documents, and tailor invoice formats before sending them to clients.
 
 Thanks for watching, and I will see you in the next video.
