@@ -7,6 +7,41 @@ They pull together approved DWRs, expenses, and fixed price items, so billing is
 
 Let’s walk through the process.
 
+Return to the dashboard to review the draft invoice. The Invoices card gives
+you access to every invoice queue so you can keep the billing flow moving.
+
+-- Click Home --
+
+-- Click Explore Invoices --
+
+You will land on the PM Queue. Every invoice you just created sits here
+waiting for a project manager sign-off. If you wear both hats, you can
+complete that review yourself.
+
+-- Open Invoice --
+
+Add your representative signature so the invoice can advance. The display
+shows the invoice header, every line item pulled from the DWRs, and the totals
+that will reach the client.
+
+-- Click Edit --
+
+-- Scroll to Representative Signature --
+
+-- Click Add My Signature --
+
+-- Click Save --
+
+From here, the rest of the workflow depends on the invoice type. Ticket slash
+Invoice documents move to the Ticket Queue for client approval before
+returning to the Admin Queue. Standard Invoices skip the ticket stage and head
+straight to the Admin Queue for final checks and processing.
+
+When you mark an invoice as processed, it becomes available to the Invoice
+Process Backlog. That is where administrators export invoices to QuickBooks,
+Sage, or another accounting system. Each step keeps your billing pipeline
+transparent and auditable.
+
 From the dashboard, click the Navigate button at the top left. 
 Click on Invoices. 
 Then click Create.
