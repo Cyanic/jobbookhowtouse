@@ -19,11 +19,12 @@ Scripts are written in plain text (Markdown-compatible) and do not include scene
 **Primary Users**
 
 The video series is designed for Job Book users, including:
+
 - **Technicians** – Complete Daily Work Records (DWRs) and submit expenses.
 - **Project Managers** – Track job progress, monitor costs, approve DWRs and expenses.
 - **Administrators / Job Coordinators** – Manage clients, jobs, invoices, reports, and approvals.
 - **Owners / Managers** – Oversee approvals, reporting, and company-wide performance.
-These roles define the intended viewers, not the narrator’s role.
+  These roles define the intended viewers, not the narrator’s role.
 
 ---
 
@@ -44,13 +45,22 @@ Avoid phrasing that suggests the narrator is a Land Surveyor or project team mem
 
 Each episode follows this sequence:
 
-1. **Series Hook (Standard Introduction)** –  
-   Welcome back to the Job Book How to Use Series.  
-   If this is your first time watching, note that each episode builds on the last.  
-   *(Skip this section for Episode 1.)*
+1. **Series Hook (Standard Introduction)** –
+
+   ```
+   Welcome back to the Job Book How to Use Series.
+   If this is your first time watching,
+   remember that each episode builds on the last.
+   ```
+
+   _(Skip this section for Episode 1.)_
 
 2. **Previous Episode Reference** –  
    Briefly summarize what was covered in the last video and how it connects here.
+
+   ```
+   In the last video we explored the...
+   ```
 
 3. **Episode Introduction** –  
    State the topic and purpose of this episode.
@@ -75,6 +85,14 @@ Each episode follows this sequence:
 
 9. **Outro** –  
    End confidently, reaffirming the skill learned and encouraging continued viewing.
+
+10. **Final Lines** –
+
+```
+Thanks for watching, and I’ll see you in the next video!
+And don’t forget to subscribe for more Job Book updates
+and helpful how-to videos!
+```
 
 Target length: **800–1200 words** (≈3–6 minutes spoken).
 
@@ -153,9 +171,10 @@ Begin with an action verb (“Show,” “Demonstrate,” “Walk through,” �
 ---
 
 ### Line Formatting
+
 Break text into logical line lengths, ideally **no longer than 80 characters per line**.  
 Do not hard-wrap at exactly 80 characters—wrap naturally at clause or phrase boundaries  
-to preserve readability.  
+to preserve readability.
 
 When generating scripts, treat each line break as a soft wrap for teleprompter display.  
 Avoid single paragraphs that extend beyond 3–4 lines.
@@ -167,12 +186,14 @@ Avoid single paragraphs that extend beyond 3–4 lines.
 When generating a script, use the following sources to ensure accuracy and continuity:
 
 1. **Job Book Help Documentation**
+
    - Primary reference: ./Reference/jobbook-help-documents.md
    - Use it to confirm terminology (menu names, field labels, feature names), workflow order, and user-role responsibilities.
    - Mirror the functional language used in the Help documentation, but rewrite it in a natural spoken-narration style.
-   - Any references to image files can be ignored as they are not in this repository. 
+   - Any references to image files can be ignored as they are not in this repository.
 
 2. **Previous Scripts in the Series**
+
    - Always review the scripts that precede the current one (e.g., when generating Episode 2.8, review Episodes 2.1–2.7).
    - Extract context such as:
      - How features were introduced and explained.
@@ -181,6 +202,7 @@ When generating a script, use the following sources to ensure accuracy and conti
    - Reuse established phrases and continuity hooks for consistency across episodes.
 
 3. **Role Context**
+
    - Use audience and role definitions from this specification to ground examples (Technician, Project Manager, etc.).
    - Maintain the same role behavior as described in prior scripts — e.g., if a Technician creates DWRs in one episode, keep that consistent.
 
