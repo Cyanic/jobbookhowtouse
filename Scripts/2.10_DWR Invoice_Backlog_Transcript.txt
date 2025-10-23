@@ -1,43 +1,118 @@
+# Episode 10 - DWR Invoice Backlog
+**Series:** Job Book How to Use
+**Target Roles:** Administrator, Project Manager
+**Task:** Demonstrate how to review and convert approved DWRs into client-ready
+invoices using the DWR Invoice Backlog.
+**Length:** 800-1200 words
+**Previous:** Expense Approval Backlog
+**Next:** Creating Invoices
+**Tags:** Invoicing, Administrator, Project Manager, Workflow
+
 Welcome back to the Job Book How to Use Series.
+If this is your first time watching, remember that each episode builds on the last.
 
-In this video, I’ll show you how to use the DWR Invoice Backlog in Job Book.
+In the previous video we cleared the Expense Approval Backlog.
+We matched receipts to jobs, protected reimbursements, and prepared cost data for billing.
 
-The DWR Invoice Backlog is where administrators and project managers review invoices before they are finalized and sent to clients. 
-It ensures accuracy and prevents billing mistakes.
+Today we are focusing on the DWR Invoice Backlog, the checkpoint where approved
+daily work records turn into draft invoices.
+It keeps pricing, scope, and timing aligned before anything reaches a client.
 
-Let’s take a look.
+Before we press any buttons, here is why this queue matters.
+Approved DWRs land here ready for billing, and this review is the last chance to
+catch coding or rate issues.
+Skipping it invites underbilling, double billing, or sending the wrong details to
+a client.
+A steady backlog rhythm protects cash flow, keeps job budgets accurate, and
+preserves your reputation.
 
-From the dashboard, locate the Invoice Process Backlog card on the right-hand side. 
-Click it to open the backlog.
+I am logged in as an Administrator.
+That role gives me access to every job and every backlog queue.
+A project manager would see only the jobs assigned to them, but the workflow is the same.
 
-Here you’ll see a list of all invoices that are waiting for review. 
-Each row shows the Job, Client, Invoice Number, Date, and Invoice Amount.
+From the main dashboard look to the right column.
+You will find the Invoice Process card that lists billing queues.
+-- Click Invoice Process Backlog --
 
-To review an invoice, click on it.
+The DWR Invoice Backlog opens in a new tab inside Job Book.
+A toolbar across the top holds Approve, Reject, Export, and Refresh.
+Below it a filter bar lets you search by client, job, date range, or invoice
+number, and the grid lists each draft invoice waiting for review with its job,
+client, billing period, total, and status.
 
-Inside the invoice, you’ll see all the details:
-- The client and job information.  
-- The line items being billed, including labour, equipment, fixed price items, and expenses.  
-- The total invoice amount.  
-- The status of each line item, whether approved or pending.  
+You can sort any column by clicking the header.
+-- Sort by Job --
+Sorting moves related invoices together so you can clear one project at a time,
+and dragging a column into the grouping bar lets you review one client or job in
+sequence.
 
-As an administrator or project manager, your role is to confirm that the invoice is correct. 
-Check that line items match the work performed and that expenses have been approved. 
-If everything looks correct, click Approve. 
-The invoice will then be ready to finalize and send to the client.
+Filters keep you focused when the backlog grows.
+-- Apply Filter --
+Use the filter funnel next to Client, start typing the client name, or filter by
+Job Number or Ready By date when you are working toward a billing deadline.
 
-If you find an error, you can edit the invoice directly or reject it for correction. 
-When rejecting, add a note so the person who created it knows what to fix. 
-For example: “Incorrect rate applied to Survey Party Chief line item.”
+Let us open one of the invoices in the backlog.
+-- Open Invoice Detail --
+A drawer slides in with a detailed preview that shows billing metadata, grouped
+line items, and totals.
+Labour lines list the role, hours, rate sheet, and amount; equipment, materials,
+and disbursements follow the same pattern so you can confirm pricing fast.
+Expenses we approved in the previous episode display here too, so you can scan
+for missing costs without leaving the screen.
+If the total looks off, use View DWRs to compare against the source records.
+-- View Source DWRs --
 
-Approved invoices disappear from the backlog and move into the system as finalized invoices. 
-Rejected invoices return for correction.
+You can edit line details from this screen when you need small adjustments.
+-- Edit Line Item --
+Adjust quantities, descriptions, or rate sheet items when something minor needs
+refinement, and Job Book logs the change in the audit trail.
+-- Add Internal Note --
+Use internal notes to flag follow ups for other reviewers, and add a client note
+if the final invoice should include context like a purchase order reference.
 
-Why is the Invoice Process Backlog important?
-- It ensures invoices are accurate before clients receive them.  
-- It prevents billing disputes and delays.  
-- It keeps your invoicing workflow organized and transparent.  
+When the invoice looks right, tick its checkbox in the grid.
+-- Select Invoice --
+The Approve button activates immediately.
+-- Approve Invoice --
+Confirm the prompt and the invoice leaves the backlog for the Ready to Send list
+where your accounting team can email, print, or export it.
 
-That’s how you use the Invoice Process Backlog in Job Book.
+If you find a bigger issue, choose Reject.
+-- Reject Invoice --
+Give a clear instruction so the drafter knows what to fix, and the invoice will
+stay hidden from the client until it returns.
 
-In the next video, I’ll show you how to create invoices in Job Book.
+You can work in batches too.
+-- Multi Select Invoices --
+Select several rows that share the same status and approve them together; if a
+correction is needed later, unapprove the specific invoice and it returns to the
+backlog.
+
+Reporting teams rely on the Export button when leadership wants a billing snapshot.
+-- Export Grid --
+It downloads the current view with your filters intact for quick email updates.
+
+Let us talk about how this backlog fits into the broader Job Book process.
+Approved DWRs flow here after the DWR Approval Backlog.
+Once you approve invoices they move into the invoicing module for final
+delivery, and the Active Job Dashboard updates so budget to actual reporting
+stays accurate.
+Rejected invoices keep their DWR approvals but park here until someone rebuilds them.
+
+Here are a few habits that keep this queue healthy.
+Schedule a weekly billing review with project managers, use client grouping
+during month end so each customer gets a tidy package, document partial invoices
+with internal notes, and finish every session with a quick scan for returned
+items.
+
+Before we wrap up, let me recap.
+We opened the Invoice Process Backlog, reviewed the grid controls, drilled into
+invoice details, and made targeted edits.
+We approved clean invoices, rejected the ones that needed fixes, and exported a
+billing snapshot while keeping the workflow connected to the rest of Job Book.
+
+In the next episode we will step into the Creating Invoices module.
+We will build invoices from scratch, combine backlog items, and look at how
+those invoices move to accounting.
+
+Thanks for watching, and I will see you in the next video.
