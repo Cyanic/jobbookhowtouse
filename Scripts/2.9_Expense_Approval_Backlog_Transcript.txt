@@ -2,21 +2,22 @@ Welcome back to the Job Book How to Use Series.
 If this is your first time watching, 
 remember that each episode builds on the last.
 
-In our previous video we worked through the DWR Approval Backlog.
-We confirmed daily work records before they flowed into payroll and invoicing.
+In the last video we explored the DWR Approval Backlog.
+We bulk approved daily work records before they flowed into payroll and invoicing.
 
-This episode we are going to clear the Expense Approval Backlog.
+In this episode, we’re going to clear the Expense Approval Backlog.
 This is where submitted expenses wait for a 
 Project Manager or Administrator to review.
-Think of it as the gatekeeper that protects cash flow, reimbursement accuracy, 
-and client billing.
+Think of it as the gatekeeper that protects cash flow, 
+reimbursement accuracy, and client billing integrity.
 
 Before we jump into Job Book, let's talk about why this backlog matters.
-Expenses in Job Book are costs born by staff to a job that need reimbursement.
+Expenses in Job Book are costs paid by staff on behalf of a job 
+that need reimbursement.
 If we approve them blindly we risk billing the wrong client 
 or paying staff for the wrong amount.
 A steady approval rhythm keeps reimbursements timely 
-and the general ledger clean.
+and your general ledger clean.
 It also keeps our job budgets trustworthy 
 when leadership checks the numbers.
 
@@ -24,7 +25,8 @@ I am logged in as an Administrator so I can see every expense awaiting review.
 You can follow the same process as a Project Manager 
 if that is the role assigned to you.
 
-Now let's walk through the screen together.
+Now let’s walk through the screen together 
+and see how the approval process works.
 From the main dashboard, look at the Workflow card 
 in the middle of the second row,
 In the Workflow list choose Expense Approval Backlog.
@@ -43,8 +45,8 @@ Below that is the Expense Table.
 The Expense table lists every submitted expense that still needs approval.
 
 The first column is a checkbox. 
-Clicking the checkbox in the header selects all Expenses for bulk approval. 
-Unchecking it will deselect all Expenses.
+Clicking the checkbox in the header selects all expenses for bulk approval. 
+Unchecking it clears all selections.
 
 Next is the Date column. 
 The Date column contains hyperlinks to the individual Expenses.
@@ -56,15 +58,15 @@ By default, Expenses are sorted by Date and Employee Name in ascending order.
 That means the oldest Expenses appear first, 
 and within each day, they’re sorted by Employee Name.
 
-Multiple columns can be sorted at once. 
-If you want to sort by only one column, 
-you’ll need to remove sorting from the others 
+You can sort by multiple columns at once. 
+To focus on one column, remove sorting from the others 
 by clicking the sorted column until the arrow disappears.
 
 Just like we did in the DWR Approval Backlog video in this series.
 
-And just like the DWR Approval Backlog you can filter data by clicking the 
-filter icon or typing in the quick filter field in certain columns. 
+Just like the DWR Approval Backlog, 
+you can filter data using the filter icon 
+or by typing in the quick filter field in certain columns.
 
 Sometimes an Expense might need a small adjustment. 
 If it’s just a typo or a minor fix, you can correct it on the spot. 
@@ -78,10 +80,9 @@ where you can review, edit,
 or manually approve the expense.
 
 You can also check off the Processed checkbox.
-A Processed expense can mean different things depending on the situation.
-If it was an expense that needs reimbursement it can mean the staff member
-was reimbursed the expense. If it was an expense that needs to be included 
-in an Invoice it could mean that expense was included in the invoice.
+The Processed checkbox can mean different things depending on the situation. 
+For reimbursements, it means the staff member has already been paid. 
+For billable expenses, it means the expense was included on an invoice.
 
 If you want to learn more about the relationship between 
 Processed and Unprocessed Expenses in Invoices
@@ -97,7 +98,7 @@ one by one can get cumbersome.
 -- Click Expense Approval Backlog Tab --
 
 If you recall from the Creating Expenses video in this series 
-every expense represents one item or reciept. 
+every expense represents one item or receipt.
 
 From the Expense table you should have all the information needed 
 to approve an expense without opening each Expense individually.
@@ -129,8 +130,8 @@ Edit the expense, and ucheck the Approved checkbox.
 That’s about all there is for the Expense Approval Backlog. 
 
 Let's talk about integration.
-Expenses flow directly into the Active Job Dashboard,
-so Project Managers can compare committed costs against estimates.
+Expenses flow directly into the Active Job Dashboard, 
+allowing Project Managers to compare committed costs against estimates.
 
 When invoicing a Job all expenses related to the job are listed.
 Administrators can then include those expenses if needed 
@@ -138,7 +139,8 @@ and set the expenses to Processed.
 
 Here are a few best practices that seasoned administrators follow.
 First, schedule a daily approval window.
-Clearing the backlog at the same time each day keeps reimbursements predictable for staff.
+Clearing the backlog at the same time each day 
+keeps reimbursements predictable for staff.
 Second, scan for duplicates before you approve.
 If two employees submitted the same hotel receipt, reject the duplicate immediately.
 These small habits keep approvals fast without sacrificing accuracy.
@@ -147,13 +149,13 @@ Before we wrap up, let's recap what we covered.
 We opened the Expense Approval Backlog from the Workflow card.
 We reviewed an expense record, checked attachments, and confirmed job coding.
 We approved clean expenses.
-We used bulk approvals to speed up high volume days.
+We used bulk approvals to speed up high-volume days.
 Most importantly, we saw how this backlog feeds invoicing, reporting, and cash flow.
 
 In the next video we will move deeper into billing 
 and explore the DWR Invoice Backlog.
-That is where DWRs for Time and Material Jobs land 
-so it's easy to build customer invoices.
+That’s where DWRs for Time and Material jobs land, 
+making it easy to build customer invoices.
 
 Thanks for watching, and I’ll see you in the next video!
 
