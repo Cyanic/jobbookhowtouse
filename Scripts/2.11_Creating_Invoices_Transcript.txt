@@ -1,88 +1,144 @@
+# Episode 11 - Creating Invoices
+**Series:** Job Book How to Use  
+**Target Roles:** Administrator  
+**Task:** Build, review, and finalize invoices, including manual creation, line item formatting, and queue routing.  
+**Previous:** DWR Invoice Backlog  
+**Next:** Importing Invoices
+
 Welcome back to the Job Book How to Use Series.
+If this is your first time watching,
+remember that each episode builds on the last.
 
-In this video, I’ll show you how to create invoices in Job Book.
+In the previous video we generated draft invoices out of the DWR Invoice Backlog and saw how they land in the Project Manager queue for signature.
 
-Invoices are how you bill your clients for the work your team has completed. 
-They pull together approved DWRs, expenses, and fixed price items, so billing is accurate and easy.
+Today we will finish those drafts and build a fixed price invoice from scratch.
 
-Let’s walk through the process.
+Invoices are where job tracking turns into revenue, so getting the numbers right protects margin, keeps clients confident, and updates the Active Job Dashboard with the true billing status.
 
-Return to the dashboard to review the draft invoice. The Invoices card gives
-you access to every invoice queue so you can keep the billing flow moving.
+I am logged in as an Administrator so I have access to every invoice queue.
 
--- Click Home --
-
+From the main dashboard,
+look at the Invoices card in the top row.
 -- Click Explore Invoices --
 
-You will land on the PM Queue. Every invoice you just created sits here
-waiting for a project manager sign-off. If you wear both hats, you can
-complete that review yourself.
-
+We land on the PM Queue.
+Any invoice that came out of the DWR Invoice Backlog sits here until a Project Manager signs it.
 -- Open Invoice --
 
-Add your representative signature so the invoice can advance. The display
-shows the invoice header, every line item pulled from the DWRs, and the totals
-that will reach the client.
+Review the header for the invoice number, date, client, job reference, and the summary totals for labour, equipment, expenses, tax, and the grand total.
 
+Each line item below is the labour, equipment, material, or fixed price detail that flowed in from the approved DWRs.
+If anything looks off, open the invoice for editing.
 -- Click Edit --
 
--- Scroll to Representative Signature --
+The edit screen is split into sections so you can adjust the representative contact, purchase order number, and remit to address.
+Use Invoice Type to decide whether the document must pass through the Ticket Queue, and Line Item Type to choose between Detailed and Summarized output.
+Detailed lists every line exactly as it was recorded, while Summarized rolls the charges up by category so the client sees a shorter document.
 
+Because this invoice is going directly to the client I will keep the type set to Invoice with Detailed lines.
+If the client expects to approve a ticket before receiving the final invoice, change the type to Ticket slash Invoice so Job Book enforces the client approval step.
+-- Open Invoice Type dropdown --
+-- Select Ticket / Invoice --
+
+Scroll down to the labour section and edit any line item directly without leaving the screen.
+-- Update Quantity and Unit Cost --
+
+Below labour you will see equipment and material items, followed by fixed price entries and billable expenses.
+
+If you need to add a charge that never appeared on a DWR, use the Add Line Item button to choose the correct item and enter the quantity and rate.
+-- Click Add Line Item --
+-- Enter Quantity and Unit Cost --
+
+The subtotal updates as you make changes; use the Totals section to override the bottom-line amount for a fixed price job.
+-- Scroll to Totals --
+-- Enter Bottom Line Total --
+
+Any note you enter in the Internal Notes field stays inside Job Book.
+Client Notes appear on the PDF.
+Use them to explain unusual charges or document the date range covered by the invoice.
+
+Scroll further to the Representative Signature section.
+This is where the Project Manager or Administrator signs off before the invoice can move forward.
+-- Scroll to Representative Signature --
 -- Click Add My Signature --
 
+After the signature is captured, save the invoice.
 -- Click Save --
 
-From here, the rest of the workflow depends on the invoice type. Ticket slash
-Invoice documents move to the Ticket Queue for client approval before
-returning to the Admin Queue. Standard Invoices skip the ticket stage and head
-straight to the Admin Queue for final checks and processing.
+The invoice returns to the PM Queue list.
+If the invoice type is Ticket slash Invoice it advances to the Ticket Queue; otherwise it moves straight to the Admin Queue for processing.
+-- Open Admin Queue --
 
-When you mark an invoice as processed, it becomes available to the Invoice
-Process Backlog. That is where administrators export invoices to QuickBooks,
-Sage, or another accounting system. Each step keeps your billing pipeline
-transparent and auditable.
+The Admin Queue is the last stop before the invoice is ready for export.
+Administrators check the Processed box after any final audit.
+-- Open Invoice --
+-- Edit Invoice and Check Processed --
+-- Click Save --
 
-From the dashboard, click the Navigate button at the top left. 
-Click on Invoices. 
-Then click Create.
+Processed invoices drop into the Processed Queue.
+From there you can check the Paid box once you receive confirmation from accounting.
+-- Open Processed Queue --
+-- Edit Invoice and Check Paid --
+-- Click Save --
 
-The first field is Client. 
-Select the client you want to invoice. 
-For example, “Springfield Engineering Ltd.”
+Now that we have finished a DWR-driven invoice,
+let's build one manually for a fixed price job.
 
-Next, choose the Job. 
-Pick the job linked to this client. 
-For example, “Boundary Survey – 5th Avenue.”
+Return to the dashboard and open the Active Job Dashboard from the Jobs card.
+-- Open Active Job Dashboard --
 
-Job Book will automatically pull in all approved DWRs, expenses, and line items associated with this job. 
-You’ll see them listed under the invoice details.
+Locate the fixed price job in the grid.
+-- Select Job and Click Dollar Icon --
 
-Review the line items carefully:
-- Labour items such as hours worked by your staff.  
-- Equipment and materials used on the job.  
-- Approved expenses linked to this job.  
-- Fixed price items for lump-sum services.  
+We are on the Create Invoice page for that specific job.
+Because this job is billed at a lump sum, the form starts blank.
+Choose the Invoice Type and Line Item Type first so the presentation matches the contract.
+-- Select Invoice Type --
+-- Select Line Item Type --
 
-If needed, you can edit quantities or rates directly on the invoice. 
-For example, adjusting the number of hours or updating a fixed price amount.
+Next, populate the header.
+Set the invoice and due dates so the document matches your billing cycle.
+-- Enter Invoice and Due Dates --
 
-You can also add new line items manually if something wasn’t captured earlier. 
-For example, “Third Party Charges.”
+Now add the charges.
+You can either add individual line items or jump straight to the Totals section and enter the overall price.
+I will add two fixed price line items so the client sees how the contract is structured, selecting the appropriate item before entering quantity and unit cost.
+-- Click Add Line Item --
+-- Enter Quantity and Unit Cost --
 
-Once everything looks correct, add Invoice Notes if needed. 
-These are visible to the client and are useful for extra details, such as “Includes field work completed in March.”
+If the job includes reimbursable expenses, pull them in using the Add Expense button.
+-- Add Expense --
 
-At the top of the invoice, you’ll see the Invoice Number and Date. 
-Job Book will automatically generate these, but you can edit them if your company has a different numbering system.
+Attach supporting documents such as signed field tickets or photos to reinforce the charges.
+-- Click Add Attachment --
 
-When you’re satisfied, click Save. 
-The invoice is now created and will appear in the Invoice Process Backlog for review.
+Before saving, double-check the Summary section; taxes calculate automatically based on your setup, and you can override them when the client provides exemption documentation.
+-- Review or Adjust Tax Section --
 
-Why is this process important?
-- Invoices only include approved DWRs and expenses, ensuring accuracy.  
-- Administrators and project managers can review invoices before sending.  
-- Clients receive clear, professional invoices directly from the system.  
+Use the Narrative field to restate the milestone or deliverable so the client knows exactly what was completed.
 
-That’s how you create invoices in Job Book.
+Save the invoice to push it into the workflow.
+-- Click Save --
 
-In the next video, I’ll show you how to import invoices from Job Book into your accounting system.
+Even a manually created invoice follows the same sequence: PM Queue for signature, Ticket Queue if required, then the Admin Queue for processing.
+When you mark it as Processed it becomes available in the Invoice Process Backlog, where you export batches to QuickBooks, Sage, Xero, or any other accounting system you integrate with.
+
+Here are a few best practices before we wrap up.
+
+Schedule a weekly invoice review slot so you catch issues before documents go out.
+
+Use Detailed format for new clients until they trust your reporting, then switch to Summarized to shorten the PDF.
+
+Always add a client-facing note when you adjust quantities or rates, and process exports in small batches to simplify reconciliation in your accounting system.
+
+Let's recap what we covered today.
+We reviewed DWR-generated invoices in the PM Queue.
+We adjusted line items, captured signatures, and processed the document for accounting export.
+We also created a fixed price invoice manually, covered invoice type and line item formatting, and added supporting notes and attachments.
+
+In the next video we will move into the Invoice Process Backlog.
+You will see how to package invoices for QuickBooks, Sage, or any other accounting platform your firm uses.
+
+Thanks for watching, and I'll see you in the next video!
+And don't forget to subscribe for more Job Book updates
+and helpful how-to videos!
