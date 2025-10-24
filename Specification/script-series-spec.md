@@ -151,7 +151,7 @@ Begin with an action verb (“Show,” “Demonstrate,” “Walk through,” �
 9. **Expense Approval Backlog** – Reviewing and approving expenses.
 10. **DWR Invoice Backlog** – Converting approved DWRs into invoices.
 11. **Creating Invoices** – Invoice types, editing, and summaries.
-12. **Importing Invoices** – Exporting to accounting systems (QuickBooks, Sage).
+12. **Exporting Invoices** – Exporting to accounting systems (QuickBooks, Sage).
 13. **Next Steps** – Series recap and links to advanced modules.
 
 ---
@@ -172,11 +172,20 @@ Begin with an action verb (“Show,” “Demonstrate,” “Walk through,” �
 
 ### Line Formatting
 
-Break text into logical line lengths, ideally **no longer than 80 characters per line**.  
-Do not hard-wrap at exactly 80 characters—wrap naturally at clause or phrase boundaries  
+Break text into logical line lengths, ideally **no longer than 80 characters per line**.
+Do not hard-wrap at exactly 80 characters—wrap naturally at clause or phrase boundaries
 to preserve readability.
 
-When generating scripts, treat each line break as a soft wrap for teleprompter display.  
+When generating or revising scripts, preserve all existing line breaks unless they clearly violate
+the line length or readability guidelines.
+
+Do not merge or collapse short lines together.
+
+Do not reflow text that is already properly formatted into 3–4 line paragraphs.
+
+Treat each existing line break as intentional for teleprompter pacing.
+
+Treat each line break as a soft wrap for teleprompter display.
 Avoid single paragraphs that extend beyond 3–4 lines.
 
 ---
@@ -296,8 +305,8 @@ Use this to cross-reference dependencies between episodes:
 | Expenses            | Expense Approvals  | Workflow for administrator review   |
 | Expense Approvals   | Invoicing          | Approved Expenses flow into billing |
 | DWR Invoice Backlog | Creating Invoices  | Exporting data to accounting        |
-| Invoices            | Importing Invoices | Exporting data to accounting        |
-| Importing Invoices  | Next Steps         | Closeout and advanced features      |
+| Invoices            | Exporting Invoices | Exporting data to accounting        |
+| Exporting Invoices  | Next Steps         | Closeout and advanced features      |
 
 ---
 
@@ -409,11 +418,11 @@ Use this to cross-reference dependencies between episodes:
 **Target Roles:** Administrator
 **Task:** Show how to create invoices manually or from jobs. Explain invoice type (Ticket/Invoice vs. Invoice), line item type (Detailed vs. Summarized), and editing.
 **Previous:** DWR Invoice Backlog  
-**Next:** Importing Invoices
+**Next:** Exporting Invoices
 
 ---
 
-# Episode 12 – Importing Invoices
+# Episode 12 – Exporting Invoices
 
 **Series:** Job Book How to Use  
 **Target Roles:** Administrator
@@ -428,7 +437,7 @@ Use this to cross-reference dependencies between episodes:
 **Series:** Job Book How to Use  
 **Target Roles:** All staff
 **Task:** Summarize what’s been covered (Clients, Jobs, DWRs, Expenses, Dashboard, Approvals, Invoices). Reinforce user confidence. Point to Reporting Guide Series and advanced modules (Tasks, Leave, Assets, Safety).
-**Previous:** Importing Invoices  
+**Previous:** Exporting Invoices  
 **Next:** Job Book Advanced Reporting Series
 
 ---
