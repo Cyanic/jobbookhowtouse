@@ -1,340 +1,312 @@
 Welcome back to the Job Book How to Use Series.
-If this is your first time watching, 
+If this is your first time watching,
 remember that each episode builds on the last.
 
-In the previous video, we generated draft invoices from the DWR Invoice Backlog 
-and saw how they move into the Project Manager queue for sign-off.
+In the previous video, we generated draft invoices from the
+DWR Invoice Backlog and saw how they move into the
+Project Manager queue for sign-off.
 
-Today, we’ll finish that time-and-materials draft invoice 
+Today, we’ll finish that time-and-materials draft invoice
 and build a fixed-price invoice from scratch.
 
-Invoices are where job tracking turns into revenue. 
-Getting the numbers right protects margins, builds client confidence, 
+Invoices are where job tracking turns into revenue.
+Getting the numbers right protects margins, builds client confidence,
 and keeps the Active Job Dashboard up to date.
 
-I am logged in as an Administrator.
+I’m logged in as an Administrator.
 
 From the main dashboard, look at the Invoices card,
 it’s the first card on the second row.
-
-Then click the Explore button.
+Then click Explore.
 -- Click Explore --
 
 This is the Invoice Management section.
+If you recall from the Creating DWRs video 
+earlier in this series,
+the interface should look familiar — but slightly different.
 
-If you recall from watching the Creating DWRs video 
-earlier in this series.
-The interface should look familiar but slightly different.
+At the top, you’ll see seven tabs.
+When an invoice is first created in the DWR Invoice Backlog,
+it starts in the PM Queue.
 
-At the top you’ll see seven tabs: 
-If you recall from the DWR Invoice Backlog video, 
-when you first create an invoice, it will start in the PM Queue. 
+Here you can see the time-and-materials invoice
+we created in the previous DWR Invoice Backlog video.
 
-Here you can see the time-and-material invoice we created 
-in the previous DWR Invoice Backlog video.
+Once the invoice is signed off,
+it moves either to the Ticket Queue
+if the job was set to Ticket / Invoice)
+or to the Admin Queue.
 
-Once the invoice is signed off, it will either move to the Ticket Queue 
-if the Job was set to Ticket slash Invoice, or it will move to the Admin Queue.
+The Admin Queue is where invoices are processed.
+Once processed, they move to the Processed tab.
 
-The Admin Queue is where the invoices are Processed, 
-once Processed the invoices move to the Processed tab.
-
-The last step is setting the invoice to Paid, 
+The final step is setting the invoice to Paid,
 which moves it to the Paid tab.
 
-That is the lifecycle of an invoice. 
+That’s the lifecycle of an invoice.
 
-The last two tabs are My Forms, consisting of all the invoices you created.
+The last two tabs are My Forms,
+which show all invoices you created,
+and finally, the All tab.
 
-And Finally the All tab.
+Below the tabs are the Filter Settings and Search bar.
+Then you’ll see the Create and Export to Excel buttons.
+Finally, there’s the Invoice List,
+showing Client Name, Job Number, Project Name, Date, and Invoice Number.
 
-Below the tabs are the Filter Settings and the Searchbar
-
-Then below that you have the Create Button and Export to Excel Button. 
-
-Finally you have the item list of invoices.
-From the item list you can see the Client name, Job Number, Project Name, 
-the Date the invoice was created, and Invoice number.
-
-Let’s take a closer look at the time-and-materials invoice we created earlier.
-Click on the invoice.
+Let’s open the time-and-materials invoice we created earlier.
 -- Click Invoice --
 
-There are five buttons on the top of the Display screen. 
+At the top of the display screen, there are five buttons:
 Edit, Export to PDF, Export to Word, Delete, and Back.
 
-The Edit button will allow you to edit the Invoice.
-The Export to PDF button creates a pdf file you can print or email 
-to a customer if needed.
-The Export to Word button creates a word file you can edit if needed, 
-before sending it to the customer.
-The Delete button will delete the Invoice 
-and the Back button will take you back to the display screen.
+Edit lets you modify the invoice.
 
-You'll notice a blue bar saying:
-This invoice is in the PM Queue 
-and needs a Representative Signature to proceed.
+Export to PDF creates a file you can print or email to a client.
 
-Let's do exactly that and sign off on the invoice to see what happens. 
+Export to Word creates a Word file you can edit further.
 
-Click the Edit button so we can sign off on the invoice.
+Delete removes the invoice.
+
+Back returns to the list view.
+
+You’ll notice a blue bar saying:
+“This invoice is in the PM Queue 
+and needs a Representative Signature to proceed.”
+
+Let’s sign off on it to see what happens.
 -- Click Edit --
 
 Here you can review, modify, and sign off on the invoice.
+You’ll see the Date, Invoice Number, and Job fields.
 
-There is the date, Invoice Number and Job. 
+If expenses were created for this job,
+you’ll also see an Expenses table.
+If you remember from the Creating Expenses video,
+we created one for this job — and here it is.
 
-If expenses were created on the job you will see an Expenses table.
-If you remember from our Creating Expense video 
-we created an expense to this job and here it is. 
+You can add expenses to the invoice by adding line items.
+Once an expense is accounted for, check its box.
+When you save the invoice, that expense becomes Processed
+and disappears from the pending list.
 
-You can add expenses to the invoice as needed by adding line items. 
-Once you’ve accounted for the expense, check the expense box.
-When you save the invoice the Expense will be set to processed and will disappear
-from the expense list. 
+Let’s pretend this expense is already included in labour costs,
+so we’ll simply check it off.
 
-Let's pretent this expense is already accounted for in our labour costs. 
-So we'll simply check it off. 
+Inside Invoice Details are six tabs.
+The Labour Costs tab lists all labour data
+imported from DWRs for this time-and-materials invoice.
+You can adjust most values here.
+Each Amount is calculated as unit cost × quantity.
 
-Inside the Invoice Details are six tabs.
-The Labour Costs tab displays the labour costs. In this time-and-materials invoice
-the labour costs consist of all the DWR data for labour.
+If you change the quantity of hours worked on an invoice,
+it does not change the employee’s payroll.
+That means you can adjust billing hours
+without affecting what staff are paid.
 
-You can modify most items here. The Amount is calcualted based on 
-the unit cost multiplied by the quanitity.
+I’ll scroll through and adjust values as needed.
 
-If you change the Quantity of hours worked on a invoice 
-it does not change the hours worked for your staff.
-
-That means you can for example change this from being 8 hours to 10 hours 
-and the Party Chief will not get paid an extra 2 hours.
-
-Changing values on the invoice does not affect payroll.
-
-I'll scroll through these Labour Cost Items changing values as needed.
-
-Once labour is reviewed, scroll up and click the next tab.
+Once labour is reviewed, move to the next tab.
 -- Click Equipment and Materials --
 
-You can make the same modifications to equipment and materials as needed.
-If you need to add a charge that never appeared on a DWR, use the Add Line
-Item button to choose the correct item and enter the quantity and rate.
+You can make similar edits here.
+If you need to add a charge that wasn’t on a DWR,
+use Add Line Item to select the correct entry
+and enter the quantity and rate.
 
-After that move to the next tab.
+Next tab.
 -- Click Fixed Price --
 
-Because this invoice was for a time-and-materials Job 
-I'm not going to add any Fixed Price Items. 
-I'll show you how to do that later in the video 
-when we make our lump sum invoice.
+Because this invoice is for a time-and-materials job,
+we won’t add any fixed-price items.
+I’ll show you that later when we create a lump-sum invoice.
 
-The next tab over is the Unpriced tab.
+Next tab.
 -- Click Unpriced --
 
-Here you can add unpriced items. Basically it will allow you to 
-add a description to the invoice. 
-I'll add some text so you can see how it behaves on the invoice.
--- Type: here is some text --
+Here you can add unpriced items —
+for example, notes or explanations for the client.
+-- Type “Here is some text.” --
 
-Next we have the Job Details tab.
+Next, the Job Details tab.
 -- Click Job Details --
+This shows you the original job data.
 
-This will show the person making the invoice, the original Job information.
-Finally you have the Attachments tab.
+Finally, the Attachments tab.
 -- Click Attachments --
+Add internal attachments for administrator reference only.
 
-You can add attachments to this invoice. Attachments are internal 
-and used for Administrator reference only.
+Below that are the Terms and Conditions.
+You can enter terms here if you send invoices directly from Job Book.
+Because we export invoices to our accounting software,
+I’ll leave this blank.
 
-Under the Invoice Details is the Terms and Conditions.
-You can add any terms and conditions to the invoice if you like.
+Next are the Totals.
+Each section — Labour, Equipment & Materials, Fixed Price —
+has its own subtotal, which updates automatically.
 
-Because we will be exporting the invoices to our accounting software 
-I will not bother filling this out. 
-
-Next you have the Totals.
-Each of the Labour, Equipment and Materials, and Fixed price tabs 
-have a subtotal. 
-The subtotal updates as you make changes.
-
-If the job was set to fixed price, the Total section can be edited. 
-Otherwise, it automatically calculates the total invoice amount.
-
-After the Total you have the Representative Signature. 
-This is where the Project Manager or Administrator 
-sign off on the invoice before it can move forward.
-Signing off on the invoice means that the invoice has been reviewed 
-and that all charges have been accounted for.
+Below Totals is the Representative Signature.
+This is where the Project Manager or Administrator signs off,
+confirming the invoice has been reviewed
+and all charges are accurate.
 
 Click Add My Signature.
 -- Click Add My Signature --
 
-Assuming you've setup your employee and employee signature in Job Book, 
-your signature will be added to the invoice 
-and your name will be used as the Representative.
+If your employee signature is set up in Job Book,
+your name and signature are inserted automatically.
 
-Click the Save button to save the Invoice and let's go back to the 
-Invoice Management section to see what happens. 
+Click Save to finalize,
+then Back to return to the Invoice Management section.
 -- Click Save --
 -- Click Back --
 
-Notice the invoice is no longer in the PM Queue tab.
-If the invoice type is Ticket slash Invoice it advances to the Ticket Queue.
-Otherwise it moves straight to the Admin Queue for processing.
+Notice the invoice is gone from the PM Queue.
+If the job was set to Ticket / Invoice,
+it advances to the Ticket Queue;
+otherwise, it moves directly to the Admin Queue.
 
-If you click on the Admin Queue tab you will see it listed.
+Let’s open it from the Admin Queue.
 -- Click Admin Queue --
 
-The admin Queue is the last stop before the invoice is ready for export.
-Let's review this invoice again.
+The Admin Queue is the final stop before export.
 -- Open Invoice --
 
-You’ll notice the blue bar has changed. 
-It now says:
-"This invoice is in the Admin Queue 
-and needs the Proessed checkbox to be checked for the invoice to be Processed."
+The blue bar now says:
+“This invoice is in the Admin Queue 
+and needs the Proessed checkbox to be checked for the invoice to be Processed.”
 
-What you do at this point really depends on the way your company processes invoices.
-You might email the customer the PDF invoice,
-You might import the invoice to your accounting system 
-Or you might do something else. 
-Either way once you have processed the invoice 
-you can Edit the invoice and check off Processed.
--- Scroll to bottom --
-
-I'll pretend that this invoice was just processed.
+What happens next depends on your company’s workflow.
+You might email the PDF to the client,
+or export it to your accounting system.
+Either way, once processed, edit the invoice and check Processed.
 -- Edit Invoice and Check Processed --
 
-If your process is to import invoices from Job Book to your accounting system 
-you can record the accounting reference number below the Processed checkbox.
-This is handy later on if you ever want to 
-compare the accounting invoice to the Job Book invoice.
+If your process includes importing invoices into accounting,
+record the accounting reference number below.
+That helps link the accounting invoice back to Job Book.
 -- Click Save --
 
-Let's see what the Invoice Display screen looks like now. 
+Back in the Invoice List,
 -- Click Back --
-
-Notice the invoice is no longer in the Admin Queue tab.
-It moved to the Processed tab.
-If you click on the Processed tab you will see it listed there.
+notice it’s no longer in the Admin Queue.
+It’s now in the Processed tab.
 -- Click Processed tab --
 
-Note if you make a mistake at any point 
-you can always simply Edit the Invoice 
-and uncheck Processed checkbox 
-and the Invoice will move back from the 
-Processed tab to the Admin Queue. 
+If you ever need to reverse this,
+simply edit the invoice, uncheck Processed, and save —
+it will return to the Admin Queue.
 
-The Processed tab are all the invoices that have been processed.
-Let's take a closer look at this invoice again.
+Open the processed invoice again.
 -- Open Invoice --
 
-You'll notice a blue bar changed again and now says:
-This invoice is in Processed
-and needs the Paid checkbox to be checked for the invoice to be Paid.
+The blue bar now says:
+“This invoice is in Processed
+and needs the Paid checkbox to be checked for the invoice to be Paid.”
 
-What happenes to the Invoice once it reaches the Processed tab 
-is again up to the way your company manages invoices.
+What happens after processing
+depends on whether you track payments inside Job Book.
+Some companies track paid invoices here,
+others rely solely on accounting software.
 
-You can keep track of paid invoices in Job Book and your accounting system.
-Or you can leave all the invoices in the Processed tab and not track paid invoices in Job Book.
+If you choose to track them in Job Book,
+here’s how.
 
-If you decide to keep track of paid invoices in Job Book also here is how it's done.
--- Scroll to bottom --
-
-I'll pretend the customer just paid for this invoice.
 -- Edit Invoice and Check Paid --
 -- Click Save --
 
-We just set the invoice to Paid, 
-let's go Back and take a look at the Invoice Display screen.
-
-Notice the invoice is no longer in the Processed tab.
-It moved to the Paid tab.
-If you click on the Paid tab you will see it listed there.
+We just marked the invoice as Paid.
+Back in the list view,
+it’s now in the Paid tab.
 -- Click Paid tab --
 
-The Paid tab is the last stage of an Invoice.
+The Paid tab marks the final stage of an invoice.
 
-Now that we have finished the lifecycle of a time-and-materials invoice,
-let's build an invoice manually for a fixed price job.
+Now that we’ve completed the lifecycle
+of a time-and-materials invoice,
+let’s build a fixed-price invoice.
 
-To do that let's return to the dashboard.
+Return to the Dashboard.
 -- Click Navigate Home --
 
-There are multiple ways of creating an invoice in Job Book.
-One way would be to simply click the Create New button 
-in the Invoices card, and select the job to invoice.
-
-The other easier way would be to use the Active Job Dashboard. 
-Let's use the Active Job Dashboard. 
+There are two ways to create an invoice.
+You can click Create New from the Invoices card
+and select the job,
+or use the Active Job Dashboard.
+Let’s use the dashboard.
 -- Open Active Job Dashboard --
 
-Locate the Fixed Price job in the grid you'd like to invoice.
-Let’s use this Boundary Survey for eighteen hundred dollars.
-and click the Dollar icon. 
+Locate a Fixed Price job in the grid.
+Let’s use the “Boundary Survey for $1800” job.
+Click the Dollar Icon.
 -- Click Dollar Icon --
 
-We are on the Create Invoice page for that specific job. 
-Because this job is billed at a lump sum, the form starts blank. 
+We’re now on the Create Invoice page for that job.
+Because it’s fixed price, the form starts blank.
 
-If you had chosen a Time & Materials type job 
-you would be able to select from a group of DWRs 
-filtered by the job to import into the invoice.
-
-Click on the Fixed Price tab in the Innvoice Details.
+Click the Fixed Price tab in the Invoice Details
 -- Click Fixed Price --
 
 Let's add the Fixed Price line item.
-Click Add
+Click Add.
 -- Click Add --
 
-And from the Cost Item dropdown select Boundry Survey. 
-You can edit the Unit Cost and Quantity and add a Description. 
--- Set Unit Cost: $1800, Quantity: 1, Description: Boundary Survey --
+From the Cost Item dropdown select Boundary Survey.
+Set the Unit Cost to $1800, Quantity 1,
+and add a Description: “Boundary Survey.”
+-- Set Unit Cost $1800 --
+-- Quantity 1 --
+-- Description Boundary Survey --
 
-Notice everything here is the same as the previous steps we took when we created a DWR Invoice. 
+Everything here works the same as when we created
+a time-and-materials invoice earlier.
 
-Scroll to the bottom and save the invoice to push it into the workflow.
+Scroll down and Save to push it into the workflow.
 -- Click Save --
 
-Even a manually created invoice follows the same workflow: 
-PM Queue for signature, Ticket Queue if needed, 
-and finally the Admin Queue for processing.
-When the invoice is in the Admin Queue 
-it becomes available in the Invoice Process Backlog,
-where you export batches to QuickBooks, Sage, Xero, 
-or any other accounting system you work with.
+Created invoices follow the same lifecycle:
+PM Queue for signature,
+Ticket Queue if needed,
+then Admin Queue for processing.
 
-If you are interested in learning more about exporting batch invoices 
-See our next video the Invoice Process Backlog video.
-Where we'll show you how to export invoices to your accounting system.
+From the Admin Queue,
+invoices appear in the Invoice Process Backlog
+for export to QuickBooks, Sage, Xero,
+or any other accounting system.
 
-That's about all there is for creating invoices in Job Book.
+If you’d like to see that workflow,
+watch our next video — Invoice Process Backlog —
+where we show how to export invoices
+to your accounting software.
 
-Here are a few best practices before we wrap up.
+That’s everything you need to know
+about creating invoices in Job Book.
 
-If you are an administrator, check the DWR Invoice Backlog regularly 
-to ensure all approved DWRs are converted into draft invoices.
+Here are a few best practices before we wrap up:
 
-If you are a project manager, check the PM Queue regulary 
+Administrators — check the DWR Invoice Backlog regularly
+to ensure all approved DWRs become draft invoices.
+
+Project Managers — review the PM Queue frequently
 to stay on top of invoice approvals.
 
-Schedule a weekly invoice review session 
+Schedule a weekly invoice review
 to catch issues before documents go out.
 
-Let's recap what we covered today. 
-We reviewed DWR-generated invoices.
-We adjusted line items, and moved the invoice from the PM Queue to the Admin Queue 
-by signing off on the invoice. 
-We manually processed the invoice and set an invoice to paid. 
-We also covered manually creating a fixed-price invoice 
+Let’s recap what we covered today.
+We reviewed DWR-generated invoices,
+adjusted line items,
+moved invoices from PM Queue to Admin Queue,
+processed and set them to Paid,
+and created a fixed-price invoice
 using the Active Job Dashboard.
 
-In the next video we will move into the Invoice Process Backlog. You will see
-how to package invoices for QuickBooks, Sage, or any other accounting platform
+In the next video,
+we’ll explore the Invoice Process Backlog
+and show how to package invoices for QuickBooks, Sage, or any other platform
 your firm uses.
 
-Thanks for watching, and I'll see you in the next video!
-And don't forget to subscribe for more Job Book updates
+Thanks for watching,
+and I’ll see you in the next video!
+And don’t forget to subscribe for more Job Book updates
 and helpful how-to videos!
