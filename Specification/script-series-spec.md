@@ -94,7 +94,7 @@ And don’t forget to subscribe for more Job Book updates
 and helpful how-to videos!
 ```
 
-Target length: **800–1200 words** (≈3–6 minutes spoken).
+Target length: **700–1400 words** (≈2–8 minutes spoken).
 
 The narrator is a Job Book trainer demonstrating features to survey company staff, not a Land Surveyor using the system in production.
 
@@ -151,7 +151,7 @@ Begin with an action verb (“Show,” “Demonstrate,” “Walk through,” �
 9. **Expense Approval Backlog** – Reviewing and approving expenses.
 10. **DWR Invoice Backlog** – Converting approved DWRs into invoices.
 11. **Creating Invoices** – Invoice types, editing, and summaries.
-12. **Exporting Invoices** – Exporting to accounting systems (QuickBooks, Sage).
+12. **Invoice Process Backlog** – Exporting to accounting systems (QuickBooks, Sage).
 13. **Next Steps** – Series recap and links to advanced modules.
 
 ---
@@ -296,17 +296,17 @@ Example: `2.4_Creating_Jobs_Transcript.md`
 
 Use this to cross-reference dependencies between episodes:
 
-| From                | Leads To           | Connection                          |
-| ------------------- | ------------------ | ----------------------------------- |
-| Clients             | Jobs               | Jobs link to client records         |
-| Jobs                | DWRs               | DWRs connect to jobs                |
-| DWRs                | DWR Approvals      | Workflow for manager review         |
-| DWR Approvals       | Invoicing          | Approved DWRs flow into billing     |
-| Expenses            | Expense Approvals  | Workflow for administrator review   |
-| Expense Approvals   | Invoicing          | Approved Expenses flow into billing |
-| DWR Invoice Backlog | Creating Invoices  | Exporting data to accounting        |
-| Invoices            | Exporting Invoices | Exporting data to accounting        |
-| Exporting Invoices  | Next Steps         | Closeout and advanced features      |
+| From                    | Leads To           | Connection                          |
+| ----------------------- | ------------------ | ----------------------------------- |
+| Clients                 | Jobs               | Jobs link to client records         |
+| Jobs                    | DWRs               | DWRs connect to jobs                |
+| DWRs                    | DWR Approvals      | Workflow for manager review         |
+| DWR Approvals           | Invoicing          | Approved DWRs flow into billing     |
+| Expenses                | Expense Approvals  | Workflow for administrator review   |
+| Expense Approvals       | Invoicing          | Approved Expenses flow into billing |
+| DWR Invoice Backlog     | Creating Invoices  | Exporting data to accounting        |
+| Invoices                | Exporting Invoices | Exporting data to accounting        |
+| Invoice Process Backlog | Next Steps         | Closeout and advanced features      |
 
 ---
 
@@ -418,11 +418,11 @@ Use this to cross-reference dependencies between episodes:
 **Target Roles:** Administrator
 **Task:** Show how to create invoices manually or from jobs. Explain invoice type (Ticket/Invoice vs. Invoice), line item type (Detailed vs. Summarized), and editing.
 **Previous:** DWR Invoice Backlog  
-**Next:** Exporting Invoices
+**Next:** Invoice Process Backlog
 
 ---
 
-# Episode 12 – Exporting Invoices
+# Episode 12 – Invoice Process Backlog
 
 **Series:** Job Book How to Use  
 **Target Roles:** Administrator
