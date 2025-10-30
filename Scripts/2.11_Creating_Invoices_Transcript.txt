@@ -2,20 +2,20 @@ Welcome back to the Job Book How to Use Series.
 If this is your first time watching, 
 remember that each episode builds on the last.
 
-In the previous video we generated draft invoices out of the DWR Invoice
-Backlog and saw how they land in the Project Manager queue for sign off.
+In the previous video, we generated draft invoices from the DWR Invoice Backlog 
+and saw how they move into the Project Manager queue for sign-off.
 
-Today we will finish that time-and-materials draft invoice 
-and build a fixed price invoice from scratch.
+Today, we’ll finish that time-and-materials draft invoice 
+and build a fixed-price invoice from scratch.
 
-Invoices are where job tracking turns into revenue, so getting the numbers
-right protects margin, keeps clients confident, and updates the Active Job
-Dashboard with the true billing status.
+Invoices are where job tracking turns into revenue. 
+Getting the numbers right protects margins, builds client confidence, 
+and keeps the Active Job Dashboard up to date.
 
 I am logged in as an Administrator.
 
-From the main dashboard, look at the Invoices card, 
-it's the first card on the second row.
+From the main dashboard, look at the Invoices card,
+it’s the first card on the second row.
 
 Then click the Explore button.
 -- Click Explore --
@@ -24,7 +24,7 @@ This is the Invoice Management section.
 
 If you recall from watching the Creating DWRs video 
 earlier in this series.
-The inteface should look familiar but different. 
+The interface should look familiar but slightly different.
 
 At the top you’ll see seven tabs: 
 If you recall from the DWR Invoice Backlog video, 
@@ -39,8 +39,8 @@ if the Job was set to Ticket slash Invoice, or it will move to the Admin Queue.
 The Admin Queue is where the invoices are Processed, 
 once Processed the invoices move to the Processed tab.
 
-From there the last step would be setting the invoice to Paid.
-That will move it to the Paid tab.
+The last step is setting the invoice to Paid, 
+which moves it to the Paid tab.
 
 That is the lifecycle of an invoice. 
 
@@ -56,7 +56,7 @@ Finally you have the item list of invoices.
 From the item list you can see the Client name, Job Number, Project Name, 
 the Date the invoice was created, and Invoice number.
 
-Lets take a closer look at the time-and-meterials invoice we created earlier. 
+Let’s take a closer look at the time-and-materials invoice we created earlier.
 Click on the invoice.
 -- Click Invoice --
 
@@ -88,8 +88,8 @@ If expenses were created on the job you will see an Expenses table.
 If you remember from our Creating Expense video 
 we created an expense to this job and here it is. 
 
-You can add expenses to the invoice as need by adding line items to the invoice. 
-Once you've accounte for the expense you can click the expense checkbox.
+You can add expenses to the invoice as needed by adding line items. 
+Once you’ve accounted for the expense, check the expense box.
 When you save the invoice the Expense will be set to processed and will disappear
 from the expense list. 
 
@@ -109,11 +109,11 @@ it does not change the hours worked for your staff.
 That means you can for example change this from being 8 hours to 10 hours 
 and the Party Chief will not get paid an extra 2 hours.
 
-Changing values on the invoice does not effect payroll.
+Changing values on the invoice does not affect payroll.
 
 I'll scroll through these Labour Cost Items changing values as needed.
 
-Once labour is reviewed scroll up and click on the next tab.
+Once labour is reviewed, scroll up and click the next tab.
 -- Click Equipment and Materials --
 
 You can make the same modifications to equipment and materials as needed.
@@ -143,8 +143,8 @@ This will show the person making the invoice, the original Job information.
 Finally you have the Attachments tab.
 -- Click Attachments --
 
-You can add attachemnts to this invoice. Attachements are internal and are used
-for reference for Administrators
+You can add attachments to this invoice. Attachments are internal 
+and used for Administrator reference only.
 
 Under the Invoice Details is the Terms and Conditions.
 You can add any terms and conditions to the invoice if you like.
@@ -157,8 +157,8 @@ Each of the Labour, Equipment and Materials, and Fixed price tabs
 have a subtotal. 
 The subtotal updates as you make changes.
 
-If the Job was set to fixed price the Total section can be modified.
-Otherwise the Total section is the total price of the invoice. 
+If the job was set to fixed price, the Total section can be edited. 
+Otherwise, it automatically calculates the total invoice amount.
 
 After the Total you have the Representative Signature. 
 This is where the Project Manager or Administrator 
@@ -189,9 +189,10 @@ The admin Queue is the last stop before the invoice is ready for export.
 Let's review this invoice again.
 -- Open Invoice --
 
-You'll notice a blue bar changed and now says:
-This invoice is in the Admin Queue 
-and needs the Proessed checkbox to be checked for the invoice to be Processed.
+You’ll notice the blue bar has changed. 
+It now says:
+"This invoice is in the Admin Queue 
+and needs the Proessed checkbox to be checked for the invoice to be Processed."
 
 What you do at this point really depends on the way your company processes invoices.
 You might email the customer the PDF invoice,
@@ -270,7 +271,7 @@ Let's use the Active Job Dashboard.
 -- Open Active Job Dashboard --
 
 Locate the Fixed Price job in the grid you'd like to invoice.
-Let's use this boundry survey for eighteen-hundred dollars.
+Let’s use this Boundary Survey for eighteen hundred dollars.
 and click the Dollar icon. 
 -- Click Dollar Icon --
 
@@ -297,9 +298,9 @@ Notice everything here is the same as the previous steps we took when we created
 Scroll to the bottom and save the invoice to push it into the workflow.
 -- Click Save --
 
-Even a manually created invoice follows the same sequence: 
-PM Queue for signature, Ticket Queue if required, 
-then the Admin Queue for processing. 
+Even a manually created invoice follows the same workflow: 
+PM Queue for signature, Ticket Queue if needed, 
+and finally the Admin Queue for processing.
 When the invoice is in the Admin Queue 
 it becomes available in the Invoice Process Backlog,
 where you export batches to QuickBooks, Sage, Xero, 
@@ -319,16 +320,16 @@ to ensure all approved DWRs are converted into draft invoices.
 If you are a project manager, check the PM Queue regulary 
 to stay on top of invoice approvals.
 
-Schedule a weekly invoice review slot so you catch issues before documents go
-out.
+Schedule a weekly invoice review session 
+to catch issues before documents go out.
 
 Let's recap what we covered today. 
 We reviewed DWR-generated invoices.
 We adjusted line items, and moved the invoice from the PM Queue to the Admin Queue 
 by signing off on the invoice. 
 We manually processed the invoice and set an invoice to paid. 
-We also talked about manualy creating an invoice 
-and we created a fixed price invoice using the Active Job Dashboard.
+We also covered manually creating a fixed-price invoice 
+using the Active Job Dashboard.
 
 In the next video we will move into the Invoice Process Backlog. You will see
 how to package invoices for QuickBooks, Sage, or any other accounting platform
