@@ -1,22 +1,16 @@
-# Episode 12 - Invoice Process Backlog
-**Series:** Job Book How to Use  
-**Target Roles:** Administrator  
-**Task:** Export invoices and finalize Processed and Paid status.  
-**Previous:** Creating Invoices  
-**Next:** Next Steps
-
 Welcome back to the Job Book How to Use Series.
 If this is your first time watching,
 remember that each episode builds on the last.
 
 In the previous video, we created invoices
-and moved them through the Admin Queue.
+and moved them through the Invoice lifecycle.
 We finished our time and materials example,
 marked it processed,
-and set expectations for fixed price work.
+and created a fixed price invoice.
 
 Today we will work inside the Invoice Process Backlog.
-This backlog is the final checkpoint before invoices
+This backlog will allow you to batch process invoices,
+and is the final checkpoint before invoices
 leave Job Book and land in accounting.
 
 The Invoice Process Backlog protects cash flow.
@@ -32,124 +26,109 @@ From the dashboard, find the Workflow card
 near the middle of the second row.
 -- Click Invoice Process Backlog --
 
-The Invoice Process Backlog opens on the Admin tab by default.
-This tab lists every invoice that cleared the
-Project Manager review and is ready for administrator sign off.
+The Invoice Process Backlog is the 
+processing and exporting center for Job Book.
 
-Across the top you will see five tabs:
-Admin, Processed, Paid, My Forms, and All.
-Admin contains invoices that still need export or processing.
-Processed holds invoices that were exported but not paid yet.
-Paid is the archive once payments are recorded.
-My Forms filters to invoices you created.
-All is a combined view when you need to search history.
+The grid lists every invoice in the Admin Queue  
+that has not yet been set to processed. 
 
-Below the tabs is the Filter Settings panel.
-Use this area to narrow the list before you export.
--- Open Filter Settings --
+If you've watched our 
+DWR Approval Backlog video 
+or our DWR Invoice Backlog video
+earlier in this series.
+All of this will look very familiar, 
+and it behaves almost exactly the same.
 
-You can filter by Client, Job Number, Invoice Date,
-or export status.
-I like to set a date range so I only export the current week.
--- Set Date Range --
+I'll highlight the differences, otherwise see those two previous videos 
+for greater details.
 
-You can also search for a job code or client
-in the Quick Filter field above the table.
--- Type Job Number --
+At the top left, you’ll see the Export Selected Invoices button.
+The Download Selected PDFs button.
+And the Process Selected Invoices button.
+All will stay inactive until we have at least one Invoice checked.
 
-The table shows each invoice number, client, job,
-project manager, processed status, created date,
-and whether the invoice was previously exported.
+Sorting, filtering and all controls behave the same as the 
+DWR Approval Backlog and DWR Invoice Backlog.
 
-Open an invoice to review the details before export.
--- Open Invoice --
+The Invoice Table, has columns that are more accounting centric,
+verses what we saw in the DWR Approval Backlog and DWR Invoice Backlog.
 
-At the top of the invoice you will see buttons for
-Edit, Export to PDF, Export to Word, Delete, and Back.
-Because this invoice is still in the Admin tab,
-there is a blue banner reminding you to check the
-Processed box once you are done.
+The Invoice Table will show all invoices in the system 
+that are in the Admin Queue and have not yet been set to processed.
 
-Scroll down to confirm the totals, expenses,
-and signature that came forward from earlier steps.
-If you notice anything missing, click Edit
-and correct the invoice before you export it.
+The familiar blue triangle on the left side of the table,
+expands the invoice to show more details.
 
-Once the review is complete, return to the backlog list.
--- Click Back --
+Notice the information on the expanded invoice is 
+again more accounting centric.
 
 To prepare a batch export, select the invoices
 you want to send to accounting.
 -- Check Invoice Checkbox --
 
 When you select at least one invoice, the
-Export Selected Invoices button lights up
-at the top right of the screen.
+Export Selected Invoices button,
+the Download Selected PDFs and
+the Process Selected Invoices activate.
+
+When you click the Export Selected Invoices button,
+Job Book compiles the file and downloads it in your browser.
+Only the invoices selected will be exported. 
 -- Click Export Selected Invoices --
 
-A modal appears with file format options.
-Choose the template that matches your accounting platform:
-QuickBooks Desktop, QuickBooks Online, Sage 50, Sage 300,
-or the CSV option for other systems.
--- Choose QuickBooks Desktop --
+You can use that exported file to 
+import invoices into your accounting system.
+Job book can export invoices in various formats
+such as: QuickBooks Desktop, QuickBooks Online, 
+Sage 50, Sage 300, or the CSV option for other systems.
 
-If your firm uses custom naming conventions,
-enter a file name prefix to keep exports organized.
-You can also add an internal note so team members know
-why this file was generated.
--- Enter File Name Prefix --
+We have videos showing you have to import Job Book files
+to the various accounting platforms. 
+Links to those videos in the description below. 
 
-Before you export, confirm the Include Already Exported Invoices
-toggle is off. That prevents duplicates from landing
-in the import queue.
+Besides exporting invoices for import into your accounting system.
+Job Book also has a way of bulk exporting the PDF invoices. 
+To do this, select the invoices you want to export,
+and then Click the Download Selected PDFs button.
+-- Click Download Selected PDFs --
 
-When everything looks good, continue with the export.
--- Click Export --
+You will then download a zip file containing 
+all the selected invoices in pdf format.
 
-Job Book compiles the file and downloads it in your browser.
-Save it to the shared accounting folder or whichever location
-your team uses for import files.
+After you have exported the invoices 
+and imported them to your accounting system 
+you can bulk set those invoices to be processed. 
 
-If you ever need to re-export a past invoice,
-turn on Include Already Exported Invoices,
-select the records, and export the batch again.
-Let accounting know so they do not import the set twice.
+You can do that by clicking on the Process Selected Invoices button. 
+-- Click Process Selected Invoices --
 
-After the download finishes, record the accounting
-reference number if you have one.
-You can do this inside the invoice record.
--- Open Invoice --
--- Click Edit --
+You’ll see a confirmation pop-up showing the number of Invoices you’re about to process. 
+Click OK.
+-- Click OK --
 
-In the Accounting Reference field, type the identifier
-from QuickBooks or Sage.
--- Enter Accounting Reference --
+The selected Invoices have now been processed. 
+You’ll notice they disappear from the backlog immediately. 
+Processing Invoices means you have checked off the processed checkbox on the invoice. 
+It's just like we manually did in the Creating Invoices video in this series, 
+except here in the Invoice Process Backlog you can process invoices in bulk. 
 
-Now check the Processed box to tell Job Book
-this invoice has left the building.
--- Check Processed --
+If you made a mistake, you have two options. 
+The easiest and quickest is to click the 
+Undo Last Process Batch button on the top right of the screen. 
+-- Click Undo Last Process Batch button --
 
-Click Save to update the record.
--- Click Save --
+You’ll see a confirmation pop-up showing the number of Invoices you’re about to unprocess. 
+Click OK.
+-- Click OK --
 
-Return to the backlog list and you will notice
-that invoice is no longer in the Admin tab.
--- Click Back --
+You should see all the Invoices return to your backlog.
 
-Switch to the Processed tab to see it there.
--- Click Processed tab --
-
-Processed invoices are waiting for confirmation
-that payment was received.
-When the payment arrives, open the invoice again
-and mark it Paid.
--- Open Invoice --
--- Click Edit --
--- Check Paid --
--- Click Save --
-
-Once paid, the invoice moves from Processed to the Paid tab,
-keeping your history clear and auditable.
+If you ever need to unprocess an invoice 
+and the Undo Last Process Batch is inactive, 
+you’ll need to locate the processed invoice manually 
+and uncheck the Processed checkbox.
+See the Creatung Invoices video 
+earlier in this series for details on how to do that. 
 
 Let us talk about how this backlog integrates
 with the rest of Job Book.
@@ -167,11 +146,6 @@ Clear the Admin tab on a routine schedule
 so accounting receives predictable batches.
 Before exporting, spot check that Representative Signatures
 are present and that expenses are marked processed.
-Store exported files in a shared location with a
-consistent naming convention such as YYYYMMDD_Client_Batch.
-If you process both QuickBooks and Sage exports,
-keep a simple log noting what went out and
-who imported each batch.
 When you need to correct something, uncheck Processed
 and the invoice will return to the Admin tab for revision.
 
@@ -182,16 +156,20 @@ that Job Book generated.
 Confirm the totals after import so any issues
 can be corrected before the next export cycle.
 
-Now open your accounting system. 
-Each system has its own import process, but generally you’ll go to File → Import, or a similar menu, and select the file you exported from Job Book.
+Once imported record the accounting reference number if you have one. 
+You can do this inside the invoice record in Job Book.
+In the Accounting Reference field, type the identifier
+from your accoutning system.
+That way you'll be able to reference invoices in Job Book,
+with the invoices in your accounting system. 
 
 Once imported, the invoices from Job Book will appear in your accounting system as if they had been created there directly. 
 This means your clients, amounts, and line items will all carry over.
 
 Why is this process important?
-- It eliminates double entry, saving time and reducing errors.  
-- It ensures your accounting system has the most accurate and up-to-date records.  
-- It keeps your invoicing process seamless from field work all the way through to accounting.  
+It eliminates double entry, saving time and reducing errors.  
+It ensures your accounting system has the most accurate and up-to-date records.  
+It keeps your invoicing process seamless from field work all the way through to accounting.  
 
 
 In the next video, we will step back
