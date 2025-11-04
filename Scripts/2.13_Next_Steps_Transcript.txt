@@ -1,61 +1,132 @@
-# Episode 13 – Next Steps
-**Series:** Job Book How to Use
-**Target Roles:** All staff
-**Task:** Summarize what’s been covered in the series, reinforce confidence with daily workflows, and point viewers to advanced learning paths including the Reporting Guide, Tasks, Leave, Assets, and Safety modules.
-**Previous:** Exporting Invoices
-**Next:** Job Book Advanced Reporting Series
+# Episode 13 - Next Steps
+**Series:** Job Book How to Use  
+**Target Roles:** All staff  
+**Task:** Summarize core workflows, reinforce daily best practices, and guide  
+viewers toward the Reporting Guide plus advanced modules (Tasks, Leave, Assets, Safety).  
+**Length:** 957 words  
+**Previous:** Exporting Invoices  
+**Next:** Job Book Advanced Reporting Series  
+**Tags:** All Roles, Summary, Reporting, Advanced Modules  
 
 Welcome back to the Job Book How to Use Series.
 If this is your first time watching,
 remember that each episode builds on the last.
 
-In the last video we exported invoices through the Invoice Process Backlog so your accounting system stays synchronized with Job Book billing.
+In the last video we exported invoices through the Invoice Process Backlog
+so your accounting system stays synchronized with Job Book billing.
 
-Today I’m closing out the series by reviewing the full lifecycle we have covered, showing you how to keep those workflows active, and pointing you to the best next steps once you are comfortable with the day to day rhythm.
+Today I'm closing out the series by reviewing the full lifecycle we covered,
+showing you how to keep those workflows active,
+and pointing you to the best next steps once you are comfortable with the
+day to day rhythm.
 
-This episode matters because Job Book stays reliable only when every role keeps information flowing. When technicians, coordinators, project managers, and administrators all follow the routines we practiced, your jobs stay profitable and your reporting stays trustworthy.
+Job Book stays reliable only when every role keeps information moving.
+When technicians, coordinators, project managers, and administrators stay on
+schedule, your jobs stay profitable and your reporting stays trustworthy.
 
-Let me show you how to keep that momentum going. Start by anchoring your teams with the same launch pad you saw throughout the series.
+I'm logged in as an Administrator so I can see each workflow queue and make
+sure you know where to focus first.
+
+Anchor your teams with the dashboard that opened every episode in this series.
 -- Open Dashboard --
-The Dashboard cards tell each role what deserves attention first thing in the morning. Administrators can jump straight into Workflow queues, project managers can dive into Active Jobs, and technicians can reach their DWRs and expenses without searching the menu.
+The Dashboard cards tell each role what deserves attention at the start of the
+day.
+Administrators can jump into Workflow queues.
+Project managers can dive into Active Jobs.
+Technicians can reach Daily Work Records and expenses without hunting through
+menus.
 
-We built your client and job lists early on for a reason. Keep those lists accurate so downstream steps stay smooth.
+We built your client and job lists early on for a reason.
 -- Open Clients --
-Scan the client list every week for inactive accounts you can archive and contact records that need updating.
+Review the client list every week for inactive accounts you can archive and
+contact records that need an update.
 -- Open Jobs --
-On the Jobs list, filter by Active status and due dates to make sure every project has a current project manager, the right billing type, and valid rate sheets. A quick review prevents surprises later when a DWR or expense arrives against the wrong job.
+Filter the job list by active status and due dates to make sure every project
+has the right project manager, billing type, and rate sheet before new records
+arrive.
 
-Daily Work Records and expenses keep the operational engine running. Remind your technicians that accurate submissions give you real time visibility.
+Daily Work Records and expenses keep the operational engine running.
+Remind technicians that accurate submissions give you real time visibility.
 -- Open Workflow Card --
 -- Click Daily Work Records Backlog --
-If the backlog starts to build, use the filters and grouping tools to triage by crew, client, or job priority. Approving on schedule keeps labour ready for invoicing.
+If the backlog starts to build, use filters and grouping to triage by crew,
+client, or priority job.
+Approving on schedule keeps labour ready for invoicing.
 -- Click Expense Approval Backlog --
-Do the same for expenses. Look for missing attachments, confirm job numbers, and set processed statuses once reimbursements are handled.
+Give expenses the same attention.
+Look for missing attachments, confirm job numbers, and set processed statuses
+after reimbursements are handled.
 
-For project managers, the Active Job Dashboard remains the best control room.
+Project managers should live in the Active Job Dashboard for real time status.
 -- Click Active Job Dashboard --
-Monitor labour, expenses, and budgets, then drill into the job record when actuals drift from the plan. This view converts the raw data from DWRs and expenses into insight, so keep it bookmarked.
+Watch labour, expenses, and budgets.
+Drill into a job whenever actuals drift from the plan.
+This view converts Daily Work Records and expenses into insight, so keep it
+bookmarked.
 
-When it is time to bill, follow the pipeline we built together. Approved DWRs move to the DWR Invoice Backlog for time and materials jobs, and expenses approved against billable jobs appear alongside them. Fixed fee jobs rely on your job setup, so keep milestone line items and billing schedules current. From there, invoice creation, approval, and export complete the financial cycle.
+When it is time to bill, follow the pipeline we built together.
+Approved Daily Work Records flow into the DWR Invoice Backlog for time and
+materials jobs.
+Approved expenses appear beside them for billable work.
+Fixed fee jobs rely on accurate job setup, so keep milestone line items and
+billing schedules current.
+From there, invoice creation, approval, and export close the financial loop.
 -- Click DWR Invoice Backlog --
 -- Click Create Invoice --
 -- Click Invoice Process Backlog --
-Staying in this sequence prevents missed revenue and keeps accounting reconciliations painless.
+Staying in this sequence prevents missed revenue and keeps reconciliations
+painless.
 
-Integration across the platform is what makes Job Book powerful. Clients and jobs give structure to every transaction. DWRs and expenses capture day to day execution. Approvals transform field data into billable output. Invoices and exports deliver accurate revenue to your accounting software. Reporting, which we will explore next, pulls from every one of those touchpoints. If any stage falls behind, the entire flow feels the impact. Keep that big picture in mind while you manage each queue.
+Every stage connects to the next.
+Clients and jobs give structure to each transaction.
+Daily Work Records and expenses capture day to day execution.
+Approvals turn field data into billable output.
+Invoices and exports deliver accurate revenue to accounting.
+Reporting, which we cover next, pulls from each touchpoint.
+If any stage falls behind, the whole flow feels the impact.
 
-Here are a few best practices to make this routine second nature. Build team checklists that mirror the series: new client intake, job setup, daily submissions, backlog approvals, invoicing, and exports. Hold quick stand up meetings where each role confirms their queues are clear. Use saved filters and views so staff can focus on what matters most when they log in. Document your approval thresholds, so technicians know when to attach supporting files and administrators know when to request clarifications rather than pushing a record through.
+Let me share a few best practices to make the routine second nature.
+Build checklists that mirror this series: client intake, job setup, daily
+submissions, backlog approvals, invoicing, and exports.
+Hold short stand ups so every role can confirm their queues are clear.
+Use saved filters and views to keep each person focused on their top priorities.
+Document approval thresholds so technicians know when to attach supporting
+files and administrators know when to pause a submission.
 
-Now that you have the core skills, let’s talk about where to go next. The Job Book Reporting Guide Series shows you how to turn all this accurate data into insight. You will learn to build dashboards for utilization, backlog aging, profitability, and forecasting. Beyond reporting, the platform includes additional modules that extend your workflows. Tasks give you granular to do tracking across teams. Leave keeps vacation and sick time organized without spreadsheets. Assets and Safety help you manage fleet maintenance, inspections, and compliance. Each of these modules uses the same principles you mastered here: clean setup, disciplined data entry, timely approvals, and consistent monitoring.
+Now that the core skills feel familiar, look at what comes next.
+The Job Book Reporting Guide Series teaches you how to build dashboards for
+utilization, backlog aging, profitability, and forecasting.
+Beyond reporting, Job Book includes modules that extend your workflows.
+Tasks give you detailed team to do tracking.
+Leave keeps vacation and sick time organized without spreadsheets.
+Assets and Safety help you manage fleet maintenance, inspections, and
+compliance.
+Each module follows the same principles you practiced here: clean setup,
+disciplined data entry, timely approvals, and consistent monitoring.
 
-Before we wrap up, take a moment to reflect on the achievements from this series. You can create and manage clients with complete records. You can build jobs that reflect billing reality. You can capture labour and expenses in the field, approve them without losing accuracy, track job performance in real time, invoice confidently, and synchronize with your accounting system. Those are the daily habits that keep projects on schedule and budgets on target.
+Take a moment to celebrate what you have accomplished through this series.
+You can build clients with complete records.
+You can create jobs that reflect how billing truly works.
+You can capture labour and expenses in the field and approve them without
+losing accuracy.
+You can track performance in real time, invoice with confidence, and sync with
+accounting.
+Those habits keep projects on schedule and budgets on target.
 
-As you continue, consider hosting refresher sessions with your team. Rewatch the episodes that match each role’s responsibilities. Encourage staff to practice while logged into the Job Book demo or training environment. The more often they follow the workflows, the faster the processes become.
+As you continue, schedule refresher sessions with your team.
+Replay the episodes that match each role's responsibilities.
+Encourage staff to practice in a training environment while the steps are
+fresh.
+Repetition turns every workflow into a fast, reliable routine.
 
-In the next training arc we will focus on reporting, so you can turn all this operational data into insights for leadership, clients, and continuous improvement.
+In the next training arc we turn to reporting so you can translate operational
+data into insight for leadership, clients, and continuous improvement.
 
-You now have the complete toolkit to manage daily work in Job Book with confidence. Keep the momentum going by reviewing your queues regularly, communicating with your teams, and exploring the advanced modules that align with your goals.
+You now have the complete toolkit to manage daily work in Job Book with
+confidence.
+Keep the momentum by reviewing your queues regularly, communicating with your
+teams, and exploring the advanced modules that support your goals.
 
-Thanks for watching, and I’ll see you in the next video!
-And don’t forget to subscribe for more Job Book updates
+Thanks for watching, and I'll see you in the next video!
+And don't forget to subscribe for more Job Book updates
 and helpful how-to videos!
