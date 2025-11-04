@@ -136,8 +136,7 @@ Here are a few best practices to keep things running smoothly:
 Clear the Admin Queue on a regular schedule
 so accounting receives predictable batches.
 
-Before exporting, spot-check that Representative Signatures are present
-and that expenses are marked processed.
+Before exporting, spot-check that expenses are marked processed.
 
 If you need to make a correction,
 uncheck Processed and the invoice returns to the Admin Queue.
