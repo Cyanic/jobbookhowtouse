@@ -2,104 +2,104 @@ Welcome back to the Job Book How to Use Series.
 If this is your first time watching,
 remember that each episode builds on the last.
 
-In the last video we exported invoices through the 
-Invoice Process Backlog so your accounting system 
-stays synchronized with Job Book billing.
+In the last video,
+we exported invoices through the Invoice Process Backlog
+so your accounting system stays synchronized with Job Book billing.
 
-Today I'm closing out the series by reviewing 
-what we covered in this How to Use Job Book series. 
-Talk about what comes next 
-and highlight some advanced features of Job Book.
+Today, we’re closing out the series.
+We’ll review what we’ve covered,
+talk about what comes next,
+and highlight a few advanced Job Book features.
 
 By now, you’ve learned how to:
-Create clients and jobs.  
-Record Daily Work Records and expenses.  
-Use the Active Job Dashboard to monitor progress.  
-Approve DWRs, expenses, and invoices through the backlog system.  
-Create and send invoices.  
-Import invoices into your accounting system.  
+Create clients and jobs.
+Record Daily Work Records and expenses.
+Use the Active Job Dashboard to monitor progress.
+Approve DWRs, expenses, and invoices through the backlog system.
+Create and send invoices.
+Import them into your accounting system.
 
-With these skills, 
-you can handle the entire lifecycle 
-of a job in Job Book, 
+With these skills,
+you can manage the full lifecycle of a job in Job Book—
 from setup to invoicing.
 
-Job Book stays reliable when every role 
-keeps information moving.
-When technicians, coordinators, 
-project managers, and administrators 
-stay on schedule, your jobs stay profitable 
-and your reporting stays trustworthy.
+Job Book stays reliable when everyone keeps information moving.
+When technicians, coordinators, project managers, and administrators
+stay on schedule, jobs stay profitable
+and reporting stays trustworthy.
 
-Daily Work Records and expenses 
-keep the operational engine running.
-Remind technicians that timely and accurate submissions 
-give you real time visibility.
+Daily Work Records and expenses keep the operational engine running.
+Remind technicians that timely and accurate submissions
+give you real-time visibility.
 
-Project managers should live in the 
-Active Job Dashboard for real time status.
+Project Managers should live in the Active Job Dashboard
+for real-time status.
 
-Watch labour, expenses, and budgets.
+Watch labour, expenses, and budgets closely.
 Drill into a job whenever actuals drift from the plan.
-This view converts Daily Work Records 
-and expenses into insight, so keep it bookmarked.
+The dashboard converts Daily Work Records and expenses into insight—
+so keep it bookmarked.
 
-When it is time to bill, 
-follow the pipeline we built together.
+When it’s time to bill,
+follow the pipeline we’ve built together.
 
-Approved Daily Work Records flow into the 
-DWR Invoice Backlog for time and materials jobs.
+Approved Daily Work Records flow into the DWR Invoice Backlog
+for Time and Materials jobs.
 
-Approved expenses appear beside them for billable work.
-Fixed fee jobs rely on accurate job setup, 
-so keep milestone line items and billing schedules current.
-From there, invoice creation, approval, 
-and export close the financial loop.
+Approved expenses appear alongside them for billable work.
+Fixed-fee jobs depend on accurate setup—
+keep milestone line items and billing schedules current.
 
-Staying in this sequence prevents missed revenue and keeps reconciliations
-painless.
+From there, invoice creation, approval, and export
+close the financial loop.
+
+Staying in sequence prevents missed revenue
+and keeps reconciliations painless.
 
 Every stage connects to the next.
-Clients and jobs give structure to each transaction.
-Daily Work Records and expenses capture day to day execution.
+Clients and Jobs give structure to each transaction.
+Daily Work Records and Expenses capture daily execution.
 Approvals turn field data into billable output.
-Invoices and exports deliver accurate revenue to accounting.
+Invoices and Exports deliver accurate revenue to accounting.
 
-Now that the core skills feel familiar, look at what comes next.
-The Job Book Reporting Guide Series teaches you about the various reports in the system.
+Now that the core skills feel familiar, let’s look at what comes next.
+
+The Job Book Reporting Guide Series 
+shows how to use the built-in reports
+to turn daily activity into insight.
 
 Beyond reporting, Job Book includes modules that extend your workflows.
 
-The Tasks and Scheduling module give you detailed team to do tracking.
+The Tasks and Scheduling module adds detailed team task tracking
+and drag-and-drop scheduling.
 
-The Leave module keeps vacation and sick time organized without spreadsheets.
+The Leave module keeps vacation and sick time organized—no spreadsheets needed.
 
-The Assets and Safety modules help you manage fleet maintenance, inspections, and
-compliance.
+The Assets and Safety modules manage fleet maintenance, inspections,
+and compliance records.
 
-Each module follows the same principles you practiced here: clean setup,
-disciplined data entry, timely approvals, and consistent monitoring.
+Each module follows the same principles you’ve practiced here—
+clean setup, disciplined data entry, timely approvals, and consistent monitoring.
 
-In the next training arc we turn to reporting so you can translate operational
-data into insight for leadership, clients, and continuous improvement.
+In the next training arc, we’ll turn to reporting so you can translate operational data
+into insight for leadership, clients, and continuous improvement.
 
-You now have the complete toolkit to manage daily work in Job Book with
-confidence.
-Keep the momentum by reviewing your queues regularly, communicating with your
-teams, and exploring the advanced modules that support your goals.
+You now have the complete toolkit to manage daily work in Job Book with confidence.
+Keep the momentum by reviewing your queues regularly, communicating with your teams,
+and exploring the advanced modules that support your goals.
 
-If you're interested in, in-depth reporting, 
+If you’re interested in in-depth reporting,
 check out our Job Book Reporting Guide Series.
-If you're interested in, integration with 
-third-party accounting systems and payroll systems,
-check out our Job Book Integration Guide Series. 
+
+If you’d like to integrate with accounting or payroll systems,
+watch our Job Book Integration Guide Series.
 
 For setup and configuration, jump back to the Job Book Setup Guide Series.
-Documentation is always available at getjobbook.com slash help.  
-And if you ever get stuck, our support team is only a phone call or email away. 
+Documentation is always available at getjobbook.com slash help.
+And if you ever get stuck, our support team is only a phone call or email away.
 
 That wraps up the Job Book How to Use Series.
 
-Thanks for watching, and I'll see you in the next series!
-And don't forget to subscribe for more Job Book updates
+Thanks for watching, and I’ll see you in the next series!
+and don’t forget to subscribe for more Job Book updates
 and helpful how-to videos!
