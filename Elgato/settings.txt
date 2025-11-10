@@ -1,0 +1,8 @@
+Brightness = 100%
+Contrast = 50%
+Font = Arial
+Font Size = 20
+Horizaontal Margin = 80%
+Vertical Margin = 40%
+Line Spacing = 100%
+Scroll Speed = 29%
