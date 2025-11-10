@@ -1,6 +1,20 @@
 {
     "GUID": "79DEB8E0-6A08-4F04-B587-48DB0DABFAE7",
-    "chapters": [],
+    "chapters": [
+        "Welcome to the Job Book How to Use Series.",
+        "In this series, I\u2019ll show you step by step how to use Cyanic Job Book in your day-to-day operations.",
+        "This series is for staff who use Job Book in their daily work.",
+        "Job Book is a project management and job costing system designed for engineering and land surveying companies, but can be used by any field service company.",
+        "In this How to Use Series, we will build on what we did previously in the Job Book Setup Series.",
+        "We\u2019ll be using Offices, Line Items, Rate Sheets, and Employees that were set up in the previous series. \nMake sure you\u2019ve completed the Setup Series before starting here.",
+        "This How to Use Series focuses on the core daily workflows, including:\nCreating Clients and Jobs.\nRecording Daily Work Records, DWRs.\nSubmitting expenses for reimbursement.\nMonitoring progress with the Active Job Dashboard.\nApproving DWRs and expenses through the backlog process.\nConverting DWRs into invoices, or creating invoices from scratch.\nImporting invoices into your accounting system",
+        "Each video is short and focused. You can watch the entire series to learn the full lifecycle of a job, or jump into the video you need when learning a specific task.",
+        "By the end of this series, you\u2019ll be confident managing your daily work in Job Book, no matter your role.",
+        "For advanced reporting features, watch our Job Book Reporting Guide Series. \nYou\u2019ll find the link in the description below.",
+        "In the next video, we\u2019ll cover navigation and the Job Book dashboard, so you\u2019ll always know where to find what you need.",
+        "In future videos, we\u2019ll dive into creating clients, setting up jobs, recording DWRs, and much more.",
+        "Thanks for watching, and let\u2019s get started."
+    ],
     "friendlyName": "2.1",
     "index": 9
 }
