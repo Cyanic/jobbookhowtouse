@@ -1,0 +1,37 @@
+Chunking Rules for Elgato JSON Scripts
+======================================
+
+Purpose
+-------
+These notes describe how each `chapters` entry inside the Elgato JSON files should be formatted so the scripts match the teleprompter style used in Episodes 2.1 through 2.3.
+
+Rules
+-----
+1. Short Clauses per Line
+   - Break narration into short clauses (roughly one phrase per line).
+   - Avoid paragraphs longer than three or four short lines inside a single JSON string.
+   - Wrap narration so each line is no longer than 24 characters, re-breaking sentences as needed while keeping clauses readable.
+
+2. Blank Line Pauses
+   - Use blank lines (`\n\n`) inside a chapter string to signal a natural pause or topic shift.
+   - Start the chapter with blank lines only when the spoken script intentionally pauses before the first words.
+
+3. Isolate Action Cues
+   - Keep on screen directions such as `-- Click Create New --`, `-- Click Save --`, and divider lines (`-----`, `--------`) on their own lines.
+   - Surround cues with blank lines so they stand out from narration.
+
+4. Preserve Single Thought per Chapter Entry
+   - Each JSON string represents one narrative beat (for example a short explanation, a transition, or an instruction set).
+   - Do not merge unrelated ideas into the same string, and do not split a single sentence across multiple chapter entries.
+
+5. Normalize Whitespace
+   - Replace tabs with spaces and collapse repeated spaces inside sentences.
+   - Keep ASCII text only; replace typographic dashes with double hyphen (`--`) if needed.
+
+6. Respect Teleprompter Pacing
+   - Maintain the existing order of lines and pauses from the approved episodes.
+   - When reflowing text, prioritize readability out loud: one idea per line, intentional pauses, and clear separation before or after cues.
+
+7. Mirror Original Script Breaks
+   - Use `Elgato/friendly_names.txt` to match each JSON file with its source transcript in `Scripts/`.
+   - Treat the line breaks in the original script as the authoritative guide for where pauses should occur when recreating the chunked narration.
