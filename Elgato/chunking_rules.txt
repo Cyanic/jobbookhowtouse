@@ -8,9 +8,9 @@ These notes describe how each `chapters` entry inside the Elgato JSON files shou
 Rules
 -----
 1. Short Clauses per Line
-   - Break narration into short clauses (roughly one phrase per line).
-   - Avoid paragraphs longer than three or four short lines inside a single JSON string.
-   - Wrap narration so each line is no longer than 24 characters, re-breaking sentences as needed while keeping clauses readable.
+   - Break narration at natural clause boundaries so each line feels like a single spoken thought.
+   - Encourage short, readable clauses—avoid paragraphs longer than three or four short lines inside a single JSON string.
+   - Keep narration lines at or below 26 characters; re-break sentences as needed to stay under that limit while preserving meaning.
 
 2. Break After Commas
    - When a clause ends with a comma, insert a line break right after the comma so each clause sits on its own line.
@@ -30,7 +30,7 @@ Rules
 
 6. Normalize Whitespace
    - Replace tabs with spaces and collapse repeated spaces inside sentences.
-   - Keep ASCII text only; replace typographic dashes with double hyphen (`--`) if needed.
+   - Keep ASCII text unless the approved transcript uses a specific Unicode mark (for example curly apostrophes); preserve those marks while replacing typographic dashes with double hyphen (`--`) if needed.
 
 7. Respect Teleprompter Pacing
    - Maintain the existing order of lines and pauses from the approved episodes.
