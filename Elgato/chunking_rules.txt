@@ -10,7 +10,7 @@ Rules
 1. Short Clauses per Line
    - Break narration at natural clause boundaries so each line feels like a single spoken thought whenever possible.
    - Encourage short, readable clauses—avoid paragraphs longer than three or four short lines inside a single JSON string.
-   - Keep narration lines at or below 26 characters; re-break sentences as needed to stay under that limit while preserving meaning, even if that means splitting a clause mid-phrase as long as the next line immediately completes the thought.
+   - Keep narration lines at or below 27 characters; re-break sentences as needed to stay under that limit while preserving meaning, even if that means splitting a clause mid-phrase as long as the next line immediately completes the thought.
    - Keep quoted UI labels, job names, or phrases inside the quotation marks on a single line; place sentence punctuation outside the closing quote unless that punctuation is part of the quoted text itself.
 
 2. Break After Commas
