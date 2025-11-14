@@ -8,9 +8,10 @@ These notes describe how each `chapters` entry inside the Elgato JSON files shou
 Rules
 -----
 1. Short Clauses per Line
-   - Break narration at natural clause boundaries so each line feels like a single spoken thought.
+   - Break narration at natural clause boundaries so each line feels like a single spoken thought whenever possible.
    - Encourage short, readable clauses—avoid paragraphs longer than three or four short lines inside a single JSON string.
-   - Keep narration lines at or below 26 characters; re-break sentences as needed to stay under that limit while preserving meaning.
+   - Keep narration lines at or below 26 characters; re-break sentences as needed to stay under that limit while preserving meaning, even if that means splitting a clause mid-phrase as long as the next line immediately completes the thought.
+   - Keep quoted UI labels, job names, or phrases inside the quotation marks on a single line; place sentence punctuation outside the closing quote unless that punctuation is part of the quoted text itself.
 
 2. Break After Commas
    - When a clause ends with a comma, insert a line break right after the comma so each clause sits on its own line.
@@ -18,11 +19,12 @@ Rules
 
 3. Blank Line Pauses
    - Use blank lines (`\n\n`) inside a chapter string to signal a natural pause or topic shift.
+   - Add single blank lines between consecutive sentences or instructions when you need a short breather but want to stay inside the same chapter entry.
    - Start the chapter with blank lines only when the spoken script intentionally pauses before the first words.
 
 4. Isolate Action Cues
    - Keep on screen directions such as `-- Click Create New --`, `-- Click Save --`, and divider lines (`-----`, `--------`) on their own lines.
-   - Surround cues with blank lines so they stand out from narration.
+   - Always insert a blank line before a cue. Add a blank line after it only when additional narration continues; the trailing blank line is optional when the cue ends the chapter entry.
 
 5. Preserve Single Thought per Chapter Entry
    - Each JSON string represents one narrative beat (for example a short explanation, a transition, or an instruction set).
